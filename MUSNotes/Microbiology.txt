@@ -1601,8 +1601,41 @@ Treatment:
                 -Amphotericin B 
 
 Aspergillus
+->Septate hyphae that branch at 45 degrees 
+Risk factors :
+        -Immunosuppression(HIV/Chemotherapy) or neutropenia can facilitate angioinvasive aspergillosis
+Clinical features :
+        -Alergic Bronchopulmonary Aspergillosis:
+                ->Ashmatic symptoms 
+                ->Productive cough with brown bronchial mucous casts
+        -Invasive Aspergillosis
+                ->Dry cough
+                ->In severe cases can lead to hemoptysis and pleuritic chest pain 
+                ->May disseminate, leading to CNS infection and Aspergillus endocarditis 
+Diagnostics : 
+        -Alergic Bronchopulmonary Aspergillosis:
+                Lab tests:
+                        ->Increased IgE levels
+                        ->Eosinophilia
+                X-Ray:
+                        ->Bronchiectasis in chest x-ray
+        Invasive Aspergillosis
+                Lab tests :
+                        ->Positive galactomannan antigen test
+                X-Ray :
+                        ->Mutliple nodules in chest x-ray 
+                MRI : 
+                        ->Perform if CNS infection is suspected 
+                        ->Commonly shows abscess formation 
+Treatment : 
+        -Alergic Bronchopulmonary Aspergillosis:
+                ->Oral glucocorticoids 
+                ->Itraconazole
+        Invasive Aspergillosis:
+                ->IV voriconazole 
+                ->IV amphotericin for severe cases 
 
-                
+
 
 
 
