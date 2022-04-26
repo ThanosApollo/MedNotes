@@ -1,0 +1,1608 @@
+32. Staphylococcus
+                   
+   Classification :
+                        Family : Microccaceae
+                   Genus : Micrococcus and Staphylococcus
+        Species :
+                  Common species include :
+                            -S. Aureus
+                            -S. Saprophyticus
+                            -S. S.epidermidis
+        Characteristics of genera Staphylococcus :
+                    -Spherical Cocci, grow in cluster of grapes
+                    -absence of endospores
+                    -nonmotile
+                    -facultative anaerobic
+                    -Gram-positive
+                    -Catalase-Positive
+                    -Present on skin and mucous membranes of humans
+
+
+S.Aureus 
+Reservoir :         
+          -Skin
+         -Commonly colonizes nares        
+Bacterial Culture :         
+         -Gram positive, grape like clusters
+         -Yellow colonies
+         -Beta hemolysis
+         -Mannitol fermenter         
+Virulence factors : 
+        Enzymes : 
+                -Catalase
+                -Coagulase
+                -Hyaluronidase
+                -Lipase
+                -Beta lactamases
+        Toxins : 
+                Superantigens:
+                        -Toxic shock syndrome toxin
+                        -Enterotoxin B(heat stable)
+                -Exfoliative toxin
+        Proteins : 
+                -Protein A -> binds to the Fc region of IgG, preventing phagocytosis 
+                -Modified penicillin-binding protein in MRSA
+        -Capsular Polysaccharides
+Diseases : 
+        Infections :         
+                -Skin and soft tissue infections(e.g cellulitis)
+                -Abscess
+                -Acute bacterial endocarditis
+                -Pneumonia
+                -Septic arthritis 
+                -Osteomyelitis 
+        Toxin mediated Diseases :
+                -Toxic shock syndrome
+                -Food poisoning 
+                -Staphylococcal Skin Scalded Syndrome
+Treatment : 
+        MSSA -> Oxacillin or Clindamycin
+        MRSA -> Vancomycin or Linezolid 
+
+
+Coagulase Negative Staphylococci : 
+        Staphylococcus epidermidis : 
+                -Found in natural skin flora
+                -Grape-like cluster
+                -Novobiocin-sensitive 
+                Virulence Factors : 
+                        -urease producer 
+                        -adherent biofilm production
+                                -Facilitates colonization of surfaces of prosthetic material and IV                                catheters -> Device associated infections
+Diseases  :
+        Foreign body infections : Prosthetic devices(e.g heart valves, catheters)
+Treatment : 
+        Penicillin or Clindamycin
+
+
+Staphylococcus saprophyticus : 
+
+
+                -Natural flora of the female genital tract 
+                -Grape like clusters
+                -Novobiocin-resistant
+        Virulence Factors : 
+                -Urease producer 
+                -Urinary tract infection
+        Treatment : 
+                -1st generation cephalosporin(e.g cephalexin)
+                -Amoxicillin-clavulante 
+                -TMP-SMX
+
+
+                                                                             
+                        
+                                
+                                        
+33. Streptococcus - group A, B and other Beta- hemolytic streptococci
+-All streptococci are catalase negative
+-Usually susceptible to penicillins
+  
+
+
+
+Beta-hemolytic(complete hemolysis) streptococci:
+Group A : Streptococcus Pyogenes
+-Found in the oropharynx
+
+
+Bacterial Culture:
+        -Chain-like arrangement
+        -Lancefield group A 
+        -Facultative anaerobe 
+        -Bacitracin-sensitive
+        -Pyrrolidonyl arylamidase(PYR) positive
+Virulence Factors:
+        Toxins: 
+                -Erythrogenic exotoxin A 
+                -Streptolysin O (lyses leukocytes, immunogenic)
+                -Streptococcal pyrogenic exotoxins (Mediates pyrogenicity)
+        Enzymes : 
+                -DNase -> Destroys neutrophils
+                -Streptokinase
+                -Hyaluronidase
+        Proteins:
+                -Protein F -> fibronectin-binding protein that mediates adherence of epithelial     cells 
+                -M Protein -> prevents opsonization by C3b
+                -Hyaluronic acid Capsule -> inhibits phagocytosis 
+Diseases : 
+        Head and Neck :
+                -Pharyngitis
+                -Tonsilitis
+                -Peritonsillar abscess 
+                -Otitis media
+        Skin and soft tissues(pyogenic): 
+                -Erysipelas
+                -Cellulitis
+                -Impetigo(honey-crusted lesions)
+                -Necrotizing fasciitis 
+        Toxin Mediated: 
+                -Scarlet fever
+                -Streptococcal toxic shock-like syndrome(similar to S.Aureus, not the same)
+        Immunologic Complications(After primary infection):
+                -Acute Rheumatic fever
+                -Poststreptococcal glomerulonephritis 
+        Treatment : 
+                -Penicillin or 2nd generation cephalosporins
+Group B : Streptococcus Agalactiae 
+-Primary affects babies, B for Babies(mnemonic, don't write this on the exam lol)
+-commonly found in the genital tract
+
+
+Bacterial Culture: 
+        -Chain-like arrangement
+        -Lancefield group B 
+        -Facultative anaerobe
+        -CAMP factor -> enlarges hemolysis area when placed in a culture formed by S.Aureus
+        -Bacitracin-resistant
+        -Hippurate positive
+        -Pyrrolidonyl arylamidase(PYR) negative
+Virulence Factors : 
+        -Capsule
+Diseases : 
+        -Neonatal meningitis & pneumonia
+        -Neonatal sepsis
+Treatment : 
+        -Penicillin or 2nd generation cephalosporins
+Other Beta Hemolytic Streptococci
+Streptococcus Gallolyticus 
+-Found in GI tract 
+        Bacterial culture: 
+                -chain like arrangement
+                -Lancefield group D
+                -Beta hemolysis or gamma hemolysis
+Virulence Factors: 
+-Capsule
+Diseases:
+-Bacteremia
+-Endocarditis
+-Colorectal carcinoma 
+Treatment: 
+        -Penicillin
+        -3rd generation cephalosporins 
+                
+                                                                             
+                        
+                                
+                                        
+34. Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
+
+-All streptococci are catalase negative
+-Usually susceptible to penicillins
+Viridans streptococci
+-Includes S.Mutans, S.Mitis and S.Sanguinis
+-Found in oropharynx
+Bacterial culture : 
+        -Chain-like arrangement
+        -Optochin-resistant
+        -Bile-insoluble
+Virulence factors: 
+        -Dextrans -> Facilitates binding to fibring-platelet aggregates on damaged heart valves 
+        -Biofilm formation(dental plaque) by S.Mutans and S.Mitis
+Diseases :         
+        -Dental caries(S.mutans and S.mitis)
+        -Subacute bacterial endocarditis (S.Sanguinis
+Treatment : 
+        -Penicillin or 3rd generation cephalosporins
+                
+Streptococcus pneumoniae
+-Found in nasopharynx
+Bacterial Culture:
+        -Encapsulated lancet-shaped diplococci, may form chains
+        -Optochin-sensitive
+        -Bile-soluble
+Virulence Factors:
+        -Capsular polysaccharides
+        -IgA protease
+Diseases:
+        -Otitis media
+        -Sinusitis, pharyngitis
+        -Pneumonia, with rusty colored sputum
+        -Meningitis
+        -Overwhelming Postsplenectomy infection in individuals with asplenia/sickle cell disease
+Treatment:
+        -Penicillin
+        -3rd generation cephalosporins
+        -Macrolide in patients with penicillin allergy 
+Enterococcus
+2 species:
+- E.faecium (less common, more likely to be resistant to vancomycin)
+- E.faecalis (more common, less likely to be resistant to vancomycin)
+Both are commonly found in the GI tract.
+Bacterial Culture:
+        -Diplococci, chain like arrangement
+        -Lancefield group D
+        -Alpha hemolysis and gamma hemolysis
+        -Growth in 40% bile and 6.5% NaCl
+Diseases:
+        -May be triggered by GI/GU procedures
+        -Include the following:
+                -UTI
+                -Cholecystitis
+                -Subacute endocarditis
+-Vancomycin resistant enterococcus (VRE) nosocomial infections
+                        
+Treatment: 
+        -Ampicillin
+        -Vancomycin
+        -For VRE:
+                -Linezolid or Daptomycin
+                                                                                      
+                        
+                                
+35. Corynebacterium
+
+
+Found in : 
+        -Respiratory Tract
+Bacterial culture:
+        -Gram Positive bacilli
+        -Facultative anaerobe
+        -Stainable using Neisser stain -> Detection of metachromatic granules(red and blue)
+        -Positive Elek test -> for toxin
+        -Black colonies on cysteine-tellurite agar
+        -Loffler medium: metachromatic granules
+Virulence Factors:
+        -Diphtheria toxin(exotoxin) -> inhibits protein synthesis by inactivating ef2
+Diseases:
+        -Diphtheriasis 
+Treatment:
+        -Macrolides -> e.g erythromycin
+        -Diphtheria antitoxin may be added as well
+
+
+36. Listeria, Gardnerella
+Listeria Monocytogenes
+Found in :
+        -Unpasteurized dairy products
+        -Cold deli meats
+        -Transplacental transmission/vaginal transmission during childbirth
+Bacterial culture:
+        -Facultative anaerobe
+        -Facultative intracellular
+        -Flagella, with characteristic tumbling motility
+Virulence factors:
+        -Actin rocket tail
+        -Cold resistance, can replicate in 4-10Celsius 
+Diseases:
+        -Listeriosis
+        -Congenital Listeriosis
+        -Amnionitis, leading to spontaneous abortion
+Treatment:
+        -Ampicillin or Penillin G
+Gardnerella Vaginalis
+Found in :
+        -Normal vaginal flora
+
+
+Bacterial Culture: 
+        -Pleomorphic
+        -Gram variable rod
+Virulence factors: 
+        -Pili
+        -Capsule
+        -Phospholipase C
+        -Vaginolysin, cytolysin
+        -Biofilm formation
+Diseases: 
+        -Bacterial vaginosis
+Treatment:         
+        -Metronidazole
+
+
+
+
+37. Neisseria - N.gonorrhoeae
+Found in : 
+        -Genital tract
+Bacterial culture: 
+        -Diplococcus 
+        -Intracellular(within neutrophils)
+        -Medium : Thayer-Martin agar
+        -Glucose fermentor 
+        -Does not ferment maltose!
+Virulence factors:
+        -IgA protease
+        -Lipooligosaccharide
+        -Antigenic variation of pili allows avoidance of neutralising antibodies
+Diseases:
+-Gonorrhoea
+-Septic arthritis(commonly of the knee)
+-Fitz-Hugh-Curtis syndrome
+-Neonatal conjunctivitis
+Treatment:
+-3rd generation cephalosporins + azithromycin or doxycycline(for possible coinfection with chlamydia)
+38. Neisseria - N.meningitidis
+Found in : 
+        -Nasopharynx
+Bacterial culture:
+        -Diplococcus
+        -Facultative intracellular
+        -Medium : Thayer-Martin agar
+        -Maltose and glucose fermenter
+Virulence factors:
+        -IgA protease
+        -Capsular polysaccharides
+        -Lipooligosaccharide 
+        -Pili and proteins that allow adherence and impair lymphocyte activation
+Diseases : 
+        -Meningitis
+        -Waterhouse-Friderichsen syndrome
+        -Meningococcemia with petechial bleeding
+Treatment:
+        -3rd generation cephalosporins(ceftriaxone) 
+        -Prophylaxis : Rifampin or ceftriaxone                                                    
+                        
+                                
+                                        
+*39. Enterobacteriaceae - E.coli and other opportunistic Enterobacteriaceae (Klebsiella, Enterobacter, Serratia - group KES’ proteus, Morganella, Citrobacter)
+-Thе Enterobacteriaceae is the largest family of medically important gram-negative rod shaped bacteria. 
+-Enterobacteriaceae are ubiquitous organisms, found in soil, water, and
+vegetation, and are part of the normal intestinal flora of humans and most animals.
+E.coli
+-Sorbitol and lactose fermenters(EHEC does not ferment sorbitol)
+-Form pink colonies on MacConkey agar
+-Green colonies on eosin-methylene blue agar
+-Common virulence factors:
+-LPS endotoxin -> septic shock
+-Resistance against bile salts -> proliferates in GI tract
+7 types of E.coli
+EPEC - Enteropathogenic E.coli
+Found in : 
+        -Natural gut flora
+Characteristics : 
+        -Commonly affects children
+Virulence factors: 
+        -Adherence to intestinal epithelium -> Destruction of microvili
+        -No toxin is produced
+Diseases : 
+        -Gastroenteritis 
+Treatment : 
+        -Ciprofloxacin or TPMX/SMX
+
+
+
+
+
+
+ETEC - Enterotoxigenic E.coli
+Found in : 
+        -Faecal and contaminated food/water
+Characteristics : 
+        -Common cause of traveller's diarrhoea 
+Virulence factors : 
+        -Heat labile toxin
+        -Heat stable toxin
+Diseases : 
+        -Gastroenteritis 
+Treatment: 
+        -Cirpofloxacin or TMP/SMX
+EIEC - Enteroinvasive E.Coli
+Found in : 
+        -Natural gut flora
+Characteristics:
+        -Common in children
+Virulence factors:
+        -Adherence to intestinal epithelium -> destruction of microvilli
+        -No toxins
+Diseases:
+        -Gastroenteritis
+Treatment: 
+        -Ciprofloxacin or TMP/SMX
+
+
+EAEC - Enteroaggregative E.coli
+Found in : 
+        -Faecal contaminated food and water
+Characteristics : 
+        -Persistent diarrhoea 
+Virulence factors : 
+        -Aggregation
+        -Adherence to intestinal mucosa -> inflammation -> watery diarrhoea 
+Diseases : 
+        -Gastroenteritis 
+Treatment : 
+        -Ciprofloxacin or TMP/SMX
+EHEC - Enterohemorrhagic E.Coli
+Found in :
+        -Undercooked meat
+Characteristics:
+        -Remember that the most common serotype is O157:H7
+Virulence factors:
+        -Shiga-like toxin -> bloody diarrhoea 
+Diseases: 
+        -Gastroenteritis
+Treatment:
+        -Ciprofloxacin or TMP/SMX
+        -Antibiotic treatment for EHEC is not advised
+UPEC - Uropathogenic E.coli 
+Found in : 
+        -Natural gut flora
+Characteristics : 
+        -Most common cause of UTIS
+Virulence factors : 
+        -P fimbria(pyelonephritis associated pili) bind to urogenital epithelium -> cystitis, pyelonephritis 
+Diseases : 
+        -Cystitis
+        -Pyelonephritis
+Treatment : 
+        -Ciprofloxacin or TMP/SMX
+NMEC - Neonatal meningitis E.Coli
+Found in : 
+        -Natural gut flora
+Characteristics : 
+        -Neonatal meningitis 
+Virulence factors: 
+        -K1 capsular polysaccharide
+Diseases : 
+        -Neonatal meningitis 
+        -Pneumonia
+Treatment : 
+        -Ampicillin
+        -3rd generation cephalosporins (ceftriaxone)
+
+
+Klebsiella 
+2 types : 
+Klebsiella pneumonia 
+Found in : 
+-Natural of the GI tract
+Characteristics : 
+-mucoid colonies
+-lactose fermenter -> eosin methylene blue agar changes to purple
+Virulence factors : 
+-Capsular polysaccharides 
+-Urease
+Diseases : 
+-Nosocomial UTI(commonly associated with catheters)
+-Aspiration pneumonia and lung abscess(with jelly sputum/mucoid blood-tinged sputum)                                
+                        
+                
+         
+
+                                                
+                                
+                        
+40. Enterobacteriaceae - Salmonella 
+Salmonella enteritidis
+Reservoir : 
+        -Humans, poultry, eggs, pets and reptiles serve as host
+        -Obligate pathogen
+Characteristics :         
+        -High infectious dose required -> not resistant against gastric acid
+        -Produces H2S(hydrogen sulfide)
+        -Immune response primarily via PMN infiltration
+        -No lactose fermentation
+Virulence factors : 
+        -Flagellar motility
+        -Endotoxin
+Diseases : 
+        -Salmonellosis(diarrhoea, with blood)
+        -Reactive arthritis 
+Treatment :
+        -Treatment for severe cases includes : Fluoroquinolones(ciprofloxacin)
+        -For mild : Supportive rehydration 
+Salmonella Typhi and Paratyphi
+Reservoir : 
+        -Humans are the only host
+        -Obligate pathogen
+Characteristics :         
+        -High infectious dose required -> not resistant against gastric acid
+        -Produces H2S(hydrogen sulfide)
+        -Immune response primarily via monocytes
+        -No lactose fermentation
+Virulence factors : 
+        -Flagellar motility
+        -Vi capsule
+Diseases : 
+        -Typhoid fever and paratyphoid fever
+        -Osteomyelitis, common in patients with sickle cell disease
+Treatment : Fluoroquinolones or ceftriaxone
+
+
+
+
+41. Enterobacteriaceae - Shigella
+
+
+-4 common species, Shigella: S. dysenteriae, S. flexneri, S. boydii, S. sonnei (in order of decreasing severity)
+
+
+Reservoir :
+        -Humans are the only host
+Characteristics :
+-Spread from cell to cell -> invasion of M cells(MALT)
+-Resistance to gastric acid -> low infections dose required
+-Slow/absent lactose fermentation
+Virulence factors : 
+-Shiga toxin 
+Diseases : 
+-Shigellosis(bloody diarrhoea)
+-Reactive arthritis
+-Hemolytic uremic syndrome -> results in microangiopathic hemolytic anaemia, thrombocytopenia and acute kidney injury. Primarily in children
+Treatment : 
+        -Fluoroquinolones(e.g ciprofloxacin) or 3rd gen cephalosporins (e.g ceftriaxone)
+        
+42. Enterobacteriaceae - Yersinia
+Yersinia Pestis 
+Reservoir : 
+        -Primarily rodents
+        -Transmission: flea bites
+Characteristics : 
+        -Facultative intracellular
+        -Bipolar staining
+Virulence factors : 
+        -Cold resistance 
+Diseases : 
+        -Plague
+Treatment : 
+        -Aminoglycosides(e.g streptomycin or gentamicin) or tetracyclines
+Yersinia enterolitica
+Reservoir : 
+        -Contaminated pork and milk
+        -Pet faeces
+Characteristics : 
+        -Pleomorphic -> can be classified as coccobacillus or rod
+Virulence factors : 
+        -Cold resistance
+Diseases : 
+        -Yersiniosis
+        -Reacrive arthritis
+        -Acute diarrhoea 
+Treatment : 
+        Treatment only for severe cases -> Fluoroquinolones or ceftriaxone        
+                                        
+43. Vibrionaceae- V. Cholerae, other Vibrio species associated with human diseases
+-3 main/common species, Vibrio cholerae, Vibrio vulnificus, Vibrio parahaemolyticus. Gram negative comma shaped rods.
+Vibrio Cholerae
+Reservoir :
+        -Contaminated water
+        -Undercooked seafood
+Characteristics :
+        -curved(comma shaped) gram negative rod
+        -Polar flagella
+        -Grows in alkaline media -> acid labile -> requires large dose of infection
+        -Oxidase positive
+Virulence factors :
+        -Cholera toxin -> “rice water” diarrhoea 
+Diseases : 
+        -Cholera
+Treatment : 
+        -Fluoroquinolones e.g ciprofloxacin 
+
+
+Vibrio Vulnificus
+Reservoir : 
+        -Contaminated water
+        -Raw or undercooked seafood
+        -Wounds infected by contaminated water
+Characteristics : 
+        -Curved(comma shaped) gram negative rod
+        -Polar flagella
+        -Motile
+        -Lactose fermenter
+Virulence factors : 
+        -Lipopolysaccharides(LPS)
+        -Capsular polysaccharides
+        -Exotoxins(hemolysin and metalloproteases)
+Diseases :
+        -Inflammatory diarrhoea(mucous in stool)
+        -Cellulitis, bullous skin lesions
+        -Septic shock and necrotizing fasciitis
+Treatment :
+        -Doxycycline
+        -Fluoroquinolones 
+
+
+Vibrio Parahaemolyticus
+Reservoir :
+        -Contaminated water 
+        -Raw or undercooked seafood
+Characteristics :
+        -Curved gram negative rod
+        -Non-lactose fermenter
+Virulence factors :
+        -Type III secretion system
+Diseases :
+        -Inflammatory diarrhoea
+        -Septic shock
+Treatment :
+        -Doxycycline 
+
+
+        
+44. Campylobacter and Helicobacter
+-Gram negative rods
+Helicobacter pylori
+Reservoir :
+        -Humans are the predominant host
+Characteristics :
+        -S-shaped or spiral shaped
+        -Flagellated(motile)
+        -Silver stain
+        -Oxidase, catalase and urease positive(triple positive)
+Virulence factors:
+        -Urease
+Diseases : 
+        -Type B Gastritis
+        -Duodenal peptic ulcers
+        -Gastric adenocarcinoma & MALT Lymphoma
+Treatment :
+        -Clarithromycin + Amoxicillin + Proton Pump Inhibitor
+
+
+Campylobacter Jejuni
+Reservoir :
+        -Poultry, unpasteurized milk
+        -Contact with infected humans or animals
+Characteristics :
+        -Curved negative rod with polar flagellum
+        -Grows best at 37-42C 
+        -Oxidase positive
+Virulence factors :
+        -Type IV secretion system
+        -Cytolethal-distending toxin
+Diseases :
+        -Enterocolitis(bloody diarrhea) - especially in children
+        -Commonly precedes reactive arthritis and Guillain-Barre Syndrome
+Treatment :
+        -Macrolides(e.g Erythromycin)                                
+                                        
+*45. Pseudomonas and related organisms (Burkholdelia, stenotrophomonas, Acinetobacter, Moraxella)
+-Gram negative rods
+Pseudomonas aeruginosa
+Reservoir :
+        -Water and humid conditions(e.g hot tubs, contaminated contact lens solution)
+Characteristics :
+        -Lophotrichous flagella(motile)
+        -Aerobic
+        -Catalase positive
+        -Oxidase positive
+        -Produces pyocyanin ->Blue-green pigment -> formation of blue-green pus in infection
+        -> Sweet odor 
+        -> Non-lactose fermenting
+Virulence factors :
+        -Mucoid polysaccharide capsule -> biofilm formation
+        -Endotoxin -> fever, shock
+        -Exotoxin A -> inactivates EF-2 -> inhibition of protein synthesis -> death of host cells
+        -Phospholipase C -> degrades cell membranes
+        -Pyoverdin and pyocyanin -> siderophores that help growth and proliferate in iron-deficient conditions -> generate reactive oxygen species
+Diseases :
+        Upper respiratory infections :
+                -Nosocomial pneumonia(e.g ventilator associated pneumonia)
+                -Chronic pneumonia in individuals with cystic fibrosis]
+        Skin infections :
+                -Nosocomial burn wounds
+                -Hot tub folliculitis
+                -Ecthyma gangrenosum in immunocompromised individuals 
+        -Corneal ulcers or keratitis in contact lens wearers 
+        -Malignant otitis externa, common in elderly individuals and diabetes
+        -Endocarditis or osteomyelitis in IV drug users
+        -Nosocomial UTI
+        -Sepsis
+Treatment :
+CAMPFIRE :
+-Carbapenems  OR
+-Aminoglycosides OR
+-Macrolides OR
+-Polymixins(e.g colistin) OR
+-Fluoroquinolones OR
+-thIRd generation cephalosporins(e.g ceftazidime) OR
+-Extended spectrum Penicillins with B-lactamase inhibitor (e.g peperacillin-tazobactam OR
+                
+Moraxella 
+Reservoir : 
+        -Nasopharynx
+Bacterial culture:
+        -Gram negative diplococci
+        -Aerobe
+        -Maltose fermenter
+Virulence factors :
+        -Outer membrane vesicles : 
+                -Complement invasion and colonization
+        -Biofilm formation
+Diseases :
+        -Sinusitis
+        -Otitis media
+        -Bronchitis
+Treatment :
+        -Amoxicillin-clavulanate or 3rd gen cephalosporins or 2nd gen cephasporins
+Actinobacter
+Reservoir : 
+        -Human skin, oropharynx 
+Bacterial culture : 
+        -Gram negative coccobacilli
+        -Strictly aerobic
+        -Oxidase negative
+        -Catalase positive
+Virulence factors :
+        -Outer membrane protein A, biofilm formation.
+Diseases : 
+        -Hospital acquired multidrug-resistant infections:
+                -Ventilator-associated pneumonia
+                -Bloodstream infections
+                -Meningitis
+Treatment : 
+         -3rd gen cephalosporins
+        -Carbapenems                                                                   
+                                        
+Burkholdelia
+Reservoir :
+        -Aquatic environments         
+Bacterial culture :
+        -Gram negative bacilli 
+        -Aerobic
+Virulence factors :
+        -Lipopolysaccharide
+        -Flagella and pili
+        -Type III secretion system invades host cells
+Diseases :
+        -Pneumonia in association with cystic fibrosis
+        -Chronic granulomatous disease
+Treatment :
+        -Cotrimoxazole OR
+        -meropenem OR
+        -Ceftazidime OR
+        -Fluoroquinolones
+                        
+                
+                                                
+46. Bordetella
+Reservoir : 
+-Only humans
+Bacterial culture :
+        -Gram negative coccobacilus
+-Strictly aerobic 
+-Cultured in Bordet-Gengou agar or Legan-Lowe
+Virulence Factors :
+-Capsule
+-Pertussis toxin -> ADP-ribosylation of the a subunit of Gi protein -> impaired cell signaling pathways
+-Tracheal cytotoxin -> kills ciliated epithelial cells
+Diseases : 
+        -Pertussis(whooping cough)
+Treatment : 
+-Macrolides
+
+
+Pertussis : 
+-Particularly affects children aged 6 months to 5 years old
+-3 stages :
+Catarrhal stage -> upper respiratory infection with mild cough
+Paroxysmal stage -> Intense paroxysmal coughing(often at nigh) followed by a deep and loud inhalation/high pitched whooping sound(whooping sound cough)
+Convalescent stage -> Progressive reduction of symptoms 
+
+
+47.Francisella Tularensis        
+Reservoir :
+-Rabbits, ticks(Amblyomma americanum, Dermacentor spp.) and deer flies
+Bacterial Culture :
+-Gram negative coccobacillus
+-Aerobic        
+-Facultative intracellular
+-Grows on charcoal yeast extract
+Virulence factors :
+        -Polysaccharide capsule 
+Diseases : 
+        -Tularemia
+Treatment :
+        -Streptomycin + gentamicin + doxycycline OR
+        -Ciprofloxacin
+
+
+Tularemia :
+        -High fever 
+        -Tender regional lymphadenopathy
+        -Localized signs depending on manifestation :
+                -Ulceroglandular tularemia (45-85%)-> skin ulcer at entry site of F.tularensis
+                -Glandular tularemia(10-25%) -> tender regional lymphadenopathy, no skin ulcer
+                -Oculoglandular tularemia(< 5%) -> unilateral conjunctival injection, pain, photophobia and cervical lymphadenopathy 
+                -Pneumonic tularemia(< 5%) -> nonproductive cough, dyspnea
+                -Typhoid tularemia(< 5%) -> hepatosplenomegaly 
+        -Diagnostics :
+                -Positive culture(e.g on charcoal yeast extract agar)
+
+
+48.Brucella                
+Reservoir :
+        -Unpasteurized dairy products
+        -Goats, sheep, cattle
+Bacterial culture :
+        -Facultative intracellular -> within macrophages
+        -Aerobic
+        -Grows on charcoal yeast extract 
+Virulence factors :
+        -Lipopolysaccharide
+        -Type IV secretion system
+        -Superoxide dismutase 
+        -Catalase positive
+        -Urease
+        -Cytochrome oxidase
+Diseases :
+        -Brucellosis
+Treatment : 
+        -First line -> doxycycline + rifampin
+        -second line -> doxycycline + streptomycin
+
+
+Brucellosis :
+        -Incubation period -> 1-3 weeks
+        -General symptoms :
+                -Flu-like symptoms
+                -Night sweats
+                -potential high undulant fever 
+                -Painful lymphadenopathy
+        Localized infection :
+                -Arthralgias 
+49. Haemophilus 
+
+
+Haemophilus Influenzae
+Reservoir :
+        -Nasopharynx(common in young children)
+        -Aerosol transmisión
+Bacterial culture : 
+        -Gram negative coccobacilli
+-Haemophilic bacteria -> isolation on chocolate agar
+-In culture with S.Aureus produces factor V via hemolysis -> H.Influenza can grow in the hemolytic zone -> H.Influenza is incapable of hemolysis on its own. Requires X factor(hematin) and V factor(NAD) for its growth -> will only grow in blood agar in the presence of hemolytic bacteria
+Virulence factors :
+        -> IgA protease
+        -> Capsular polysaccharides
+                -> Contained in Hib vaccine, conjugated to a protein(e.g diphtheria toxoid)
+        ->Infections are usually caused by unencapsulated strains(vaccine protects against encapsulated H.Infuenza type B)
+Diseases :
+        -Mucosal infections :
+                -Otitis media
+                -Conjunctivitis
+                -Epiglottitis
+                -Sinusitis
+                -Pneumonia
+        -Meningitis(only by H.influenzae type B, vaccinated patients are protected)
+Treatment :
+        -Mucosal infections :
+                -Amoxicillin + clavulanate 
+-Meningitis :
+-Ceftriaxone
+-Prophylaxis :
+-Rifampin 
+
+
+Haemophilus Ducreyi 
+Reservoir :
+        ->humans are the only host
+Bacterial culture :
+        -Haemophilic bateria -> required factor X and factor V
+        -Facultative anaerobic
+Virulence factors :
+        -Hemolysin
+        -Cytolethal-distending toxin -> ulcer formation
+Diseases :
+        -Chancroid
+Treatment :
+        -Macrolides(e.g azithromycin) or 3rd gen cephasloprin(e.g ceftriaxone)
+
+
+                                                                             
+                                                                
+*50. Miscellaneous Gram-Negative bacteria (Legionella, Bartonella, Streptobacillus and Spirillum)
+                                Legionella Pneumophila 
+Reservoir :
+        -Warm aqueous environments
+        -Path of infection -> inhalation of contaminated aerosols(cold and hot water systems such as in hotels, hospitals/Air-conditioning systems with contaminated condensed water)
+         -Person-to-person transmission is uncommon, isolation not necessary
+Bacterial culture : 
+        -Gram negative, atypical(gram stains poorly, silver stain preferred) 
+        -Cultured on charcoal yeast with cysteine and iron
+        -Silver stain can be used for identification
+                -> labs will commonly show hyponatremia(diagnostics)
+        -Facultative intracellular
+Virulence factors :
+        -Flagella
+        -Lipopolysaccharide (LPS)
+Diseases :
+        -Legionnaires’ disease
+        -Pontiac fever
+Treatment :
+        -Macrolides, Fluoqoeuinolones 
+
+
+Legionellosis :
+        -Atypical pneumonia(shortness of breath, cough), combined with diarrhea and confusion
+        -Laboratory abnormalities commonly show hyponatremia
+Pontiac fever :
+        -mild, self limiting flue like illness 
+Urine antigen test is used to confirm for both diseases diagnosis
+Bartonella spp
+Bartonella Henselae 
+Reservoir : 
+        -Cats
+-Bacterial culture : 
+        -Facultative intracellular
+        -MIcroaerophilic(requires low oxygen for respiration
+Virulence factors :
+        -Lipopolysaccharide
+Diseases :
+        -Cat scratch disease
+        -in HIV patients -> bacillary angiomatosis
+        -Bacterial endocarditis
+Treatment : 
+        -Macrolides
+
+
+Cat Scratch disease : 
+        -> a benign, self-limiting infectious disease transmitted by cats(biting, scratching)
+        Clinical features : 
+                ->General malaise, loss of appetite 
+                ->Localized one or more 5-10mm large, erythematous, nontender cutaneous papules or vesicles developed 3-10 days after exposure
+                ->Swollen tender lymph nodes 7-60 days following exposure, commonly affects lymph nodes of axilla, neck or groin
+Bacillary angiomatosis :
+        -> red-purple papules that bleed easily
+
+
+
+
+                                                                             
+                        
+                                
+                                        
+*51. Anaerobic Gram-Positive cocci and Non Spore-forming Bacteria
+
+
+Peptostreptococcus
+Reservoir : 
+        -Mucocutaneous surfaces 
+Bacterial culture : 
+        -Chain-like arrangement 
+        -Gamma-hemolysis
+        -Anaerobe 
+Diseases : 
+        -Lung abscess 
+        -Wound infection
+        -Brain abscess
+        -Dental infection
+Treatment : 
+        -Penicillin OR 1st generation cephalosporins 
+                                                                 
+52. Anaerobic Spore-Forming Bacteria- Clostridium
+All Clostridia are: 
+-gram positive, 
+-obligate anaerobic,
+-spore forming rods
+Clostridium difficile
+Reservoir : 
+        -GI tract
+Bacterial culture : 
+        -Facultative pathogen -> can survive outside of host
+Virulence factors :
+        -Toxin A -> enterotoxin -> targets intestinal mucosa -> diarrhea/vomit
+        -Toxin B -> cytotoxin -> depolymerizes actin filaments
+Diseases : 
+        -Pseudomembranous colitis -> pseudomembranous plaques on colonic mucosa due to 
+Clostridium perfringens 
+Reservoir : 
+        -Soil
+        -Skin
+        -GI Tract
+Bacterial culture : 
+        -Club shaped bacilli 
+        -Hemolysis -> double zone of hemolysis in blood agar
+Virulence factors : 
+        -Exotoxins 
+        -Alpha toxin -> causes gas gangrene
+        -Enterotoxin -> targets intestinal mucosa -> diarrhea/vomit        
+Diseases : 
+        -Gas gangrene -> myonecrosis
+        -food poisoning
+Treatment : 
+        -Piperacillin-tazobactam + Clindamycin
+Clostridium Tetani
+Reservoir : 
+        -Soil
+Bacterial Culture : 
+        -Drumstick-shaped
+        -obligate pathogen -> does not belong to physiological flora, must cause a disease in order to be transmitted 
+Virulence factors : 
+        -Tetanospasmin
+ -> Cleave SNARE, prevents release of inhibitory neurotransmitters from Renshaw neurons(GABA, Glycine) -> Tetanus
+Diseases : 
+        -Tetanus -> spastic paralysis, risus sardonicus, opisthotonos
+Treatment : 
+        -Penicillin G or metronidazole 
+Clostridium botulinum 
+Reservoir : 
+        -Soil
+        -Intestinal tracts of birds
+        -Agricultural products(vegetables, honey)
+Bacterial culture : 
+        -Club shaped bacilli with flagella
+        -Obligate pathogen ->does not belong to physiological flora, must cause a disease in order to be transmitted 
+Virulence factors : 
+        -Botulinum toxin 
+                ->Cleaves SNARE proteins -> blocks acetylcholinesterase -> flaccid muscle 
+Paralysis
+                ->Local injection of botulinum toxin(Botox) can be used to treat conditions such as muscle spams or reduction of wrinkles 
+Diseases : 
+        -Foodborne botulism ->e.g consumption of improperly canned foods -> descending flaccid paralysis 
+        -Gray baby syndrome -> ingestion of spores in honey -> Ptosis, floppy movements
+        -Wound botulism (common in IV drug users)
+Treatment : 
+        -Supportive -> secure airways
+
+
+                                                                                                     
+53. Aerobic Spore-forming bacteria- Bacillus
+-Gram positive bacilli 
+Bacillus Anthracis 
+Reservoir : 
+-Soil
+-Mammals
+Bacterial culture : 
+-Aerobe
+-Bamboo stick-shaped
+-Colonies show a halo of projections(‘Medusa head’)
+Virulence factors : 
+-Polypeptide capsule -> contains d-glutamate 
+-Spore formation
+-Anthrax toxin, consists of :
+                -Edema toxin -> increases cAMP -> causes cellular edema
+                -Lethal factors -> disrupts cell signaling -> cell death
+Diseases : 
+-Anthrax
+        -> human infection usually due to contact with farm animals or infected animal products(e.g wool meat). B.anthracis spores are also weaponized for biological war/terrorism
+        ->3 clinical symptoms can occur : 
+                -Inhalation anthrax -> hemorrhagic mediastinitis + fever + pleural effusion 
+                -Cutaneous anthrax -> papular lesions -> necrotic eschar 
+-Gastrointestinal anthrax -> hematemesis/bloody diarrhea 
+Treatment : 
+        -Fluoroquinolones 
+        -Doxycycline
+
+
+Bacillus Cereus
+Reservoir : 
+        -Contaminated food(commonly reheated rice)
+Bacterial culture : 
+        -Aerobe or facultative anaerobe
+                -> can grow in presence of oxygen, but can survive without it
+Virulence factors : 
+        -Cereulide (enterotoxin) -> emesis
+        -Spore formation
+Virulence factors :
+        -food poisoning 
+Diseases : 
+        -Food poisoning
+Treatment : 
+        -supportive care
+
+
+
+
+                                                                             
+*54. Anaerobic Gram-Negative Non Spore-forming bacteria and Cocci (Bacteroides, Porphyromonas, Prevotella, Veilonella)
+Bacteroides fragilis
+Reservoir : 
+        -Up to 40% of fecal flora
+Bacterial culture : 
+        -Anaerobic 0> produce CO2 and H2 in tissue
+        -Bile-resistant 
+        -Foul smelling
+Virulence factors : 
+        -Capsule
+        -Resistance against aminoglycosides
+Diseases : 
+        -Pneumonia in patients with alcohol use disorder -> lung abscess 
+        -Nosocomial infections (e.g decubitus ulcers, surgical wound/drain infection)
+        -Possibly peritonitis and sepsis
+                                                        
+                                                                                             
+55. Mycobacterium
+-Atypical gram-staining bacteria
+Mycobacterium tuberculosis
+Reservoir : 
+        -Humans 
+Bacterial culture : 
+        -Acid-fast bacilli 
+                -Ziehl-Neelsen stain -> binds to mycolic acid
+        -Gram neutral
+-Do not stain well due to high lipid content/mycolic acid
+-Facultative intracellular 
+-Aerobic
+-Lowenstein-Jensen agar
+-Middlebrook medium 
+-Generation time : ~12 hours
+Virulence factors : 
+        -Cord factor  
+->Arranges M.Tuberculosis in a serpentine cord 
+->TNF-a release and activation of macrophages 
+->Granuloma formation
+-Surface glycolipids(sulfatides)
+        ->inhibit phagolysosomal fusion
+-Multi-drug resistance 
+        ->Mutation in KatG -> Isoniazid resistance
+Diseases : 
+        -Tuberculosis 
+                -Typically affects lungs
+                -Typical dormant(latent TB), immunosuppression leads to reactivation 
+-> Active TB :
+                                -> fever, night sweats, cough, hemoptysis
+                        -> Latent TB :
+                                ->Asymptomatic 
+Treatment : 
+        -RIPE therapy 
+                ->Rifampin
+                ->Isoniazid
+                ->Pyrazinamide
+                ->Ethambutol
+Mycobacterium leprae 
+Reservoir : 
+        -Humans and armadillos
+Bacterial culture : 
+        -Acid fast ->Ziehl-Neelsen stain -> bind to mycolic acid
+                ->thinner PG layer than M. tuberculosis.
+        -Obligate intracellular 
+        -Generation time : ~ 13 days
+Virulence factors : 
+        -Phenolic glycolipid I
+        -Lipoarabinomannan
+                ->Lipoglycan
+                 ->Release of TNF-a 
+Diseases : 
+        -Leprosy/Hansen disease
+                ->hypopigmented skin lesions
+                ->nerve thickening
+                ->Nerve palsies 
+                        ->All peripheral nerves can become affected in leprosy, but the most commonly affected are the ulnar and the peroneal nerves.
+                ->Diagnostics :
+                ->Skin smear
+                ->Punch biopsy
+                ->Lepromin test :
+                        ->Antigen is injected intradermally on the ventral forearm
+                        ->Test is positive if induration is > 5mm
+                                ->Measures ability to mount a T cell response
+Treatment : 
+        -Dapsone + Rifampicin
+        
+
+
+
+
+56. Spirochetes -Treponema
+Treponema pallidum 
+Reservoir : 
+        -Humans
+Bacterial culture : 
+        -Dark-field microscopy
+        -Direct fluorescent antibody microscopy
+        -Thin wall(Does not Gram stain well to be considered gram negative)
+Diseases :
+        -Syphilis:
+                ->STD
+                ->Primary syphilis
+                        ->inhibition period : 21 days
+                        ->Typically starts as chancre, raised papule on genitals
+                        ->Evolves into a painless, firm ulcer with underrated borders
+                        ->Resolves spontaneously within 3-6 weeks
+        ->Secondary syphilis   
+                ->Disseminated disease, systemic spread of spirochetes
+                -> 8-12 weeks after primary infection
+                ->Symptoms : 
+                        ->Generalized nontender lymphadenopathy
+                        ->Fever, fatigue, myalgia, headache 
+                        ->Condyloma lata :  
+
+
+                        ->Broad-based wart-like smooth white papular erosions
+                        ->Causes additional lesions, such as alopecia(Slap!)
+
+
+->Tertiary syphilis 
+->Gumma:
+                  
+        ->Chronic destructive granulomatous lesions with necrotic center that tend to ulcerate
+        ->Cardiovascular syphilis
+                ->Aortitis, ascending aortic aneurysm(thoracic aortic aneurysm), syphilitic mesaortitis, aortic root dilation and insufficiency
+                        >Neurosyphilis
+                                ->Argyll Robertson pupil 
+->pupils accommodate but do not react to light
+                                ->Tabes dorsalis 
+                                        ->Demyelination of the dorsal columns and the dorsal ganglia 
+                                        ->Charcot joints
+Treatment : 
+-Penicillin G 
+        ->Jarisch-herxheimer reaction(flu-like symptoms)
+
+
+
+
+57. Spirochetes -Borrelia
+Borrelia Burgdorferi 
+Reservoir : 
+        -Ticks(Ixodes deer tick)
+        -Mammals(e.g mouse)
+Bacterial culture :
+        -Largest spirochete
+        -Visible in light microscopy using Wright or Giemsa stain
+Diseases :   
+        -Lyme diseases :
+                ->Stage 1 - early localized; erythema migrans(bull’s eye configuration), flu-like symptoms
+                ->Stage 2 - early disseminated; secondary lesions, AV blocks, facial nerve(Bell) palsy, migratory myalgias/transient arthritis
+                ->Stage 3 - late disseminated; encephalopathy, chronic arthritis, peripheral neuropathy
+Treatment : 
+        -Doxycycline OR Ceftriaxone
+        -Amoxicillin OR Cefuroxime in pregnant women & children
+
+
+
+
+
+
+Borellia Recurrentis 
+Reservoir :
+        -Louse(e.g Pediculus humanus)
+Bacterial culture : 
+        -Largest spirochete
+        -Visible in light microscopy using Wright or Giemsa stain
+Diseases : 
+        -Relapsing fever 
+                ->recurs because of surface antigen variation
+Treatment : 
+        -Doxycycline OR Ceftriaxone
+        -Amoxicillin OR Cefuroxime in pregnant women & children
+
+
+59. Mycoplasma and Ureaplasma 
+-Both have no cell wall
+Mycoplasma Pneumonia
+Reservoir : 
+        -Humans are the only host
+Bacterial culture : 
+        -Microaerophilic        
+                ->requires low levels of oxygen
+        -Absent cell wall(not visible on gram stain)
+        -Bacterial membrane stabilized by cholesterol
+                ->cholesterol is obtained from the host organism
+        -Pleomorphic 
+        -Grows on eaton agar 
+                ->”fried egg” appearance 
+Virulence factors : 
+        -Unresponsive to beta-lactam antibiotics due to lacking cell wall
+Diseases : 
+        -Mycoplasma pneumonia(atypical pneumonia)
+                ->”Walking pneumonia”; headache, nonproductive cough, macular rash
+                ->Occurs frequently in those <30 years old; prisons, schools and military camps
+        -Acute interstitial nephritis
+        -Stevens-Johnson syndrome
+                ->immune-mediated skin reaction that results in skin blistering 
+Treatment : 
+        -Doxycycline OR Macrolides 
+
+
+Ureaplasma Urealyticum
+Reservoir : 
+        -Normal urogenital tract
+Bacterial culture : 
+-Microaerophilic        
+                ->requires low levels of oxygen
+        -Absent cell wall(not visible on gram stain)
+        -Bacterial membrane stabilized by cholesterol
+                ->cholesterol is obtained from the host organism
+        -Pleomorphic 
+        -Grows on eaton agar 
+                ->”fried egg” appearance 
+Virulence factors : 
+        -Unresponsive to beta-lactam antibiotics due to lacking cell wall
+Treatment :         
+        -Doxycycline OR macrolides
+
+
+
+
+        
+                        
+                
+                 
+60. Rickettsia, Coxiella and Ehrlichia
+-Obligate intracellular bacteria 
+Rickettsia Spp.
+Rickettsia Rickettsii
+Reservoir : 
+        -Arthropods (dog ticks)
+Bacterial culture : 
+        -Weakly gram negative bacteria
+        -Visibly on Giemsa stain
+Virulence factors : 
+        -Type IV secretion systems (T4SS)
+        -Surface adhesion proteins : OmpA, OmpB
+Diseases : 
+        -Rocky mountain spotted fever
+                ->Characterized by rash that starts on the wrists/ankles and moves to the trunk, includes palms and soles
+Treatment : 
+        -Doxycycline
+Rickettsia Prowazekii 
+Reservoir : 
+        -Human to human(body louse)
+Bacterial culture : 
+        -Weakly gram negative bacteria
+        -Visibly on Giemsa stain
+Virulence factors : 
+        -Type IV secretion systems (T4SS)
+        -Surface adhesion proteins : OmpA, OmpB
+Diseases : 
+        -Epidemic typhus
+                ->fever, pneumonia, encephalitis, maculopapular truncal rash
+Treatment : 
+        -Doxycycline 
+Rickettsia Typhi 
+Reservoir : 
+        -Fleas
+Bacterial culture : 
+        -Weakly gram negative bacteria
+        -Visibly on Giemsa stain
+Virulence factors : 
+        -Type IV secretion systems (T4SS)
+        -Surface adhesion proteins : OmpA, OmpB
+Diseases : 
+        -Endemic typhus
+                ->fever, pneumonia, encephalitis, maculopapular truncal rash
+Treatment : 
+        -Doxycycline 
+Coxiella Burnetii 
+Reservoir : 
+        -Cattle, sheep and goats
+        -Aerosol transmission
+Bacterial culture : 
+        -Gram negative bacteria 
+        -Ability to survive in harsh environments 
+Virulence factors : 
+        -Lipopolysaccharide
+        -Surface adhesion protein: OmpA
+Diseases : 
+        -Q fever(pneumonia)
+        -Bacterial endocarditis
+Treatment : 
+        -Doxycycline 
+Ehrlichia Chaffeensis
+Reservoir : 
+        -Whitetail deer
+        -Transmission -> lone start tick 
+Bacterial culture : 
+        -Gram negative bacteria 
+        -Wright-Giemsa stain : detection of morale inside infected granulocytes
+Virulence factors : 
+        -Replication within cytoplasmic vacuoles of PMNs -> evasion of neutrophils
+        -Obtains cholesterol derived from host cells
+        -Type IV secretion system
+Diseases : 
+        -Anaplasmosis 
+-> incubation period : 1-2 weeks
+-> Flu-like symptoms(headache,chills and muscle aches)
+-> mild anemia
+Treatment : 
+        -Doxycycline
+
+
+        
+        
+61. Chlamydia 
+-Obligate intracellular bacteria, cannot produce ATP outside of their host cell.
+-2 forms :
+        ->Elementary body(small, dense)
+                ->infectious stage, enter cell via endocytosis transforms into reticulate body
+        ->Reticulate body 
+                ->replicates in cell by fission
+                ->reorganizes into elementary body
+-Chlamydial cell wall lacks classic peptidoglycan -> B-lactam antibiotics ineffective.
+Chlamydia trachomatis
+Reservoir : 
+        -Humans are the only host
+Bacterial culture : 
+        -Lack muramic acid in cell wall
+        -Cytoplasmic inclusion bodies(reticulate bodies) visible on Giemsa stain
+Virulence factors :
+        -Lipopolysaccharide
+        -Major outer membrane protein -> protective surface antigens
+        -Polymorphic outer membrane -> elicit proinflammatory cytokine
+        -Cytotoxin -> causes actin reorganization 
+Diseases : 
+        -Serotypes A, B, C 
+->Follicular conjunctivitis that leads to blindness 
+-Serotypes D-K
+->Urethritis/PID, ectopic pregnancy, neonatal pneumonia(staccato cough) with eosinophilia, neonatal conjunctivitis(1-2 weeks after birth)
+-Serotypes L1,L2,L3
+->Lymphogranuloma venereum 
+->Small painless ulcers on genitals
+->Swollen painful inguinal lymph nodes that ulcerate(buboes)
+Treatment :
+-Doxycycline OR azithromycin + ceftiaxone for possible gonorrhea infection
+Chlamydia psittaci + Chlamydia Pnuemoniae 
+Reservoir : 
+        Chlamydia psittaci -> parrots + aerosol transmission 
+        Chlamydia pneumonia -> only humans + aerosol transmission
+Bacterial culture : 
+        -Lack muramic acid in cell wall
+        -Cytoplasmic inclusion bodies(reticulate bodies) visible on Giemsa stain
+Diseases :
+        -Atypical pneumonia
+Treatment : 
+        -Doxycycline
+                                                                             
+                        
+                                
+                                        
+**62. Human microbial Flora (Natural flora) in health and disease. Iatrogenic influences on the normal human flora- dysbacteriosis as a side effect of antibiotic, cytostatic and immunosuppression therapy
+                                
+                        
+
+
+                                                                             
+                        
+                                
+                                        
+63. Laboratory diagnosis of viral diseases
+                                
+                        
+                
+                                                                                      
+                        
+                                
+                                        
+64. Picornaviruses
+Enterovirus 
+Capsid : 
+        -Icosahedral
+Genetic structure : 
+        -positive sense, single stranded RNA(+ssRNA)
+        -Linear
+Important examples
+
+
+
+
+
+
+                                                                             
+                        
+                                
+                                        
+79. Fungi, Etiological agents of systemic mycoses- Cryptococcus neoformans, Histoplasma capsulatum, Blastomyces dermatidis
+
+-All of the following can cause pneumonia and disseminate 
+-Dimoprhic fungi -> Mold in the cold(20C) yeast in the heat(37C)
+
+
+
+Cryptococcus neoformans
+
+Risk factors :
+        -AIDS
+        -Exposure to pigeon droppings
+        -Transmission via inhalation
+Clinical features :
+        -Cryptococcal meningoencephalitis:
+                ->Hematogenous spread of fungi to meninges
+                ->Headache, fever, increased intracranial pressure, absent meningeal signs
+        -Pulmonary cryptococcosis
+                ->Most commonly in immunocompromised 
+                ->Cough, fever, shortness of breath
+Diagnostics :
+        -Latex agglutination test:
+                        ->positive for cryptococcal polysaccharide capsular antigen
+                        ->High specificity and sensitivity
+        -CSF analysis:
+        ->India ink stain: fungi with halo
+        ->Mucicarmine: stains the thick inner polysaccharide capsule bright red
+        ->Fungal culture(Sabouraud agar):
+                ->5-10μm yeat
+                ->Thick polysaccharide capsule
+                ->Narrow unequal budding
+        -MRI : 
+                ->”Soap bubble lesions”(formation of pseudocysts)
+                ->AIDS-defining condition if extrapulmonary 
+        -Dimorphic fungi :
+                ->mold in the cold(20C), yeat in the heat(37C)
+Treatment:
+        -IV amphotericin + flucytosine
+
+Histoplasma capsulatum
+
+Risk factors : 
+        -Endemic Areas : Mississipi and Ohio river valley 
+        -Exposure to bird or bat droppings
+Clinical features :
+        -Often asymptomatic 
+        -Histoplasmosis : 
+                ->Characteristic tongue/palatal ulcers
+                ->Flu-like(fever, weight loss) 
+                ->erythema nodosum, hepatosplenomegaly, lymphadenopathy
+Diagnostics :
+        -Dimorphic fungi :
+                ->mold in the cold(20C), yeat in the heat(37C)
+        -Chest x-ray : 
+                ->Diffuse nodular densities or lymphadenopathy
+        -Positive urine and serum for polysaccharide antigen test
+        -Macrophages filled with Histoplasma
+                ->Histoplasma hides within macrophages
+                ->Histoplasma is smaller than a RBC
+        -Culture of sputum or blood  => Sabouraud agar(dextrose+peptones)
+Treatment :
+        -Usually supportive
+        -Chronic cavitation -> Itraconazole 
+        -Systemic infection -> Amphotericin B
+
+Blastomyces dermatidis
+
+Risk factors :
+        -Endemic areas : Southerneastern and Great Lakes, USA 
+Clinical features : 
+        -Pneumonia
+        -Skin verrucous :
+                ->Lesions and granulomatous nodules 
+        -Osteolytic lesions 
+Diagnostics:
+        -Dimorphic(yeast in the heat, mold in the cold)
+        -Yeast form with broad based buds
+        -Same size as a RBC
+Treatment : 
+        Local infections => fluconazole and itraconazole 
+        Systemic infections => Amphotericin B 
+
+80. Fungi, Etiological agents of opportunistic mycoses-
+Candida, Aspergillus, Zygomycetes (Rhizopus, Absidia), Pneumocystis carinii
+
+Candida 
+Risk factors : 
+        -Imbalance of local flora due to antibiotics and/or contraceptives usage
+        -Immunosuppression
+Clinical features:
+        Localized:
+                -Diaper dermatitis(typically in infamts)
+                        -Develops as a result of prolonged wetness and diaper occlusion 
+                -Oral thrush 
+                        -Pseudomembranous candidiasis 
+                                ->White plaque in the oral cavity, CAN be scraped off(unlike leukoplakia)
+                -Candida esophagitis:
+                        -AIDS-defining illness and in patients with hematologic malignacies 
+                -Vaginal yeast infection
+        -Systemic:
+                -Candidemia -> Symptoms may vary from fever to sepsis
+                -Hematogenous infiltration of organs may occur
+                        ->Endocarditis in IV drug users 
+Diagnostics:
+        -KOH test:
+                -> shows budding yeasts, hyphae and pseudohyphae
+        -Blood or tissue culture:
+                ->Candida spp. for yeast and and pseudohyphae at 20-25C(opposite of yeast in heat and cold mold)
+                ->Candida albicans forms germ tubes at 37C
+Treatment:
+        -Localized infections:
+                ->Vaginal yeast infection -> topical antifunal(cotrimazole cream)3-14 or oral fluconazole
+                ->Oral candidiasis ->Nystatin or fluconazole
+                ->Esophagitis -> Oral or IV fluconazole for 14-21 days 
+        -Systemic infections:
+                -Amphotericin B 
+
+
+                
+
+
+
+        
