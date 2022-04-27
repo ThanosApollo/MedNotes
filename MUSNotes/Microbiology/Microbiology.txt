@@ -1583,18 +1583,19 @@ Clinical features:
                         -AIDS-defining illness and in patients with hematologic malignacies 
                 -Vaginal yeast infection
         -Systemic:
-                -Candidemia -> Symptoms may vary from fever to sepsis
-                -Hematogenous infiltration of organs may occur
+                -Candidemia:    
+                        ->Symptoms may vary from fever to sepsis
+                        ->Hematogenous infiltration of organs may occur
                         ->Endocarditis in IV drug users 
 Diagnostics:
         -KOH test:
                 -> shows budding yeasts, hyphae and pseudohyphae
         -Blood or tissue culture:
-                ->Candida spp. for yeast and and pseudohyphae at 20-25C(opposite of yeast in heat and cold mold)
-                ->Candida albicans forms germ tubes at 37C
+                ->Candida is yeast with pseudohyphae at 20-25C(opposite of yeast in heat and cold mold)
+                ->Candida albicans forms germ tubes(mold) at 37C
 Treatment:
         -Localized infections:
-                ->Vaginal yeast infection -> topical antifunal(cotrimazole cream)3-14 or oral fluconazole
+                ->Vaginal yeast infection -> topical antifunal(cotrimazole cream) for 3-14days or oral fluconazole
                 ->Oral candidiasis ->Nystatin or fluconazole
                 ->Esophagitis -> Oral or IV fluconazole for 14-21 days 
         -Systemic infections:
