@@ -1568,7 +1568,7 @@ Treatment :
 80. Fungi, Etiological agents of opportunistic mycoses-
 Candida, Aspergillus, Zygomycetes (Rhizopus, Absidia), Pneumocystis carinii
 
-Candida 
+#Candida 
 Risk factors : 
         -Imbalance of local flora due to antibiotics and/or contraceptives usage
         -Immunosuppression
@@ -1600,7 +1600,7 @@ Treatment:
         -Systemic infections:
                 -Amphotericin B 
 
-Aspergillus
+#Aspergillus
 ->Septate hyphae that branch at 45 degrees 
 Risk factors :
         -Immunosuppression(HIV/Chemotherapy) or neutropenia can facilitate angioinvasive aspergillosis
@@ -1631,12 +1631,51 @@ Treatment :
         -Alergic Bronchopulmonary Aspergillosis:
                 ->Oral glucocorticoids 
                 ->Itraconazole
-        Invasive Aspergillosis:
+        Invasive Aspergillosis: 
                 ->IV voriconazole 
-                ->IV amphotericin for severe cases 
+               ->IV amphotericin for severe cases 
 
+#Zygomycetes
+Infection:
+        ->Mucormycosis
+Pathogen:
+        ->Mucor spp.
+        ->Rhizopus spp.
+        ->Absidia spp.
+Risk factors:
+        ->Diabetes
+        ->Immunosuppression
+Clinical features:
+        ->Invasive chronic sinusitis and orbital cellulitis 
+        ->Tissue necrosis, may lead to continuous spread to the orbit, brain, possible cranial nerve involvement 
+        ->Rhinocerebral, frontal love abscess 
+        ->Cavernous sinus thrombosis 
+Diagnostics:
+        -Tissue biopsy
+                ->Wide angled branching, nonseptate hyphae(90 degrees angle)
+Treatment:
+        ->Surgical removal of necrotic tissue 
+        ->IV Amphotericin
 
-
+#Pneumocystis carinii (Now named P.Jirovecii, syllabus name outdated)
+Infection:
+        ->Pneumocystis pneumonia(AIDS Defining infection)
+Risk factors:
+        ->HIV infection 
+                ->CD4 < 200 
+        -Immunosuppresion treatment 
+Clinical Features :
+        ->Initially assymptomatic, with gradual onset 
+        ->Low-grade fever and malaise 
+        ->Dyspnea and nonproductive cough 
+        ->May progress to respiratory failure 
+Diagnostics:
+        -Consider PCP in patients with respiratory symptoms or unexplained hypoxia and a history of HIV 
+        or other causes of impaired humoral immunity (e.g., organ transplantation).
+        -Confirmation:
+                ->Lung tissue biopsy
+                        ->visualization of disc-shaped P.Jirovecii cysts with cetnral spores
+                        ->Staining methods : Silver stain(stains the cyst wall)
 
 
         
