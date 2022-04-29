@@ -1628,20 +1628,21 @@ Diagnostics :
                 MRI : 
                         ->Perform if CNS infection is suspected 
                         ->Commonly shows abscess formation 
+        ->In tissue biopsy we can see acute angled septate hyphae(45 degrees angle)
 Treatment : 
         -Alergic Bronchopulmonary Aspergillosis:
-                ->Oral glucocorticoids 
+                ->Oral glucocorticoids(reduce IgE)
                 ->Itraconazole
         Invasive Aspergillosis: 
                 ->IV voriconazole 
-               ->IV amphotericin for severe cases 
+                ->IV amphotericin for severe cases 
 
 #Zygomycetes
 Infection:
         ->Mucormycosis
 Pathogen:
         ->Mucor spp.
-        ->Rhizopus spp.
+        ->Rhizopus spp.(bread mold)
         ->Absidia spp.
 Risk factors:
         ->Diabetes
@@ -1649,7 +1650,7 @@ Risk factors:
 Clinical features:
         ->Invasive chronic sinusitis and orbital cellulitis 
         ->Tissue necrosis, may lead to continuous spread to the orbit, brain, possible cranial nerve involvement 
-        ->Rhinocerebral, frontal love abscess 
+        ->Rhinocerebral, frontal lobe abscess 
         ->Cavernous sinus thrombosis 
 Diagnostics:
         -Tissue biopsy
