@@ -1466,13 +1466,38 @@ Treatment :
                                 
                                         
 64. Picornaviruses
-Enterovirus 
+->Fecal-Oral transmission(except Rhinovirus)
+Inclues :
+        ->Enterovirus(Coxsackievirus A and B, Echovirus, Poliovirus, Rhinovirus)
+        ->Hepatovirus(Hepatitis A)
 Capsid : 
         -Icosahedral
 Genetic structure : 
         -positive sense, single stranded RNA(+ssRNA)
         -Linear
-Important examples
+Diseases :
+        Coxsackie A :
+                ->hand,foor and mouth disease 
+                ->Aseptic(viral) meningitis 
+                ->myocarditis 
+        Coxsackie B :
+                ->Dilated cardiomyopathy 
+                ->Bornholm disease 
+                ->Aseptic(viral) meningitis 
+        Echovirus:
+                ->Aseptic(viral) meningitis 
+        Poliovirus :
+                ->Poliomyelitis 
+                        ->95% asymptomatic
+                        ->5% of cases enter CNS, causing paralysis 
+                -2 vaccines : 
+                        -Salk polio vaccine(inactivated/IM Administration)
+                        -Sabin polio vaccine(live/Oral Administration)
+        Rhinoviurs : 
+                ->More than 100 serotypes 
+                ->Attached to ICAM-1 receptors(CD54) on respiraotry epithelial cells(not fecal oral)
+        Hepatitis A virus:
+                ->Hepatitis A(liver disease)
 
 
 
