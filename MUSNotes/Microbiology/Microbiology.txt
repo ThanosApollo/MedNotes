@@ -1473,7 +1473,7 @@ Inclues :
 Capsid : 
         -Icosahedral
 Genetic structure : 
-        -positive sense, single stranded RNA(+ssRNA)
+        -Naked(nonenveloped),positive sense, single stranded RNA(+ssRNA),
         -Linear
 Diseases :
         Coxsackie A :
@@ -1495,9 +1495,46 @@ Diseases :
                         -Sabin polio vaccine(live/Oral Administration)
         Rhinoviurs : 
                 ->More than 100 serotypes 
-                ->Attached to ICAM-1 receptors(CD54) on respiraotry epithelial cells(not fecal oral)
+                ->Acid labile(aerosol transmission)
+                ->Attached to ICAM-1 receptors(CD54) on respiraotry epithelial cells
+                ->Causes common cold 
         Hepatitis A virus:
                 ->Hepatitis A(liver disease)
+
+
+65. Paramyxoviruses 
+Characteristics :
+        -Enveloped 
+        -Negative sense, single standed RNA, linear, nonsegmented, helical capsid
+        -Fusion protein(F protein) -> causes fusion of repsiratory epithelia cells -> giant multinucleated cells formation
+        -Airborne transmission
+Diseases : 
+        Respiraotry syncytial virus(RSV)
+                ->Infects ciliatel epithelial cells -> Bronchiolitis 
+                ->Common in infants
+        Measles virus :
+                -Lymphotropic(replicates in lymph nodes -> lyphopenia)
+                -Active immunization with live attenuated vaccine(MMR vaccine)
+                -Causes measles(Ruebola) :
+                        ->Conjunctivitis, cough, coryza, koplik spots 
+                        ->Sudden high fever and maculopapular rash 
+                        ->Common in unvaccinated children 
+        Mumps virus : 
+                -Lymphotropic(replicates in lymph nodes -> lyphopenia)
+                -Immunization with live attenuated vaccine(MMR vaccine)
+                -Causes :
+                        ->Parotitis 
+                        ->Orchitis 
+                        ->aseptic Meningitis 
+                        ->Pancreatitis 
+                        (POMP)
+        Parainfluenza : 
+                ->Common in young children 
+                ->Causes Croup(Laryngeotracheobronchitis):
+                        ->Characterisic bark-like cough and steeple sign in X-ray 
+                        
+                        
+
 
 
 
