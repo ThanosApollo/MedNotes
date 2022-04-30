@@ -1546,7 +1546,9 @@ Characterisic :
         -Two forms of vaccine for subtypes A and B: inactivated AND live attenuated vaccine
 Diseases : 
         -Influeza(the flu)
-
+Treatment : 
+        -Supportive
+        -Neuramidase inhibitors may be added(Oseltamivir, Zanamivir)
 
         
                         
