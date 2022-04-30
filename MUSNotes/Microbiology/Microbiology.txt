@@ -1512,6 +1512,7 @@ Diseases :
         Respiraotry syncytial virus(RSV)
                 ->Infects ciliatel epithelial cells -> Bronchiolitis 
                 ->Common in infants
+                ->Palivizumab for prophylaxis in infants
         Measles virus :
                 -Lymphotropic(replicates in lymph nodes -> lyphopenia)
                 -Active immunization with live attenuated vaccine(MMR vaccine)
@@ -1519,6 +1520,7 @@ Diseases :
                         ->Conjunctivitis, cough, coryza, koplik spots 
                         ->Sudden high fever and maculopapular rash 
                         ->Common in unvaccinated children 
+                -Vitamin A can reduce morbidity and mortality from measles, especially in malnourished children
         Mumps virus : 
                 -Lymphotropic(replicates in lymph nodes -> lyphopenia)
                 -Immunization with live attenuated vaccine(MMR vaccine)
@@ -1532,6 +1534,21 @@ Diseases :
                 ->Common in young children 
                 ->Causes Croup(Laryngeotracheobronchitis):
                         ->Characterisic bark-like cough and steeple sign in X-ray 
+        
+66. Orthomyxoviruses(Influenza virus)
+Characterisic : 
+        -Enveloped, single standed negative sense RNA with segmented genome 
+        -Contain hemagglutinin(binds to sialic acid and promotes viral entry) and neuramidase(promotes progeny virion release)
+        -Patients at risk with superinfection with S.Aureus,S.Pneumonia,H.Inlufenza 
+        -Three pathogenic subtypes: Inluenza A, Influenza B, Influenza C 
+                ->Sybtypes are differentiabted by hemagglutinin and neuramidase antigens 
+        -High antigen variability through antigenic drift and antigenic shift 
+        -Two forms of vaccine for subtypes A and B: inactivated AND live attenuated vaccine
+Diseases : 
+        -Influeza(the flu)
+
+
+        
                         
                         
 
