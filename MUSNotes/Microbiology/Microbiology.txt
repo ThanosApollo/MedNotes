@@ -1504,8 +1504,7 @@ Diseases :
 
 65. Paramyxoviruses 
 Characteristics :
-        -Enveloped 
-        -Negative sense, single standed RNA, linear, nonsegmented, helical capsid
+        -Enveloped, linear, Negative sense, single stranded RNA, nonsegmented, helical capsid
         -Fusion protein(F protein) -> causes fusion of repsiratory epithelia cells -> giant multinucleated cells formation
         -Airborne transmission
 Diseases : 
@@ -1515,6 +1514,7 @@ Diseases :
                 ->Palivizumab for prophylaxis in infants
         Measles virus :
                 -Lymphotropic(replicates in lymph nodes -> lyphopenia)
+                        ->Causes Lymphadenitis with Warthin-Finkeldey giant cells (fused lymphocytes)
                 -Active immunization with live attenuated vaccine(MMR vaccine)
                 -Causes measles(Ruebola) :
                         ->Conjunctivitis, cough, coryza, koplik spots 
@@ -1549,6 +1549,31 @@ Diseases :
 Treatment : 
         -Supportive
         -Neuramidase inhibitors may be added(Oseltamivir, Zanamivir)
+
+67. Coronavirus, Calicivirus 
+Coronavirus
+Characterisic:
+        ->Enveloped, Hellical capsid, positive sense RNA virus
+        ->Respiratory droplet transmission 
+Diseases : 
+        ->Mild upper respiraotry and GI tract infection 
+        ->SARS(Sever Acute Respiratory Syndrome, outbreak 2002)
+        ->MERS(Middle East Repiratory Syndrome, outbreak 2012)
+        ->SARS-2/COVID-19(outbreak 2022)
+        ->Symptoms vary from asymptomatic to ARDS
+        ->NAAT(PCR) for diagnosis
+
+Calicivirus:
+Characterisic:
+        -Non-enveloped, Icosahedral capsid, positive sense single stranded RNA 
+        -Norovirus infection is most common, transmission fecal-oral(contaminated food)
+        ->RT-PCR may be used for diagnosis 
+        ->Treamtnet : Supportive + fluid replacement 
+Disease :
+        ->Norovirus infection has incubation period of 12-48h
+        ->Causing Nausea and acute-onset vomiting, watery diarrhea 
+
+        
 
         
                         
