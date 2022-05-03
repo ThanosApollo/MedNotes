@@ -1554,14 +1554,20 @@ Treatment :
 Coronavirus
 Characterisic:
         ->Enveloped, Hellical capsid, positive sense RNA virus
-        ->Respiratory droplet transmission 
+        ->Respiratory droplet transmission
+                ->Host cell entry occurs by attachment of viral spike protein to 
+                angiotensin-converting enzyme 2 receptor on cell membranes 
+        ->RT-PCR for diagnosis
 Diseases : 
-        ->Mild upper respiraotry and GI tract infection 
+        ->Symptoms range from asymptomatic to ARDS
         ->SARS(Sever Acute Respiratory Syndrome, outbreak 2002)
         ->MERS(Middle East Repiratory Syndrome, outbreak 2012)
         ->SARS-2/COVID-19(outbreak 2022)
-        ->Symptoms vary from asymptomatic to ARDS
-        ->NAAT(PCR) for diagnosis
+        -Potential complications include respiratory
+        failure, hypercoagulability, shock, organ
+        failure, death.
+
+        
 
 Calicivirus:
 Characterisic:
@@ -1572,6 +1578,98 @@ Characterisic:
 Disease :
         ->Norovirus infection has incubation period of 12-48h
         ->Causing Nausea and acute-onset vomiting, watery diarrhea 
+
+68. Reoviruses 
+Characterisics:
+        ->Naked, Icosahedral capsid, double stranded RNA viruses, mulit-segmented(11 segments)
+        
+Diseases : 
+        Rotavirus :
+                ->Fecal-oral transmission 
+                ->Most important cause of infantile gastroenteritis -> watery diarrhea 
+                ->Vilous destruction with atrophy leads to reduced absorption of Na and loss of K
+                Diagnostics :
+                        ->Antigen detection in stool via enzyme immunoassay(EIA)
+                Treatment :
+                        ->Oral rehydration therapy
+                        ->CDC recomends vaccination within 3 months of birth
+               
+        Coltivirus :
+                ->Colorado tick fever
+                ->Vector : Rocky mountain wood tick(Dermacentor andersoni)
+                ->Flu like sympotms, possibly cervical lymphadenopathy
+                Diagnostics :
+                        ->CBC:leukopenia, thrombocytopenia, peripheral blood smear with atypical lymphocytes
+                        ->Confirmation with RT-PCR
+                Treatment :
+                        ->Supportive management 
+69. Togaviruses, Flaviviruses 
+Characterisics:
+        ->Enveloped, Icosahedral capsid, positive sense single stranded RNA
+Diseases : 
+        Western Equine Encephalitis virus(Alphaviruses): 
+                ->western equinine encephalitis
+        Eastern Equinine Encephalitis virus(Alphaviruses):
+                ->eastern Equinine Encephalitis
+                        ->Life threatening inflammation of CNS, rapid deterioration(e.g comma), 
+                        30% of patients die within 5 days of diagnosis. No treatment 
+        Chikungunya virus(Alphaviruses):
+                ->Mainly occurs in tropical and subtropical regions 
+                ->Vector : Aedes mosquito
+                ->Causes chikungynya fever(co-infection with dengue possible, similar symptoms)
+                Diagnostics :
+                        ->RT-PCR 
+                Treatment :
+                        ->Supportive
+        Rubella(3-day meeasles):
+                ->Respiratory droplet transmission
+                ->Common in children, 3 day duration 
+                ->Maculopapular rash, begins behind the ears and extends to the trunk, sparing palms and soles
+                -Diagnostics :
+                        ->Serology for detection of IgM antibodies 
+                Treatment : 
+                        ->Symptomatic treatment(e.g antihistamines for pruritis) is used. 
+                        ->No specific treatment.
+Flaviviruses 
+Characterisics : 
+        ->Enveloped, positive sense RNA viruses, Icosahedral capsid 
+Diseases : 
+        Tick-borne encephalitis virus:
+                ->Vector : Ticks
+                ->Vaccination of persons at risk(e.g forestry workers)
+                ->Tick borne encephalitis 
+        Yellow Fever : 
+                ->Vector : mosquito(Aedes)
+                ->May remain asymptomatic or cause the following :
+                        ->Sudden onset of fever(up to 41C)
+                        ->Periods of remission(up to 2 days)
+                        ->Can cause hemorrhage, black vomiting and multiorgan dysfunction
+                        ->SEVERE jaundice
+                Diagnostics :
+                        ->Liver biopsy 
+                                ->Will show councilmal bodies(eosinophilic apoptotic globules)
+                Treatment : 
+                        ->No specific antiviral available(AVOID NSAIDS, increase risk of bleeding(e.g aspirin,naproxen))
+        Dengue Fever(by Dengue virus): 
+                ->Vector : mosquito(Aedes)
+                ->High fever(40C)
+                ->Hemmorhagic fever due to causing thrombocytopenia
+                ->Severe headache with retro-robital pain 
+                ->Maculopapular, measles like exanthem
+                ->Severe cases present with hemorrhagic manifestations due to thrombocytopenia(e.g hematemesis)
+                -Diagnostics :
+                        ->Leukopenia, neutropneia and thrombocytopenia in lab tests 
+                        ->NAAT to detect viral RNA for confirmation 
+                -Treamtnet :
+                        ->Fluid administration + Blood transfussion for severe cases 
+        Zika Fever(by Zika virus):
+                ->Vector : mosquito(Aedes)
+                ->80% of cases asymptomatic 
+                ->Flue-like symptoms with maculopapular,pruritic rash(20% of cases)
+                Treatment :
+                        ->Supportive 
+
+
 
         
 
