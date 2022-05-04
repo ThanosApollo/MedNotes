@@ -298,6 +298,8 @@ Found in :
 Bacterial Culture: 
         -Pleomorphic
         -Gram variable rod
+        -KOH whiff test used for diagnostics 
+        -Grows at PH above 4.5
 Virulence factors: 
         -Pili
         -Capsule
