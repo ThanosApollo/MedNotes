@@ -1670,6 +1670,218 @@ Diseases :
                         ->Supportive 
 
 
+70. Bunyaviridae, Nairovirus
+Bunyaviridae 
+Characterisic:
+        ->Enveloped(acquired by host golgi)
+        ->Helical capsid 
+        ->negative sense single stranded RNA
+        ->3 circular segments
+        ->Transmission by Arthropods
+Diseases : 
+        -Hantavirus 
+                ->Transmission by contaminated dust with rodent feces/urine or direct bite
+                ->Causes Hemmorhagic fever, pneumonia
+                Treatment :
+                        -Supportive, avoid aspirin in VHFs because they increase risk of bleeding 
+Nairovirus
+Characterisic
+        ->Tick borne 
+        ->Enveloped
+        ->Helical capsid 
+        ->negative sense single stranded RNA
+        ->3 circular segments
+Diseases : 
+        -Crimean-Congo hemorrhagic fever virus 
+                ->Causes hemorrhagic fever
+                        ->Starts as flu-like and develops int osevere VHF with bleeding diathesis
+                Treatment :
+                        -Supportive, avoid aspirin in VHFs because they increase risk of bleeding
+                
+71. Rhabdoviruses 
+Characterisic:
+        ->Enveloped
+        ->Helical capsid
+        ->Negative single stranded RNA virus 
+Diseases : 
+        Rabie virus(Lyssavirus):
+                ->Infection via the saliva of infected animals(transmission via direct bite)
+                ->Common vectors : Dogs, foxes, bats
+                ->Virus attached to acetylcholine nicotinic receptors 
+                ->Infected cells form Negri bodies(esoniphilic cytoplasmic inclusions, typically found in cerebellum)
+                ->Causes Rabies : 
+                        ->Incubation period 4-12 weeks 
+                        ->Starts with flu like symptoms 
+                        ->Spreads to CNS 
+                        ->May manifest as paralytic rabies(20% of cases) with flaccid paralysis gradually ascending from bite wound
+                        ->Characterisic hydrophobia(pharyngeal spasms when trying to drink, later on in the disease, the sight of water may provoke nausea/vomiting)
+                        ->photophobia, seizures, leading to coma and death within weeks of the developent of neurological symptoms
+
+                Diagnostics : 
+                        ->RT-PCR to detect rabies RNA 
+                        ->Postmortem brain tissue autopsy will show Negri bodies(dont do brain biopsy while patient alive lol)
+                Treatment : 
+                        ->Rabbies immunoglobulin(passive immunization) + inactivated rabbies vaccine(active immunization)
+
+72.Poxviridae 
+Characterisic:
+        ->Enveloped, linear DNA virus, brick-shaped. 
+        ->Largest DNA virus 
+        ->Respiratory droplet transmission
+        ->Replicates in the cytoplasm(has its own DNA dependent RNA polymerase)
+Diseases : 
+        -Variola virus
+                ->Causes Smallpox(eradicated since 1980)
+                ->Deep lessions(lessions appear same age of evolution on affected parts)
+                ->Vaccine avaliable(Vaccinia/scowpox)
+                ->No known treatment 
+        -Moluscum contagiosum virus 
+                ->Common in childhood and in HIV patients(immunocompromised)
+                ->Directskin contact transmission(contact sports, sexually transmitted)
+                ->single or multiple lessions 
+                ->Nontender skin colored pearly dome-shaped papules with central umbilication(2-5mm in diameter)
+                Diagnostics:
+                        ->Seek out underlying etiologies(i.e HIV testing) if lesions in adults
+                        ->Biopsy for differential diagnosis(from e.g cutaneous aspergillosis or condyloma acuminatum)
+                Treatment :
+                        ->Remission of the lessions within few months; often treament is unnecessary
+                        ->For immunocompromised patients consider Cidofovir, Interferon-a
+        -Cowpox :
+                ->First observed in cows
+                ->When transmitted to heatlhy humans produces immunity to smallpox(used in smallpox vaccine)
+                ->May manifest in humans as self-conained localized ucler on hands
+
+
+73. Humans Herpesviruses  
+Characterisics :
+        ->Enveloped 
+        ->Linear double stranded DNA virus 
+        ->Icosahedral capsid
+        ->Replicate in host cell nucleus 
+        ->Cowdry bodies(Eosinophilic intranuclear inclusions)
+Disease : 
+        -Herpes simplex virus-1(HHV-1):
+                ->Transmission with saliva and transplacentally
+                ->Initial breakout as gingivostomatitis 
+                ->Herpes labialis, common in recurrent HSV-1 infection(cold sores) primarly affects the oral mucosa and lips
+                ->Keratoconjuctivitis with serpiginous corneal ulcers seen on fluorescein slit lamp exam
+                ->Herpetic whitlow(Direct contact with infected secretions, common in dentists), finger edema 
+                ->Encephalitis 
+                ->Esophagitis 
+                ->Erythema multiforme 1-2 weeks after infection(negative Nikolsy sign), may include fever
+                ->Lies dormant in the trigeminal ganglia
+                Diagnostics : 
+                        -Taznk smear, showing multinucleated giant cells 
+                Treatment :
+                        -Valacyclovir or Acyclovir
+        -Herpes simplex virus-2(HHV-2):
+                ->Transmission by sexual intecourse and transplacentally
+                ->Genital Herpes (redness, swelling, painful lymphadenopathy in groin area), punched out lesions may appear that 
+                later ulcerate 
+                ->Neonatal herpes 
+                ->Aseptic(Viral) meningitis
+                ->Lies dormant in the sacral ganglia
+                -Diagnostics : 
+                        -Taznk smear, showing multinucleated giant cells
+                -Treatment : 
+                        ->Valacyclovir or Acyclovir 
+        -Varicella-Zoster virus(HHV-3):
+                ->Transmission by sexual intercourse
+                ->Chickenpox(pruritic rash with small fluid-filled blisters) and shingles(reactivation), common in elderly and immunocompromised
+                ->Chickenpox lesions are found in different stages of healing(not same age)
+                ->Encephalitis 
+                ->Pneumonia
+                ->remains latent in dorsal root ganglia 
+                -Diagnostics : 
+                        -Taznk smear, showing multinucleated giant cells
+                -Treatment : 
+                        ->Valacyclovir or Acyclovir  
+                        ->Live vaccine avaliable
+        -Epstein-Barr virus(HHV-4):
+                ->Primarly transmitted through saliva 
+                ->Binds to the CD21 protein of B cells, remains latent in B cells 
+                ->Fever due to virus-induced mononucleosis
+                ->Painful lymphadenopathy in the posterior cervical region due to virus induced mononucleosis
+                ->Atypical lymphocytes(abnormally large reactive CD8+ T-cells) and Downey cells(atypical lymphocytes basophilic cytoplasm)
+                ->Splenomegaly and enlarged lymph nodes due to virus-induced mononucleosis
+                ->Pharyngitis with tonsillar exudate due to virus-induced mononucleosis
+                ->Associated with B-cell cancers(Hodgkins lymphoma, Non-Hodgkins Lymphoma and Burkitt lympha)
+                ->Oral hairy leukoplakia(common in HIV patients)
+                Diagnostics : 
+                        ->Positive monospot test 
+                Treatment : 
+                        ->Sympotmatic therapy 
+                        ->Avoid physical contact due to splenic rupture for at least 3 weeks
+        -Cytomegalovirus(HHV-5):
+                ->Transmission by sexual intecourse, congenital(transplacentally),
+                transfusions/transplants, saliva and urine 
+                -.mononucleosis-like sympotms 
+                ->Remains latent in B-cells and T-cells 
+                ->Characterisic "blueberry muffin" rash
+                ->jaundice and hepatosplenomegaly
+                ->Congenital infections are asymptomatic in 90% of cases but in the rest 10%:
+                ->Congenital infection causes bilateral or unilateral sensorineural deafness(no1 cause) 
+                ->Congenital infection causes brain structural abnormalities such as ventriculomegaly and
+                intracranial calcifications which lead to development of seizures 
+                ->Congenital infection causes hyrdops fetalis 
+                ->Causes CMV retinitis in AIDS patients, and esophagitis with deep ulcerations in HIV patients 
+                ->Owls eye inclusions in examination of CMV infected cells 
+                Diagnostics :
+                        ->Negative monospot test 
+                Treatment :
+                        -Ganciclovir 
+                        -Foscarnet or Cidofovir for UL-97 mutated variants 
+        -HH6(Roseola) and HH7:
+                -Transmission by Saliva 
+                -Reactivation of latent infection may occur later in life if patient is 
+                immunocompromised
+                -Causes Roseola infantum(more common in HH6)
+                        ->Primarly affects infants 
+                        ->High 3 day fever 
+                        ->followed by maculopapular rash, mainly on the trunk 
+                        ->Common cause of febrile seizures 
+                Diagnostics:
+                        -Antibody testing(HH6 detection)
+                        -Viral DNA testing
+                Treatment :
+                        -Sympotmatic treatment(e.g fluids and acetaminophen to reduce fever)
+        -HHV8(Kaposi's sacroma associated virus)
+                ->More common in man who have sex with man and HIV patients 
+                ->Transmission by sexual intecourse 
+                ->Kaposi sarcoma :
+                        ->Multiple cutaneous or visceral elevated tumours with rapid growth 
+                        ->Progression may disseminate to the orgnas, particurarly GI tract and respiratory tract
+                        GI tract: abdominal pain and diarrhea along with hemorrhage and bowel obstruction
+                        Rest tract : Lesions cause dyspnea, cough and hemoptysis  
+                Diagnostics : 
+                        ->HIV screening 
+                        ->Biopsy of cutaneous or visceral lesions(with spindle shaped cells)
+                Treatment : 
+                        ->Systemic Chemotherapy
+                        ->A-interferon
+                
+
+74. Adenoviruses(Adenovirus)
+Characteristics
+        ->Naked
+        ->linear Double stranded DNA
+        ->Transmission via fecal matter or contaminated water and respiratory droplets 
+        ->outbreaks common to occur in military barracks
+Diseases : 
+        -Commonly infection of tonsils and/or adenoids 
+        ->Tonsilitis 
+        ->Hemorrhagic cystitis 
+        ->Pharyngitis
+        ->Viral conjuctivitis
+Treatment : 
+        ->Symptomatic 
+        ->Vaccination for military recruits 
+
+
+
+
+
+
 
         
 
