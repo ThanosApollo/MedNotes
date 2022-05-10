@@ -141,9 +141,13 @@ Taxonomy
             Some gram positive bacteria can form spores when nutrients are limited(e.g Clostridia)
             Spores lack metabolic activity and are highly resistant to heat and chemicals
             Core contains dipicolinic acid(heat resistance)
-            :Must autoclave to kill spores by steaming at 121C for 15 minutes
+            Must autoclave to kill spores by steaming at 121C for 15 minutes
             Hydrogen peroxide and iodine based agents are also sporocidal
 
+5. Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall, Bacterial exceptions in the cell wall structure:
+
+->Cell wall
+    -
 32. Staphylococcus
 
    Classification :
