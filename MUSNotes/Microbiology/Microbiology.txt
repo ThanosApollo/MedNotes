@@ -147,7 +147,75 @@ Taxonomy
 5. Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall, Bacterial exceptions in the cell wall structure:
 
 ->Cell wall
-    -
+    -Thick in gram positives, thin in gram negatives
+    -Composition:
+        ->Peptidohlycan is composed of:
+            ->Mycolic acid in acid-fast bacteria
+            ->Peptide side chains which are crosslinked transpeptidases
+            ->Muramic acid: An alternating amino sugar acid
+            ->Gram positives organisms have lipoteichoic acids
+        ->Function:
+            ->Net-like function
+            ->Provides structural strength
+            ->Protects against osmotic pressure damage
+            ->Lipoteichoic acid stimulates release of TNA-a, IL-1
+            ->Mycolic acid provides chemical and aridity resistance
+
+->Biosynthesis of bacterial cell wall - Peptidoglycan synthesis
+    ->Constructed on the surface of the cell membrane and is composed of repeating carbohydrate backbone subunit(NAG-NAM)
+    ->Peptidoglycan biosyntehsis occurs via the following steps:
+        ->Activation of carbohydrate subunits
+            ->NAM and NAG subunits are activated by attachment to UDP
+        ->Synthesis of the linking peptide
+            ->A pentapeptide is added to UDP-NAM, with the two terminal alanine residues added as dipeptide
+        ->Transfer of the peptidoglycan unit to bacroprenol phosphate
+            ->NAP-PEP moiety is transferred from the UDP carrier to bacroprenol phosphate(BPP), located on the inner surface of the cell membrane
+            ->UDP-NAG transfers NAG to NAP-PEP, completing the pepridoglycan repeat unit,
+            ->NAG-NAM-PEP which is now attached to carrier BPP
+        ->Addition of the repeat unit to the existing peptidoglycan
+            ->BPP carries the NAG-NAM-PEP repeat unit to the outside surface, where the peptidoglycan of the existing cell wall is located
+            ->Repeat unit is added to a free end, increasing length by one repeat unit
+            ->Free ends are created by a limited hydrolytic loosening of the preexisting peptidoglycan
+        ->Cross-linking of the pentapeptide to the peptidoglycan backbone :
+            ->Cross linking is brought about by a transpeptidation reaction that bonds DAP of the peptide in an adjacent chain, causing the release of the terminal ala. This mode of direct cross-linking is characteristic of E coli and other gram negatives
+            ->In G+, a glycine pentapeptide is usually interposed between the lysine at position three of one PEP and the ala at position four of the PEP
+        ->Peptidoglycan biosynthesis is a target of antibacterial agents
+            ->e.g Beta-Lactams such as penicilin inhibit the enzymes that catalyze transpeptidation and carboxypeptidation reactions of cell wall assembly
+
+->Bacterial exceptions in cell wall
+    -Mycoplasmas
+        ->No cell wall, incorporate sterols
+
+6. Bacterial ultrastructure - external structures
+->Glycocalyx :
+    ->Present in both G+ and G-
+    ->Loose polysaccharide net(slime layer)
+    ->Provides adhesions to cell surface and foreign surface
+->Bacterial Capsule :
+    ->Present in both G+ and G-
+    ->Organized layer of polysaccharide
+    ->Rarely contains proteins
+    ->Protects against phagocytosis
+->Cytoplasmic membrane :
+    ->Present in both G+ and G-
+    ->Bilayer of phospholipids(e.g penilin binding protein proteinsa) and enzymes
+    ->Contains metabolic enzymes for transport and oxidative metabolism
+->Flagellum
+    ->Present in both G+ and G-
+    ->Proteins that provide motility
+->Pili(Fimbriae)
+    ->Present in both G+ and G-
+    ->Glycoproteins that aid in adhesion or function as sex pilus(exchange of genetic material)
+
+
+
+
+
+
+
+
+
+
 32. Staphylococcus
 
    Classification :
