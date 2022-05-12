@@ -1,7 +1,17 @@
 1. Origin and evolution of cells.
 
 2. Proteins. Protein domains. Protein families.
-
+Protein functions :
+    ->Structural support
+    ->Movement
+    ->Catalysis
+    ->Recognition
+    ->Homeostasis
+    Traits of an organism are determined by the proteins it can produce
+Protein structure :
+    -Primary structure :
+        ->The sequence of the polypeptide chain
+        ->Number of amino acids
 3. Nucleic acids. DNA. RNA
 
 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
