@@ -2,17 +2,21 @@
 
 # 2. Proteins. Protein domains. Protein families. 
 
-## Protein functions :<br>
+### Protein functions :<br>
 * Structural 
 * Movement
 * Catalysis
 * Recognition
 * Homeostasis
 > Traits of an organism are determined by the proteins it can produce
-## Protein structure :
+### Protein structure :
 * Primary structure :
     * The sequence of the polypeptide chain
     * Number of amino acids
+    * Order of amino acids(arrangement)
+> Primary structure is determined by the respective gene. Based on peptide bonds between amino acids.
+> Primary structure ultimately determines all other levels of protein structure plus the function of the protein
+
 
 # 3. Nucleic acids. DNA. RNA 
 
