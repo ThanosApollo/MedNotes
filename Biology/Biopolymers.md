@@ -1,0 +1,34 @@
+# 1. Origin and evolution of cells.
+
+# 2. Proteins. Protein domains. Protein families. 
+
+## Protein functions :<br>
+* Structural 
+* Movement
+* Catalysis
+* Recognition
+* Homeostasis
+> Traits of an organism are determined by the proteins it can produce
+## Protein structure :
+* Primary structure :
+    * The sequence of the polypeptide chain
+    * Number of amino acids
+
+# 3. Nucleic acids. DNA. RNA 
+
+# 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
+# 5. Transcription.
+
+# 6. RNA processing.
+
+# 7. Genetic code. Translation.
+
+# 8. Proteins after translation: sorting, folding, modifications, degradation.
+
+# 9. DNA replication.
+
+# 10. RNA replication. Reverse transcription
+
+# 11. DNA repair.
+
+
