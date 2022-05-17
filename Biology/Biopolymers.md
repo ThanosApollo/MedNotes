@@ -45,8 +45,24 @@
 > Quaternary : Interactions of subunits 
 
 * Protein domains 
-    * 
+    * Tertiary structure packs the alpha helices and/or beta sheets in globular units called **domains**
+    * Some proteins have a single domain while others have two or more 
+    * Different domains have different structure and perform different functions 
+    * Popular folding patterns are called **protein motifs** 
+* Protein Families 
+    * A group of evolutionarily-related proteins
+    * Share a corresponding gene family, leading to significant sequence similarity
+    * Similar three-dimensional structures 
+    * Can be groped into larger clades called protein super families 
+        * e.g Immunoglobulin superfamily - contain a sandwich-like structure of two B-sheets
 # 3. Nucleic acids. DNA. RNA 
+
+###Nucleic Acids
+* Nucleic acids are macromolecules responsible for storage, transmission and retrieval of genetic information
+* Two types of nucleic acids ***DNA-Deoxyribonucleic*** acid and ***RNA-Ribonucleic*** acid
+
+###DNA 
+
 
 # 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
 
