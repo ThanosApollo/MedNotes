@@ -1,5 +1,4 @@
 
-# Test 
 
 # 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
 
@@ -48,7 +47,7 @@
 * Diagnostics : 
     * Trypomastigotes in blood smear using Giemsa stain
 > Disease first desrcibed by Carlos Chagas in 1909, now it is known as Chagas Disease 
-#79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.
+# 79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.
 * Blood protozoan
 * Vector transmission by sandfly 
 * Vertebrates are the hosts of Lesihmania braziliensis 
@@ -62,7 +61,7 @@
     * hepatosplenomegaly 
 * Treatment : 
     * Amphotericin B 
-#80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).
+# 80. Trichomonas vaginalis. Trichomonas tenax. Giardia lamblia (Lamblia intestinalis).
 
 ### Trcihonomas vaginalis 
 * Anaerobic, motile protozoan with flagella
