@@ -81,7 +81,6 @@
 * Found in oral cavity, causes gingivostomatitis, but commony asymptomatic 
 ### Giardia Lamblia 
 * Anaerobic flagellated protozoan parasite in the **small intestine**
-### Trichomonas tenax 
 #81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.
 #82. Phylum Apicomplexa. Toxoplasma gondii.
 #83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in
