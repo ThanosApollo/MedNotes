@@ -1,7 +1,7 @@
 
-#Test 
+# Test 
 
-#78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
+# 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
 
 #Trypanosoma brucei
     * Causes African trypanosomiasis(Sleeping sickness)
