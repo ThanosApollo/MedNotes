@@ -80,11 +80,88 @@
 * Anaerobic, motile protozoan with flagella
 * Found in oral cavity, causes gingivostomatitis, but commony asymptomatic 
 ### Giardia Lamblia 
-* Anaerobic flagellated protozoan parasite in the **small intestine**
+* Giardia Lamblia is an intestinal protozoan 
+    >Anaerobic flagellated protozoan in the small intestine
+* Fecal-oral transmission
+    >Infectious cysts that are passed through stool
+* Giardiasis is associated commonly with campers
+    > Giardia is transmitted through poorly purified water
+* Giardiasis presents with **watery diarrhea**
+* Life cycle : 
+    * Trophozoite : active form of the pathogen that multiplies within host
+        > Morphology : pear-shaped with 4 pairs of flagella and 2 nuclei
+    * Cyst : infectious form, able to survive in moist environments
+        > Morphology : pear-shaped with 4 nuclei
+* Diagnostics :
+    * Presence of Giardia Lamblia trophozoites in stool
+    * Stool O&P 
+    * ELISA
+* Treatment : 
+    * Metronidazole
 #81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.
+### Entamoeba Histolytica
+* Intestinal protozoan
+    > Primarly in the large intestine and colon
+* Infectious cysts that are passed through stool
+    >Humans can contract amebiasis by contaminated water or good
+    >Amebiasis is associated with man who have sex with men(via anal-oral sexual intercourse)
+* Right lobe of the liver is the most common site of amebic liver abscess
+* Hepatic amebiasis can present with right upper quadrant pain
+* Intestinal amebiasis presents with **ulceration** of the intestinal mucosa
+    >Ulcers are typically flask-shaped
+* Ulceration of the intestinal mucosa will result in **bloody diarrhea**
+* Diagnosistics :
+    * Stool O&P
+    * Entamoeba histolytica **trophozoites present with endocytosed RBCs**
+* Treatment : 
+    * Metronidazole 
+### Entamoeba dispar
+* nonpathogenic species in the large intestine
+* similar to E.Histolytica but never ingests RBCs
+* has trophozoite and cyst form
+
+### Entamoeba gingivalis 
+* the first amoeba described in humans
+* associated with gum disease
+* transmitted via kissing
+
 #82. Phylum Apicomplexa. Toxoplasma gondii.
-#83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in
-the erythrocyte schizogony of the genus Plasmodium.
+### Phylum Apicomplexa 
+* Posses a unique organelle, called apicoplast(nonphosynthetic plasmid)
+    > Hosts four main metabolic pathways(Fatty Acid synthesis, Isoprenoid Syntehsis, Heme Synthesis, Iron-sulphur cluster synthesis)
+* Both sexual and sexual reproduction
+### Toxoplasma gondii 
+* Toxoplasma gondii is a CNS protozoan
+* Obligate intracellular
+* Can transfer transplacentally to unborn fetus
+    > Congenital toxoplasmosis presents with intracranial calcifications and hydrocephalus with seizures
+    > Hearing loss and chorioretinitis also possible
+* Cats are definitive host, humans can contract toxoplasmosis via contact with cat feces
+    * Toxoplasma gondii **oocysts** are found in warm-blooded animal feces, particularly **in cats**
+* Immunocompromised patients are at a higher risk
+    * Multiple ring-enhancing lessions on CT/MRI is feature of cerebral toxoplasmos in immunocompromised patients(HIV/AIDS)
+* Immunocompotent individuals are usually asymptomatic
+* Tachyzoite form ->
+* Toxoplasma gondii **cysts** can be found **in undercooked meat**
+* Tachyzoites:
+    * Rapid growth and divison
+    * Endodyogeny
+* Bradyzoites 
+    * Pseudocysts
+    * Usually in infected muscles and brain
+* Diagnostics:
+    * Serology(IgM antibody in acute, IgG antibody remains positive for life)
+    * PCR
+    * CT/MRI
+* Treatment :
+    * Sulfadiazine/Pyrimethamine
+
+
+#83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.
+* Genus Plasmodium belongs to the Phylum Apicomplexa
+    
+
+
 #84. Phylum Ciliophora. Balantidium coli.
 #85. Metazoa: important evolutionary changes associated with the transition to multicellularity.
 Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
