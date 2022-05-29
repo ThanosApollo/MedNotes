@@ -2,7 +2,7 @@
 
 # 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
 
-# Trypanosoma brucei
+### Trypanosoma brucei
     * Causes African trypanosomiasis(Sleeping sickness)
     * Trypanosoma brucei is a hemoflagellate protozoan(flaggelated(trypomastigote) in the blood, amastigote in tissue)
     * Vector transmission by bite of **tsetse fly**
@@ -24,7 +24,7 @@
     Treatment : 
         * Stage I -> Suramin
         * Stage II -> Melarsoprol 
-# Trypanosoma cruzi 
+### Trypanosoma cruzi 
 * Causes Chagas Disease 
 * Trypomastigote form in blood, amastigote in tissues
 * Vector transmission by reduviid bug(kissing bug, bites around the mouth or eyes usually)
@@ -98,7 +98,7 @@
     * ELISA
 * Treatment : 
     * Metronidazole
-#81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.
+# 81. Subphylum Sarcodina. Entamoeba histolytica. Entamoeba dispar. Entamoeba gingivalis.
 ### Entamoeba Histolytica
 * Intestinal protozoan
     > Primarly in the large intestine and colon
@@ -125,7 +125,7 @@
 * associated with gum disease
 * transmitted via kissing
 
-#82. Phylum Apicomplexa. Toxoplasma gondii.
+# 82. Phylum Apicomplexa. Toxoplasma gondii.
 ### Phylum Apicomplexa 
 * Posses a unique organelle, called apicoplast(nonphosynthetic plasmid)
     > Hosts four main metabolic pathways(Fatty Acid synthesis, Isoprenoid Syntehsis, Heme Synthesis, Iron-sulphur cluster synthesis)
@@ -206,7 +206,7 @@
 * Diagnosis :
     * Blood smear prepared with Giemsa stain for visualization
 
-#84. Phylum Ciliophora. Balantidium coli.
+# 84. Phylum Ciliophora. Balantidium coli.
 ### Phylum Ciliophora 
 * Complex protozoans, found in lakes, rivers, oceans and soil 
 * Ectosymbiotic, endosymbiotic and sometimes parasites
@@ -226,16 +226,47 @@
 * Asymptomatic in healthy individuals 
 * In malnurished patients -> colon dysfunction
 
-#85. Metazoa: important evolutionary changes associated with the transition to multicellularity.
+
+# 85. Metazoa: important evolutionary changes associated with the transition to multicellularity.
 Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
+
+
 # 86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.
 
-###Phylum Platyhelmnithes 
+### Phylum Platyhelmnithes 
 * Triploblastic(Ectoderm,Mesoderm,Endoderm)
 > First organism with bilateral symmetry and tissues organized into organs
 * no specialized circulatory and respiratory organs
-* Flattened shape allows oxygen and nutrients to pass through their bodies by diffusion
-* one opening for ingestion and egestion
+* Characteristics:
+    * Flattened shape that allows oxygen and nutrients to pass through their bodies by diffusion
+    * One opening for ingestion and egestion
+    * Nevrous system :
+        * A pair of anterior ganglia, two longitudinal nerve cords, interconnected by transverse nerves
+    * Excretory system :
+        * protonephridia and their associated ducts
+    * Reproductive system : 
+        * Hermaphrodites 
+### Class Trematoda(Flukes)
+* Worm-like 
+* Hermaphrodites :
+    * Usually with testes
+    * Usually a single ovarium
+    * a pair of vitelline glands on either body side for yolk production
+    * ootype(fertilization place)
+    * elongated uterus(egg maturation place)
+* Aseual reproduction of the larval stages
+* **Trematodes infect mollusks as the first host**
+* Life Cycle : 
+    * **Metacercariae** on freshwater plants are ingested by herbivorous mammals e.g sheep, cattle or humans(incidental host)
+    * Migration of the organism through the intestinal wall, then liver parenchyma into biliarry ducts 
+    * Adult fluke release eggs into the biliary ducts, which are passed in the stool
+    > Snails serve as intermediate host
+* Diagnosis :
+    * Eosinophilia and detection of eggs in stool
+
+
+
+
 #87. Dicrocoelium dendriticum (D. lanceatum).
 #88. Opisthorchis felineus. Genus Schistosoma and its species.
 #89. Class Cestoda. Diphyllobothrium latum.
