@@ -10,15 +10,15 @@
 * Stages of disease 
 * Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly
 * Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, more common in cattle than humans(humans are secondary host)
-     * Stage I :
-            * Intermittent fever : caused by antigenic variation 
-            * Painless lymph node enlargement 
-            * **Winterbottom** sign : painles cervical lymphadenopathy in the posterior triangle of the neck
+    * Stage I :
+        * Intermittent fever : caused by antigenic variation 
+        * Painless lymph node enlargement 
+        * **Winterbottom** sign : painles cervical lymphadenopathy in the posterior triangle of the neck
     * Stage II :
-            * Headache
-            * Insomia
-            * Coma
-            * Death
+        * Headache
+        * Insomia
+        * Coma
+        * Death
     * Diagnostics :
         * Direct visualization of trypomastigotes in blood smear using Giemsa stain 
         * for Stage II diagnostics, lumbar puncture and CSF examination is used 
