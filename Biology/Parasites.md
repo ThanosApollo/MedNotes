@@ -3,11 +3,12 @@
 # 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
 
 ### Trypanosoma brucei
- * Causes African trypanosomiasis(Sleeping sickness)
- * Trypanosoma brucei is a hemoflagellate protozoan(flaggelated(trypomastigote) in the blood, amastigote in tissue)
- * Vector transmission by bite of **tsetse fly**
- * Stages of disease 
- * Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly
+
+* Causes African trypanosomiasis(Sleeping sickness)
+* Trypanosoma brucei is a hemoflagellate protozoan(flaggelated(trypomastigote) in the blood, amastigote in tissue)
+* Vector transmission by bite of **tsetse fly**
+* Stages of disease 
+* Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly
 * Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, more common in cattle than humans(humans are secondary host)
      * Stage I :
             * Intermittent fever : caused by antigenic variation 
