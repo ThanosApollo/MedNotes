@@ -256,32 +256,39 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * elongated uterus(egg maturation place)
 * Aseual reproduction of the larval stages
 * **Trematodes infect mollusks as the first host**
+
+### Fasciola Hepatica
 * Life Cycle : 
     * **Metacercariae** on freshwater plants are ingested by herbivorous mammals e.g sheep, cattle or humans(incidental host)
     * Migration of the organism through the intestinal wall, then liver parenchyma into biliarry ducts 
     * Adult fluke release eggs into the biliary ducts, which are passed in the stool
     > Snails serve as intermediate host
+* Transmission by consumption of contaminated freshwater plants
+* Clinical features : 
+    * Acute phase :
+        * fever, right upper quadrant pain, hepatomegaly
+    * Chronic billiary phase :
+        * Diarrhea, vomiting, biliarry obstruction 
 * Diagnosis :
     * Eosinophilia and detection of eggs in stool
 
 
 
 
-#87. Dicrocoelium dendriticum (D. lanceatum).
-#88. Opisthorchis felineus. Genus Schistosoma and its species.
-#89. Class Cestoda. Diphyllobothrium latum.
-#90. Taenia saginata. Taenia solium.
-#91. Echinococcus granulosus. Hymenolepis nana.
-#92. Phylum Nematoda. Ascaris lumbricoides.
-#93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
-#94. Trichinella spiralis.
-#95. Ancylostoma duodenale. Strongyloides stercoralis.
-#96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
-#97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
-#98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.
-Class Arachnida. Orders Scorpiones and Araneae.
-#99. Order Acari. Medical importance of ticks and mites.
-#100. Class Insecta. The role of insects as vectors and mechanical carriers.
-#101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
-#102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
-#103. Overview of parasitism.
+# 87. Dicrocoelium dendriticum (D. lanceatum).
+# 88. Opisthorchis felineus. Genus Schistosoma and its species.
+# 89. Class Cestoda. Diphyllobothrium latum.
+# 90. Taenia saginata. Taenia solium.
+# 91. Echinococcus granulosus. Hymenolepis nana.
+# 92. Phylum Nematoda. Ascaris lumbricoides.
+# 93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
+# 94. Trichinella spiralis.
+# 95. Ancylostoma duodenale. Strongyloides stercoralis.
+# 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
+# 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
+# 98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.
+# 99. Order Acari. Medical importance of ticks and mites.
+# 100. Class Insecta. The role of insects as vectors and mechanical carriers.
+# 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
+# 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
+# 103. Overview of parasitism.
