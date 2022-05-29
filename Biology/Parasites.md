@@ -2,7 +2,7 @@
 
 # 78. Protozoa. Phylum Sarcomastigophora. Subphylum Mastigophora (Flagellata). Trypanosoma brucei gambiense, Trypanosoma brucei rhodesiense. Trypanosoma cruzi.
 
-#Trypanosoma brucei
+# Trypanosoma brucei
     * Causes African trypanosomiasis(Sleeping sickness)
     * Trypanosoma brucei is a hemoflagellate protozoan(flaggelated(trypomastigote) in the blood, amastigote in tissue)
     * Vector transmission by bite of **tsetse fly**
@@ -24,7 +24,7 @@
     Treatment : 
         * Stage I -> Suramin
         * Stage II -> Melarsoprol 
-#Trypanosoma cruzi 
+# Trypanosoma cruzi 
 * Causes Chagas Disease 
 * Trypomastigote form in blood, amastigote in tissues
 * Vector transmission by reduviid bug(kissing bug, bites around the mouth or eyes usually)
@@ -138,11 +138,13 @@
     > Hearing loss and chorioretinitis also possible
 * Cats are definitive host, humans can contract toxoplasmosis via contact with cat feces
     * Toxoplasma gondii **oocysts** are found in warm-blooded animal feces, particularly **in cats**
+* Transmission by **cysts** in **undercooked meat** 
 * Immunocompromised patients are at a higher risk
     * Multiple ring-enhancing lessions on CT/MRI is feature of cerebral toxoplasmos in immunocompromised patients(HIV/AIDS)
 * Immunocompotent individuals are usually asymptomatic
 * Tachyzoite form ->
 * Toxoplasma gondii **cysts** can be found **in undercooked meat**
+* Forms :
 * Tachyzoites:
     * Rapid growth and divison
     * Endodyogeny
@@ -157,15 +159,83 @@
     * Sulfadiazine/Pyrimethamine
 
 
-#83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.
+# 83. Plasmodium vivax. Plasmodium malariae. Plasmodium falciparum. Morphological differences in the erythrocyte schizogony of the genus Plasmodium.
 * Genus Plasmodium belongs to the Phylum Apicomplexa
-    
+* Plasmodium spp. are blood protozoa that cause malaria
+    > Malaria present with high-grade fever and flue-like symptoms
+    > Most Malaria infections are associated with anemia, jaundice and hepatosplenomegaly
+* Vector : Anopheles mosquito
 
+### Plasmodium Falciparum
+* Endemic to sub-Saharan Africa and Southeast Asia
+* Irregular fever pattern
+* Associated with **severe** malaria
+* Cytoadherencae:
+ > Erythrocytes parasitized by P.Falciparum can occlude renal, hepatic and pulmonary vessels -> renal failure, hepatic failure and ARDS
+* Erythrocytes parasitized by P.Falciparum can occlude cerebral capillaries -> cerebral malaria
+* **Sickle cell** and **alpha and beta thalassemia** confer relative protection against P.Falciparum
+
+### Plasmodium Vivax
+* Endemic to Southeast Asia, Americas, Africa
+* P.Vivax produce hypnozoites(dormant stage) that can persist in the liver and cause relapse of malaria weeks or months later
+* Produce fever spikes every 48hours(tertian fever)
+
+### Plasmodium Malariae
+* Endemic to sub-Saharan Africa, Southeast Asia and South America
+* Produce fever spikes every 72hours(quartan fever)
+
+### Life cycle 
+* female mosquito takes a blood meal and injects **sporozoites** into the bloodstream, **beginning the exoerythrogenic cycle**
+* Plasmodium sporozoites migrate to the liver where they infect hepatocytes
+* Sporozoites divide asexually to form **mutlinucleated schizonts**, each schizonts **contains 8-24 merozoites**
+* Schizonts rupture to release merozoites into the bloodstream
+> **Sporozoites of P.vivax** can develop into **hypnozoites** which lie dormant into hepatocytes for weeks to months
+* Plasmodium merozoites infect RBCs, **beginning erythrogenic cycle**
+* Plasmodium merozoites develop into **ring forms**
+* Plasmodium ring forms progress to **mature trophozoites within RBCs**
+* Mature trophozoites develop into **schizonts**
+* Rupture of schizonts -> **lysis of RBCs** -> release of merozoites into the blood stream -> infection of new RBCs
+> A small number of merozoites differentiate into male and female **gametocytes**
+
+### Morphological differences
+* P.Falciparum gametocytes appear banana-shaped
+* P.vivax induce morphological changes in infected RBCs that are visible on microscopy -> **Schuffner dots**
+* P.Malariae has band-like trophozoite stage
+
+
+* Diagnosis :
+    * Blood smear prepared with Giemsa stain for visualization
 
 #84. Phylum Ciliophora. Balantidium coli.
+### Phylum Ciliophora 
+* Complex protozoans, found in lakes, rivers, oceans and soil 
+* Ectosymbiotic, endosymbiotic and sometimes parasites
+* Characteristics :
+    * Cilira : 
+        * Hair-like organelles, similar to flagella but shorter
+        * used in swimming and attachment
+    * Two different nuclei : 
+        * a small, diploid micronucleus(reproduction)
+        * a large, polyploid macronucleus(general cell regulation)
+    * Cytosome and cytopharynx
+* Reproduction by fission(asecual), autogamy(self-fertilization) and conjugation(use of plasmids)
+
+### Balantidium coli 
+* The only ciliate known to be parasite in human
+* Found in the colon, in humans as well as pigs and other mammals
+* Asymptomatic in healthy individuals 
+* In malnurished patients -> colon dysfunction
+
 #85. Metazoa: important evolutionary changes associated with the transition to multicellularity.
 Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
-#86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.
+# 86. Phylum Platyhelminthes: important evolutionary changes. Class Trematoda. Fasciola hepatica.
+
+###Phylum Platyhelmnithes 
+* Triploblastic(Ectoderm,Mesoderm,Endoderm)
+> First organism with bilateral symmetry and tissues organized into organs
+* no specialized circulatory and respiratory organs
+* Flattened shape allows oxygen and nutrients to pass through their bodies by diffusion
+* one opening for ingestion and egestion
 #87. Dicrocoelium dendriticum (D. lanceatum).
 #88. Opisthorchis felineus. Genus Schistosoma and its species.
 #89. Class Cestoda. Diphyllobothrium latum.
