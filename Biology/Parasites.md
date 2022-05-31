@@ -10,7 +10,7 @@
 * Stages of disease 
 * Gambiense subtype is endemic to Central and West Africa, causes chronic trypanosomiasis, progresses slowly
 * Rhodesiense subtype is endemic to East Aftica, causes acute trypanosomiasis, more common in cattle than humans(humans are secondary host)
-> Stages of disease
+* Stages of disease
     *  Stage I :
         * Intermittent fever : caused by antigenic variation 
         * Painless lymph node enlargement 
