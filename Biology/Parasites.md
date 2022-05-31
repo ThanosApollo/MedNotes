@@ -22,13 +22,13 @@
     * Diagnostics :
         * Direct visualization of trypomastigotes in blood smear using Giemsa stain 
         * for Stage II diagnostics, lumbar puncture and CSF examination is used 
-    Treatment : 
+    * Treatment : 
         * Stage I -> Suramin
         * Stage II -> Melarsoprol 
 ### Trypanosoma cruzi 
 * Causes Chagas Disease 
 * Trypomastigote form in blood, amastigote in tissues
-* Vector transmission by reduviid bug(kissing bug, bites around the mouth or eyes usually)
+* Vector transmission by **reduviid** bug(kissing bug, bites around the mouth or eyes usually)
 * T.cruzi is shed in the feces of the reduviid bug; feces is then rubbed into the bite site while scratching
 * Endemic to Central and South America
 * Clinical features : 
@@ -277,6 +277,19 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 
 # 87. Dicrocoelium dendriticum (D. lanceatum).
+* Liver fluke, Belongs to the Class Trematoda(flukes)
+* Two intermediate hosts(Snail, ant) -> Mainly found in grazing animals 
+* Life cycle : 
+    * Grazing animal(e.g cow) ingests ant with metacercaria 
+    * Matures into adult fluke in the bile duct of liver
+    * Eggs are passed in feces
+    * Snail digests eggs from animal feces, where they hatch and mature into cercaria 
+    * Cercaria are found in snail slime, which ants ingest 
+    * Metacercaria encyst in ant
+
+
+
+
 # 88. Opisthorchis felineus. Genus Schistosoma and its species.
 # 89. Class Cestoda. Diphyllobothrium latum.
 # 90. Taenia saginata. Taenia solium.
