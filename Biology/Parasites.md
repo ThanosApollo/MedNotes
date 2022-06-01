@@ -286,6 +286,13 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Snail digests eggs from animal feces, where they hatch and mature into cercaria 
     * Cercaria are found in snail slime, which ants ingest 
     * Metacercaria encyst in ant
+* Transmission to humans is rare
+* Clinical features : 
+    * Mild symptoms, digestive distrurbances and diarrhea
+    * May cause in hepatomegaly or cirrhosis in heavier infections
+* Morphology :
+    * Similar to Clonorchis sinensis, distinguished by testes in the anterior body, as opposed to the Clonorchis sinensis whose testes are located in the posterior
+    * The posterior is where the uterus is, antiorly an oral sucker is found
 
 
 
