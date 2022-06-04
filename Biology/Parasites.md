@@ -320,7 +320,82 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     >Schistosomiasis is a **risk factor** for squamous cell bladder cancer
 
 # 89. Class Cestoda. Diphyllobothrium latum.
+### Class Cestoda 
+* Parasites in all vertebrates 
+* Adult form is intestinal 
+* Pass through feces
+* Larval stages in tissues(cysticercus) 
+* Absorp nutrients through the skin, **NO digestive system** 
+* Parts : 
+    * Scolex 
+        * rostellum of hooks - T.Solium
+        * 4 suckers - T. Saginata, 
+    * Neckpiece for budding new proglottids
+
+### Diphyllobothrium latum
+* Largest tapeworm - can reach 10meters
+* Infection by eating raw or under cooked fish 
+* Scolex: 
+    * 2 bothria 
+* Proglottids can be seen in stool exam
+* Adults can shed up to a million eggs a day 
+* Clinical features :
+    * B12 deficiency, which may lead to megaloblastic anemia
+* Treament : 
+    * Praziquantel
+
+
 # 90. Taenia saginata. Taenia solium.
+> Taenia saginata and Taenia soluium are tapeworms(Cestodes)
+> Both cause Intestinal Taeniasis, only T.Solium can cause cysticercosis 
+### Taenia Saginata 
+> Beef tapeworm
+* Transmission : 
+    * Infestion of larvae(cysticerci) in raw or undercooked beef
+* Clinical features : 
+    * Often asymptomatic
+    * May cause abdominal pain, weight loss and vomiting 
+    * Eosinophilia
+* Hosts : 
+    * Cattle - intermediate host 
+    * Human - Definitive host 
+* Morphology : 
+    * Scolex with 4 suckers, no rostellum.
+    * Gravid proglottid with more than 12 uterine branches on each side
+
+
+### Taenia Solum 
+> Pork tapeworm
+* Transmission : 
+    * Ingestion of larvae in raw or undercooked pork -> Intestinal taeniasis 
+    * Fecal-oral: eggs are ingested from contaminated water -> Cysticercosis 
+* Clinical features : 
+    * Often asymptomatic
+    * May cause abdominal pain, weight loss and vomiting 
+    * Eosinophilia 
+    * May cause cysticerci accumulation in subcutaneous tissue, muscles and CNS 
+* Hosts : 
+    * Pigs - intermediate host
+    * Humans - Definitive host
+* Mophology :
+    * Scolex - rostellum with 2 rows of 4 hooks and suckers
+    * Gravid proglottid - less than 12 uterine brancehs on each side
+* **Neurocysticercosis** is an infection of the CNS that can develop following ingestion of Taenia Solium eggs
+    * Taenia solium eggs can be transmitted via feces-contaminated water
+    * Neurocysticercosis by T.Solium can lead to seizures
+    * Neurocysticercosis shows characteristic cheese-like brain lesions on CT scan
+> Neurocysticercosis occurs if T.Solium disseminates from the small intestine to CNS
+* Treatment : 
+    * Praziquantel for common infection, add albendazole+corticosteroids for neurocysticercosis 
+
+### Life cycle 
+> This applies to both Taenia spp. 
+* Eggs hatch in the human intestine 
+* Develop into adult worms
+* Produce proglottids which can detach from the tapeworm and are passed in the feces
+
+
+
 # 91. Echinococcus granulosus. Hymenolepis nana.
 # 92. Phylum Nematoda. Ascaris lumbricoides.
 # 93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
