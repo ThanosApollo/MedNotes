@@ -317,7 +317,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 * Schistosoma spp. cause **cirrhosis** and **periportal fibrosis** which may lead to portal hypertension
 * Hepatitis caused by schistosomiasis can present with jaundice
 * Schistosoma haematobium infects urinary tract, which presents with hematuria
-    > Schistosomiasis is a **risk factor** for squamous cell bladder cancer
+    >Schistosomiasis is a **risk factor** for squamous cell bladder cancer
 
 # 89. Class Cestoda. Diphyllobothrium latum.
 # 90. Taenia saginata. Taenia solium.
