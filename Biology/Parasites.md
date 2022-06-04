@@ -317,7 +317,9 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 * Hepatitis caused by schistosomiasis can present with jaundice
 * Schistosoma haematobium infects urinary tract, which presents with hematuria
     > Schistosomiasis is a **risk factor** for squamous cell bladder cancer
-* Treatment : Praziquantel
+To https://github.com/ThanosApollo/UniversityNotes.git
+   6605070..b409fc3  main -> main
+branch 'main' set up to track 'origin/main'.
 
 
 # 89. Class Cestoda. Diphyllobothrium latum.
