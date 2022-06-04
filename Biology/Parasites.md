@@ -298,6 +298,28 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 
 # 88. Opisthorchis felineus. Genus Schistosoma and its species.
+* Cat liver fluke (trematode parasite)
+* Two intermediate hosts :
+    * Snail, freshwater fish
+* definitive host are fish-eating mammals such as dogs,cats and humans
+
+### Genus Schistosoma 
+* free-living Schistosoma spp. cercariae are found in aquatic environments
+    > Swimmers high risk group 
+* snails are intermediate host of Schistosoma spp.
+* Schistosoma spp. mature in the liver
+* Migrate against the portal flow
+* Eggs of **Schistosoma mansosi** have a **lateral spine**
+* Eggs of **Schistosoma japonicum** have a **small spine**(appear round)
+* Eggs of **Schistosoma haematobium** have a **Large terminal spine**
+* Schistosoma spp. cause swimmer's itch(allergic reaction that manifests as rash, usually on lower legs)
+* Schistosoma spp. cause **cirrhosis** and **periportal fibrosis** which may lead to portal hypertension
+* Hepatitis caused by schistosomiasis can present with jaundice
+* Schistosoma haematobium infects urinary tract, which presents with hematuria
+    > Schistosomiasis is a **risk factor** for squamous cell bladder cancer
+* Treatment : Praziquantel
+
+
 # 89. Class Cestoda. Diphyllobothrium latum.
 # 90. Taenia saginata. Taenia solium.
 # 91. Echinococcus granulosus. Hymenolepis nana.
