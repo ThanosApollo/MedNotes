@@ -579,6 +579,16 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
         * Larvae mature into adult, egg-producing worms in the intestine 
         * Eggs develop into infectious larvae and are excreted in feces 
     > Hyperinfection : Some Larvae may penetrate the intestinal and enter the bloodstream
+    * Clinical features 
+        * Cutaneous phase 
+            * Swelling, erythema
+            * Pruritus 
+        * Pulmonary phase 
+            * cough, hemoptysis, Loffler syndrome
+        * Intestinal phase 
+            * Inflammation, abdominal pain with diarrhea 
+    * Diagnostics :
+        * Eosinophilia and stool examination for mobile rhabditiform larvae 
 
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
