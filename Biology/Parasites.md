@@ -544,6 +544,32 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 
 # 95. Ancylostoma duodenale. Strongyloides stercoralis.
+### Ancylostoma duodenale 
+> Human hookwrom 
+    * Transmission :
+        * Cutaneous penetration of larvae(enters primarly by penetrating feet, e.g by walking on a beach)
+    * Life cycle : 
+        * Soil contaminated with human feces containing hookworm eggs 
+        * Eggs hatch and release larvae
+        * Larvae penetrate skin(usually feet)
+        * Larvae migrate to lungs via bloodstream
+        * Larvae migrate to brochi and trachea
+        * Larvae are swallowed back to the intestine
+        * Larvae mature into adults, colonize intestinal tract
+        * Female hookworms lay eggs in the intestine
+        * Eggs are eliminated with feces
+    * Clinical features 
+        * At entry site :
+            * pruritus, erythema
+        * **Loeffler syndrome** (pneumonia with eosinophilia)
+        * microcytic anemia(hookwroms ingest blood from the intestinal wall)
+    * Diagnosis 
+        * Eosinophilia and microcytic anemia 
+        * Stool examination fro eggs or worms
+### Strongyloides sterocalis  
+    * Transmission : 
+        * Cutaneous penetration of larvae(primarily via the feet)
+        * 
 
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
