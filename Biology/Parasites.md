@@ -397,6 +397,35 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 
 # 91. Echinococcus granulosus. Hymenolepis nana.
+
+> Both are tapeworms(Cestodes)
+### Echinococcus 
+* Transmission : 
+    * Hand-to-mouth 
+        * From the fur of the definitive host(e.g dog)
+        * Contaminated dirt(e.g dog feces)
+    * Fecal-oral 
+        * Consumption of food/water contaminated with fecal matter 
+* Hosts : 
+    * Definitive hosts: **Dogs**, cats, foxes 
+    * Intermediate hosts : Hoofed animals(e.g **sheep**)
+    * Humans are accidental host(e.g sheep farmets)
+* Clinical features 
+    * Cystic echinococcosis 
+        * Usually asymptomatic 
+        * Single hepatic cyst
+        * Cyst rupture causes anaphylactic reaction 
+        * Hepatomegaly -> **RUQ pain**
+    * Alveolar echinococcosis 
+        * Rarely affects humans
+        * Hepatic cyst 
+            * Hepatomegaly -> **RUP pain** 
+            * Cyst that invades and destroys the liver 
+#### Life cycle 
+
+
+
+
 # 92. Phylum Nematoda. Ascaris lumbricoides.
 # 93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
 # 94. Trichinella spiralis.
