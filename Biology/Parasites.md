@@ -419,9 +419,16 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Alveolar echinococcosis 
         * Rarely affects humans
         * Hepatic cyst 
-            * Hepatomegaly -> **RUP pain** 
+            * Hepatomegaly -> **RUQ pain** 
             * Cyst that invades and destroys the liver 
 #### Life cycle 
+* Definitive host consumes hydatid cysts from an intermediate host 
+* Adult tapeworms develop and inhabit the small intestine 
+* Tapeworms produce eggs that are shed through stool, contaminating the ground
+* eggs are ingested by the intermediate hosts
+* eggs hatch within the intestine and penetrate the intestinal wall 
+* travel trhough the bloodstream and into the lymphatic system -> Liver and other organs 
+* Form hydatid cysts 
 
 
 
