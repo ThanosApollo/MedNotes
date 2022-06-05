@@ -530,10 +530,21 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Larvae invade the small intestine mucosa 
     * Larvae develop into adult worms
     * Adult worms release larvae, which then migrate to muscles, where they encyst
-
+* Clinical features 
+    * Intestinal phase : 
+        * Diarrhea, vomiting 
+    * Muscle phase : 
+        * Myosis - Muscle swelling 
+        * **Periorbital edema** 
+        * Fever
+* Diagnosis : 
+    * Eosinophilia 
+    * Increased Creatine kinase
+    * Confirmation teset - serological detection of antibodies
 
 
 # 95. Ancylostoma duodenale. Strongyloides stercoralis.
+
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
 # 98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.
