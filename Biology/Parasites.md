@@ -463,7 +463,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 * Transmission : 
     * Fecal-oral - consumption of contaminated food
 * Life cycle : 
-    * Host infests eggs 
+    * Host ingests eggs 
     * Eggs hatch and release larvae
     * Larvae invade the intestinal walls 
     * Larvae migrate to lungs via portal vain 
@@ -482,12 +482,57 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Eosinophilia and presence of eggs in stool 
 
 # 93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
-###Enterobius vermicularis  
-
-
+### Enterobius vermicularis  
+> Human pinworm, Nematode, Humans are the only host
+* Transmission :
+    * Fecal oral
+        * Consumtion of contaminated food/water
+        * Reinfection: fecal-oral after scratching anal region(perianal itching at night)
+* Life cycle : 
+    * Eggs hatch and release larvae in the small intestine
+    * Adults establish themselves in the colon 
+        * Life span ~ 2 months
+    * Females migrate in the night outside the night and lay eggs in the perianal area
+* Clinical features :
+    * Anal pruritus(especially at night)
+    * Vulvovaginitis, especially in children
+* Diagnosis :
+    * Scotch tape test 
+        * Egg detection using tape that has been pressed against the perianal region
+## Truchuris trichiura 
+    > Whipworm, Nematode 
+* Transmission :
+    * Fecal-oral 
+* Life cycle :
+    * host ingests eggs
+    * Eggs hatch and release larvae in the small intestine 
+    * Larvae mature into adult worms in colon 
+    * Adult worms lay eggs, which are shed in feces
+* Clinical features 
+    * Usually asymptmatic, but in children may cause:
+        * Diarrhea
+        * **Rectal collapse** 
+* Diagnosis : 
+    * Eggs in stool 
+* Morphology : 
+    * Females larger than males 
+    * Females have blunt round posterior end, males end is coiled 
 
 
 # 94. Trichinella spiralis.
+### Trichinella spiralis 
+> Nematodes, biohelminths, females larger than males 
+* Transmission 
+    * Consumption of undercooked meat(usually pork) containing encysted larvae
+    * Fecal-oral(rarely)
+* Life cycle : 
+    * Host ingests meat that contains cysts
+    * Larvae invade the small intestine mucosa 
+    * Larvae develop into adult worms
+    * Adult worms release larvae, which then migrate to muscles, where they encyst
+
+
+
 # 95. Ancylostoma duodenale. Strongyloides stercoralis.
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
@@ -496,4 +541,4 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 # 100. Class Insecta. The role of insects as vectors and mechanical carriers.
 # 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
 # 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
-# 103. Overview of parasitism.
+# 103. Overview of parasitism.parasitism
