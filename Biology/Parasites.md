@@ -430,11 +430,63 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 * travel trhough the bloodstream and into the lymphatic system -> Liver and other organs 
 * Form hydatid cysts 
 
-
-
+### Hymenolepis nana 
+* Transmission 
+    * Ingestion of eggs from contaminated food or water
+    * Infestion of cysticercoids from infected arthropods 
+* Clinical features : 
+    * Mostly asymptomatic
+    * May cause weight loss, abdominal pain and diarrhea 
+* Morphology : 
+    * rostellum and **4 suckers** 
+    * 3 tester in each proglottid
+* Life cycle : 
+    * Ingestion of eggs 
+    * Develop into cysticercoid larvae in **small intestine** 
+    * Cysticercoids develop into an adult worm in the intestinal lumen
+    * Eggs are passed through stool 
 
 # 92. Phylum Nematoda. Ascaris lumbricoides.
+### Phylum Nematoda 
+> Roundworms, males smaller than females, transmitted by arthropod vectors 
+* Belong to a newly named group, Ecdysozoa(superphylum)
+* Characteristics of Ecdysozoa :
+    * 3 layered cuticle which is periodicly molted as the animal grows 
+        * This process is referred to as **ecdysis** 
+    * Protostomes 
+* Body structure : 
+    * Acellular covering - Cuticle 
+    * Hydrostatic skeleton 
+    * Sexual dimorphism - Females are larger than males 
+### Ascaris Lumbricoides
+> Giant roundworm, fecal oral transmission, Nematode, Geohelminth
+* Transmission : 
+    * Fecal-oral - consumption of contaminated food
+* Life cycle : 
+    * Host infests eggs 
+    * Eggs hatch and release larvae
+    * Larvae invade the intestinal walls 
+    * Larvae migrate to lungs via portal vain 
+    * Larvae migrate to alveoli, trachea and Larynx
+    * Larvae climb up to the mouth and swallowed back into the intestine 
+    * Larvae mature into adult worms in intestine, where they lay new eggs
+* Clinical features 
+    * Usually asymptomatic 
+    * Early symptoms : 
+        * Cough, bloody sputum
+        * **Loeffler syndrome** - accumulation of eosinophils in the lungs
+    * Late symptoms : 
+        * Weight loss, diarrhea, vomiting 
+        * May cause bowerl obstruction at the ileocecal calve 
+* Diagnosis 
+    * Eosinophilia and presence of eggs in stool 
+
 # 93. Enterobius vermicularis. Trichuris trichiura (Trichocephalus trichiurus).
+###Enterobius vermicularis  
+
+
+
+
 # 94. Trichinella spiralis.
 # 95. Ancylostoma duodenale. Strongyloides stercoralis.
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
