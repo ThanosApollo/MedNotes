@@ -499,8 +499,8 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 * Diagnosis :
     * Scotch tape test 
         * Egg detection using tape that has been pressed against the perianal region
-## Truchuris trichiura 
-    > Whipworm, Nematode 
+### Truchuris trichiura 
+> Whipworm, Nematode 
 * Transmission :
     * Fecal-oral 
 * Life cycle :
