@@ -545,7 +545,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 # 95. Ancylostoma duodenale. Strongyloides stercoralis.
 ### Ancylostoma duodenale 
-    > Human hookwrom, nematode 
+   > Human hookwrom, nematode 
     * Transmission :
         * Cutaneous penetration of larvae(enters primarly by penetrating feet, e.g by walking on a beach)
     * Life cycle : 
