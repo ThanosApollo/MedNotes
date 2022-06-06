@@ -364,7 +364,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Gravid proglottid with more than 12 uterine branches on each side
 
 
-### Taenia Solum 
+### Taenia Solium 
 > Pork tapeworm
 * Transmission : 
     * Ingestion of larvae in raw or undercooked pork -> Intestinal taeniasis 
@@ -592,6 +592,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
 ### Dracunculus medinensis 
+> Causes Dracunculiasis - Guinea worm disease
 * Transmission : 
     * Consumption of unfiltered water containing copepods
 * Hosts 
@@ -602,13 +603,69 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Copepods die and release larvae, which enter the abdominal cavity
     * After maturation, males die and females migrate towards the surface of the skin
     * A year after infection, female worm induces a blister on the skin, which ruptures
-        * When lesions comes to contact with water, it reduces discomfort.
+        * When lesions comes to contact with water, discomfort is reduced.
     * The female worm emerges upon contact with water, and releases larvae
 > Worm can be extracted with slow traction by wrapping with a stick, apply antibiotic to wound
 
+### Wucheeria Bancrofti
+> Thread-like worm, Nematode, causes Lymphatic filariasis and Elephantiasis 
+* Transmission 
+     * via Mosquitos bite 
+* Life cycle : 
+    * Introduced larvae via bite wound
+    * Larvae mature in the lympatic system
+    * Adult worms produce microfilariae 
+    * Microfilariae are consued by mosquito during a blood meal
+    * Microfilariae mature into larvae 
+* Clinical features :
+    * Paiful lumphadenopathy(worms invading lymph nodes -> inflammation)
+    * Elephantiasis 
+* Diagnosis 
+    * Blood smear, visualization of microfilariae with Giemsa stain
 
-
+### Loa loa
+> Filarial nematode, causes Loiasis 
+* Transmission 
+    * Deer fly 
+* Life cycle
+    * Larvae get into bite woud
+    * Larvae mature into adult worms in subcutaneous tissue
+    * Adult worms produce microfilariae and release them into the bloodstream
+    * Deerfly ingests microfiliariae during blood meal
+    * Microfilariae mature into larvae
+* Clinical features 
+    * Calabar swelling -> transient, localized swelling.
+    * Eye worm -> Loa loa has a tendency to migrate to subconjuctival tissue 
+* Diagnosis 
+    * Eosinophilia
+    * Blood smear showing microfilariae
+    * Seeing a worm in patients eye 
+### Onchocerca volvulus 
+>Onchocerciasis - River blindness
+* Transmission 
+    * Bite by blackfly 
+* Life cycle 
+    * Larvae introduced by bite from darkfly
+    * Larvae mature into worms in subcutaneous tissue
+    * Adult worms produce microfilariae 
+    * Microfilariae migrate through subcutaneous tissue
+    * Darkfly ingest microfilariae during blood meal
+    * Microfilariae mature into larvae 
+* Clinical feautures 
+    * Ocular onchocerciasis
+        * Leads to blindness 
+    * Onchocercal skin disease 
+        * Subcutaneous nodules 
+        * Hyperpigmented papules with skin atrophy
+* Diagnosis 
+    * Skin snips - skin bipsy causing microfilariae to leave the skin
+* Treatment 
+    * ivermectin
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
+### Phylum Annelida 
+
+
+
 # 98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.
 # 99. Order Acari. Medical importance of ticks and mites.
 # 100. Class Insecta. The role of insects as vectors and mechanical carriers.
