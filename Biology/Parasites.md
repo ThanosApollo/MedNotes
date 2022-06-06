@@ -591,6 +591,23 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
         * Eosinophilia and stool examination for mobile rhabditiform larvae 
 
 # 96. Dracunculus medinensis. Filarial worms: Wuchereria bancrofti, Loa loa, Onchocerca volvulus.
+### Dracunculus medinensis 
+* Transmission : 
+    * Consumption of unfiltered water containing copepods
+* Hosts 
+    * copepods(intemediate)
+    * Humans(definitive)
+* Life cycle 
+    * Humans drinks unfiltered water containing infected copepods
+    * Copepods die and release larvae, which enter the abdominal cavity
+    * After maturation, males die and females migrate towards the surface of the skin
+    * A year after infection, female worm induces a blister on the skin, which ruptures
+        * When lesions comes to contact with water, it reduces discomfort.
+    * The female worm emerges upon contact with water, and releases larvae
+> Worm can be extracted with slow traction by wrapping with a stick, apply antibiotic to wound
+
+
+
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
 # 98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.
 # 99. Order Acari. Medical importance of ticks and mites.
