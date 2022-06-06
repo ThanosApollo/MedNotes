@@ -571,13 +571,13 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 * Transmission : 
     * Cutaneous penetration of larvae(primarily via the feet)
 * Life cycle : 
-        * Eggs hatch in the human intestine and release larvae -> Larvae are excreted with the feces and contaminate soil 
-        * Larvae penetrate the skin upon contact with contaminated soil 
-        * Larvae migrate to lungs via bloodstream
-        * Larvae migrate to **pharynx** via the alveoli and bronchial system
-        * Larvae are swallowed causing autoinfection 
-        * Larvae mature into adult, egg-producing worms in the intestine 
-        * Eggs develop into infectious larvae and are excreted in feces 
+    * Eggs hatch in the human intestine and release larvae -> Larvae are excreted with the feces and contaminate soil 
+    * Larvae penetrate the skin upon contact with contaminated soil 
+    * Larvae migrate to lungs via bloodstream
+    * Larvae migrate to **pharynx** via the alveoli and bronchial system
+    * Larvae are swallowed causing autoinfection 
+    * Larvae mature into adult, egg-producing worms in the intestine 
+    * Eggs develop into infectious larvae and are excreted in feces 
 > Hyperinfection : Some Larvae may penetrate the intestinal and enter the bloodstream
 * Clinical features 
     * Cutaneous phase 
