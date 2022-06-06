@@ -567,7 +567,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
         * Eosinophilia and microcytic anemia 
         * Stool examination fro eggs or worms
 ### Strongyloides sterocalis  
-> Threadworm, nematode 
+>Threadworm, nematode 
     * Transmission : 
         * Cutaneous penetration of larvae(primarily via the feet)
     * Life cycle : 
