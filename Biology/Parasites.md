@@ -545,10 +545,10 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 
 # 95. Ancylostoma duodenale. Strongyloides stercoralis.
 ### Ancylostoma duodenale 
-   > Human hookwrom, nematode 
-    * Transmission :
-        * Cutaneous penetration of larvae(enters primarly by penetrating feet, e.g by walking on a beach)
-    * Life cycle : 
+> Human hookwrom, nematode 
+* Transmission :
+    * Cutaneous penetration of larvae(enters primarly by penetrating feet, e.g by walking on a beach)
+* Life cycle : 
         * Soil contaminated with human feces containing hookworm eggs 
         * Eggs hatch and release larvae
         * Larvae penetrate skin(usually feet)
@@ -558,12 +558,12 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
         * Larvae mature into adults, colonize intestinal tract
         * Female hookworms lay eggs in the intestine
         * Eggs are eliminated with feces
-    * Clinical features 
+* Clinical features 
         * At entry site :
             * pruritus, erythema
         * **Loeffler syndrome** (pneumonia with eosinophilia)
         * microcytic anemia(hookwroms ingest blood from the intestinal wall)
-    * Diagnosis 
+* Diagnosis 
         * Eosinophilia and microcytic anemia 
         * Stool examination fro eggs or worms
 ### Strongyloides sterocalis  
