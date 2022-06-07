@@ -685,14 +685,100 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Blood vessels 
     * Metanephridia
 ### Lumbrius terrestrisl
- 
+> Common earth worm
+* Segmentation
+    * Each segment has muscles and detae
+    * Setae help anchor to the ground, aiding movement
+* Closed circulatory system
+    * Aortic arches that function like a heart
+* Respiration 
+    * Breaths through skin
+* Reproduction 
+    * Hermaphrodites, but need a mate to reproduce
+### Hirudo Medicinalis 
+> European medicinal leech
+* Leech saliva contains about 100 pharmacologically active substances
+    * includes hirudin, hyaluronidase, vasodilators and anesthetics
+    * These substances are injected in human body during 'sucking'
+    * The proteins in leech saliva reduce pain and swelling
 
 
 
 
 
 # 98. Phylum Arthropoda: important evolutionary changes. Class Crustacea: general characterization.Class Arachnida. Orders Scorpiones and Araneae.
+### Phylum Arthropoda 
+* Segmented body 
+    * Covered by chitin and exoskeleton
+    * Arthropods molt, exoskeleton does not grow with them
+* Open circulatory system
+    * consisting of a dorsal heart which collects blood and pumps it back
+* Nerve system
+    * Well developed sense organs
+* Jointed appendages 
+    * antennae, mouthparts and walking legs
+### Class Crustacea 
+> Lobsters, crabs, shrips
+* Most crustaceans are aquatic, the majority are marine 
+* All have :
+    * 2 pairs of antennae
+    * 1 pair of eyes(usually on stalks)
+    * a pair of appendages on each body segment
+* Major groups 
+    * Branchiopoda e.g Brine shrimp
+    * Maxillopoda e.g Copepod
+    * Ostracoda e.g Ostracod
+    * Malacostraca e.g MANTIS SHRIMP(my fav), Crab
+#### Genus Cyclops 
+> Water copepods
+* Intermediate host of Dracunculus and Diphylloborthrium
+### Class Arachnida 
+> Includes spiders, scorpions, harvestman and ticks
+* All arachnids have **8 legs**
+* Almost all are terrestrial
+### Order Arenae 
+> Spiders 
+* Air breathing arthropods that have 8 legs and fangs that inject venom
+* Largest order of arachnids
+* Two tagmata :
+    * Cephalothorax 
+        * their ganglia are fused in one in the cephalothorax(centralized NS)
+    * Abdomen
+        * Abdomen has appendages that can produce silk
+* Spiders have centralized nervous system
+    * their ganglia are fused into one in the cephalothorax
+* 4 pairs of eyes 
+* Reproduce sexually and fertilization is internal 
+
+### Order Scorpiones 
+* Scorpions have large pedipalps which end in a chela (hand or pincer)
+* 5 segmented metasoma(tail) that bears a stinger
+* Common genus include 
+    * Euscorpius 
+        * "small wood scorpions"
+        * varies in color
+        * Venom has local effect 
 # 99. Order Acari. Medical importance of ticks and mites.
+> Class of Arachnids
+> Contains mites and ticks
+* 2 tagmata 
+    * Cephalothorax
+    * Abdomen
+* Mouth parts may have adapted to biting or stringing 
+* They breath through trachea, stigmata and skn itself
+* Ticks are larger than mites 
+* Ticks are primarly on land
+* Life cycle : 
+    * Egg -> Prelarval stage -> larval stage -> series of nypmphal stages
+* Important mites include 
+    * Sacroptes scabiei 
+        * Skin parasite that causes severe itching, especially at night
+        * Transmission : Direct physical contact 
+* Important Tick-borne diseases 
+    * e.g Lyme dissease - Borrelia, Rocky Mountain Spotted Fever - Ricketsia
+    * Ixodes tick: 
+        * transmit both bacterial and viral pathogens 
+        * Has no eyes
 # 100. Class Insecta. The role of insects as vectors and mechanical carriers.
 # 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
 # 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
