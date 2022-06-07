@@ -809,5 +809,82 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
 # 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
 ### Pediculus humanus
 > Head louse, does NOT transmist infection, usually refers to Pediculus vestimeti(body louse) as well
+* Lice are obligate, permanent parasites of humans
+* Transmission 
+    * contact with an infected human host
+    > Egg laying behavior is temperature dependant, they seek new host if temperature rises(e.g fever)
+        * To attach eggs, female secretes glue from her reproductive organs
+        * Lause eggs are also known as **nits** 
+    * Vectors of Ricketsia Prowazeki 
+        * Causes Ricketsia Typhi, can lead to explosive epidemics
+    * Vector of Borellia recurrentis 
+        * Causes relapsing fever
+### Phthirius pubis 
+> The 'Crab Louse', also known as the pubic louse 
+* Obligate ectoparasite of humans 
+* They cannot jump and live exclusively on blood
+* Does not transmit disease
+### Cimex Lectularius 
+> Bed Bug
+* Blood feeding parasites of humans and domesticated animals
+* Have been suspected as carriers of leprosy and Q-fever but have never been implicated in the spread of disease to humans
+* Bed bugs are most active at night, their infestations are not easily located
+> They follow hemimetabolous development 
+### Pulex irritans 
+* Human flea, prefers human blood, but will feed on other animals
+* Has big legs relative to its size, giving it extensive jumping abilities
+* Transmitted diseases :
+    * Yersinia Pestis - Plague 
+    * Ricketsia Typhi
+* Life cycle :
+    * Eggs are shed into the environment by female
+    * Eggs hatch into larvae
+    * Larvae form pupae(cocoo)
+    * Adults hatch, infect host
 # 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
+### Genus Culex and Genus Anopheles
+> Mosquitos
+* Life cycle 
+    * Female mosquito lay eggs on fresh water
+    * Eggs hatch into larvae within 48h
+    * Larvae develop into pupa ~ in about 5 days, anopheles mosquito takes 5-10 days 
+    * Develop into adult mosquitos within 2 days
+* How to distinguish them 
+    * Culex mosquito do a C curve when sitting e.g on a wall, while anopheles keeps its back straight
+* Anopheles mosquito is defitive host/vector for Plasmodium/malaria and dengue fever
+### Phlebotomus papatsii 
+> Vector of visceral leishmaniasis
+> Sandfly 
+* Carries Leishmania protozoa from infected animals after feeding
+* Yellow color
+* **Difference between sanfly and mosquito** 
+    * Mosquitos require aquatic environment to lay eggs, sandfly does not. 
+        * Females lay their eggs in soil or any place with decaying organic material
 # 103. Overview of parasitism.parasitism
+* Commensalism 
+    * Class of relationship between 2 organisms where one organisms benefits **without** affecting the other
+* Mutualism 
+    * Both organisms benefit from each other relationship
+* Amenalism 
+    * One is harmed and the other is unaffected
+* Parasitism 
+    * Where one benefits while the other is harmed
+#### Main characteristics of Parasites
+* smaller than their host
+* high degree of specialization
+* faster rate of reproduction than thier host
+* reduce host biological fitness while increasing their fitness by exploiting host for resources
+
+#### Types of Parasites 
+* Ectoparasites 
+    * Live on the surface of host
+* Endoparasites
+    * live inside the host
+#### Hosts 
+* Definitive - Primary host
+    * Host where parasite reaches maturity and reproduces sexually
+* Intermediate - Secondary host
+    * a host where the parasite passes its asexual/larval stages
+* Reservoir host
+    * Alternative host 
+
