@@ -663,6 +663,31 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * ivermectin
 # 97. Phylum Annelida: important evolutionary changes. Lumbricus terrestris. Hirudo medicinalis.
 ### Phylum Annelida 
+>Segmented Worms - polychaete worms, oligochaetes worms and leeches
+* All members of this group are segmented - also called metamerism
+* body made up of both longitudinal and circular muscles surrounded by acelular cuticle(secreted by epithelium)
+* All members have chaete(hair like structures projecting from cuticle), except leeches 
+* True coelom
+    * Polychaete worms 
+        * All are marine worms
+    * Oligochaetes worms
+        * Freshwater worms
+        * Earthworm 
+            * burrows through the moist ground, extracting nutrients and aerating the soil
+    * Leeches
+        * less segmented 
+        * suckers at each end used for crawl 
+* The **important evolutionary changes in annelids are:**
+    * Coelom
+    * Metamerism -Segmentation
+    * Setae
+    * Cerebral ganglia 
+    * Blood vessels 
+    * Metanephridia
+### Lumbrius terrestrisl
+ 
+
+
 
 
 
