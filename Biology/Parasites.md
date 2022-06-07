@@ -807,6 +807,7 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
     * Reproduction 
         * two sexes, fertilization is internal in most
 # 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
-### Pediculus
+### Pediculus humanus
+> Head louse, does NOT transmist infection, usually refers to Pediculus vestimeti(body louse) as well
 # 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
 # 103. Overview of parasitism.parasitism
