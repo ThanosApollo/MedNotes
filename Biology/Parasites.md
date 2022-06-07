@@ -780,6 +780,33 @@ Phylum Cnidaria (Coelenterata). Genus Hydra. Genus Obelia.
         * transmit both bacterial and viral pathogens 
         * Has no eyes
 # 100. Class Insecta. The role of insects as vectors and mechanical carriers.
+### Class Insecta 
+* Composed of 
+    * Three tagmata - Head, thorax and abdomen
+    * Three pairs of walking legs
+    * One pair of antennae on the had 
+    * Two pairs of wings
+    * Open circulatory system
+    > Circulatory system in insects does NOT carry oxygen
+        * Insect blood contains 10% hemocytes(blood cells) and 90% blood plasma 
+    * **Development**, insects have 3 different manners of development 
+        * Ametabolous 
+            * Hatching eggs produce **miniature copies of adults**, which to grow undergo **ecdysis**
+        * Holometabolous 
+            * Completely different appearance of newly hatched and adults 
+            * Larval forms that live in different habitats
+            * Undergo pupa(metamorphosis in cocoon)
+        * Hemimetabolous 
+            * The young in these category are called nymphs
+            * nymphs are similar to adults, but smaller, lack winds and sexaully immature 
+    * **Digestive System** 
+        * Complex digestive tract 
+        * Additional structues - glands producing digestive enzymes
+    * Respiration 
+       * insects breathe through a tracheal system
+    * Reproduction 
+        * two sexes, fertilization is internal in most
 # 101. Pediculus humanus. Phthirius pubis. Cimex lectularius. Pulex irritans.
+### Pediculus
 # 102. Genus Culex and genus Anopheles: morphological differences. Phlebotomus papatasii.
 # 103. Overview of parasitism.parasitism
