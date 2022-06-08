@@ -61,7 +61,18 @@
 * Nucleic acids are macromolecules responsible for storage, transmission and retrieval of genetic information
 * Two types of nucleic acids ***DNA-Deoxyribonucleic*** acid and ***RNA-Ribonucleic*** acid
 
-###DNA 
+#### Structure 
+* Polymers of nucleotides
+* Each nucleotide consists of 
+    * Nitrogenous base
+    * Pentose
+    * At least one phosphate group
+    > DNA has A,T,C,G and deoxyribose
+    > RNA has A,U,C,G and ribose
+#### Formation 
+* Nitrogenous base binds to the 1' atom of the pentose -> forms nucleoside
+* Phosphate reacts with the 5' hydroxyl group of the pentose -> forms nucleotide
+    * such nucleotides are called monophosphates
 
 
 # 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
