@@ -20,7 +20,7 @@
 > Ultimately determines all other levels of protein structure plus the function of the protein
 
 * Secondary Structure 
-    * Localized conformation of the polypeptide chain based 
+    * [ ] Localized conformation of the polypeptide chain based 
         * Polypeptide backbone forms shapes entirely dependent on how to best store energy, by adapting the lowest energy conformation 
         * These shapes inclue :
             * Alpha helix 
@@ -57,7 +57,8 @@
         * e.g Immunoglobulin superfamily - contain a sandwich-like structure of two B-sheets
 # 3. Nucleic acids. DNA. RNA 
 
-###Nucleic Acids
+### Nucleic Acids
+> Long Linear chains of nucleotides linked by phosphodiester bonds, forming a backbone
 * Nucleic acids are macromolecules responsible for storage, transmission and retrieval of genetic information
 * Two types of nucleic acids ***DNA-Deoxyribonucleic*** acid and ***RNA-Ribonucleic*** acid
 
@@ -73,6 +74,25 @@
 * Nitrogenous base binds to the 1' atom of the pentose -> forms nucleoside
 * Phosphate reacts with the 5' hydroxyl group of the pentose -> forms nucleotide
     * such nucleotides are called monophosphates
+    * one or more phosphates may join the first one, forming nucleoside diphosphate, triphosphate etc. 
+### Nucleic chain
+* Nucleic acids are composed of nucleic chains, same as proteins are composed of polypeptide chains
+* To form a polynucleotide the phosphate at the 5' atom of a pentose reacts with the 3' hydroxyl group of another pentose
+  * creating a covalent bond 
+* The alternating phosphates and pentoses form a backbone
+  * Their arrangement determines the **primary structure** of the nucleic acid
+### Complementarity 
+* Nitrogenous bases bind specifically by hydrogen bonds according to the complementary rule
+  * A with T or U(2 bonds), C with G(3 bonds)
+* Complementary binding defines the secondary structure of nucleic acids
+
+### The double helix and base stacking 
+* Nitrogenous bases are **hydrophobic**(minimize their contact with water)
+* When two complementary strands bind, their bases stack together like cards to **exclude water molecules**
+  * This forces the backbones to bend spirally, **forming a double-stranded helix**
+
+  * [ ] > To visualize nucleic acids we use cytochemical stains, e.g propidium iodide
+  
 
 
 # 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
