@@ -91,7 +91,7 @@
 * When two complementary strands bind, their bases stack together like cards to **exclude water molecules**
   * This forces the backbones to bend spirally, **forming a double-stranded helix**
 
-  * [ ] > To visualize nucleic acids we use cytochemical stains, e.g propidium iodide
+> To visualize nucleic acids we use cytochemical stains, e.g propidium iodide
   
 
 
