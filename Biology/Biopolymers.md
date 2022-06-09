@@ -92,6 +92,20 @@
   * This forces the backbones to bend spirally, **forming a double-stranded helix**
 
 > To visualize nucleic acids we use cytochemical stains, e.g propidium iodide
+### DNA - helix types and functions
+> There are three types of double helices: A,B and Z
+* **B DNA**
+  * The main helix type of DNA
+  * Right handed
+  * 10 nucleotide per turn
+  * 2 grooves, one minor and one major
+* **A DNA**
+  * Dehydrated form of DNA
+  * Similar to B DNA, but with **larger diameter**
+* **Z DNA**
+  * Z DNA is named so because its **backbone forms a zig-zag**
+  * Formed in small parts of DNA, mainly CGCGCG sequence
+### DNA sense
   
 
 
