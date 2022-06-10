@@ -33,7 +33,7 @@
         * hydrophobic residues in the interior 
         * hydrophilic residues on the exterior
         * Disulfide bonds help maintain structural integrity 
-            * if a protein is highly compact we would call it a globular protein
+            * [ ] if a protein is highly compact we would call it a globular protein
             * if its long and "spinldy" we would call it a fibrous protein
 * Quaternary Structure 
     * The way mutliple polypeptide subunits come together to form a larger protein
@@ -65,7 +65,7 @@
 #### Structure 
 * Polymers of nucleotides
 * Each nucleotide consists of 
-    * Nitrogenous base
+    * Nitrogenous base 
     * Pentose
     * At least one phosphate group
     > DNA has A,T,C,G and deoxyribose
@@ -140,9 +140,68 @@
 
   
 # 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
+### Self-assembly of macromolecules
+* Ability of macromolecules to recognize each other and specifically bind spontaneously, forming supermolecular structures
+  * The recognition is based on spatial affinity, we can compare to a lock-key mechanism
+    * Self-assembled complexes are held together by non-covalent bonds
+* Complementary recognition and bidning of nucleotides **allows replication and transcription**, the basis of life 
+* Heating above 70C causes denaturation of DNA - seperation of the two strands
+  * but this process is reversible, when the solution is cooled cown, DNA strands find their complementary partners and pair by hydrogen bonds
+    * this process is called annealing
+  * if the paired strands are derived from one and the **same molecule**, the annealing is called **renaturation or reassociation**.
+  * if the pairned strands are derived from **different DNA molecules**, the annealing is called **hybridization**
+  * RNAs also hybridize
 
+### Cytoskeleton 
+#### Types - Ranked by size 
+  * Microfilaments 
+    * Helix appearing as made up of 2 protofilaments 
+    * Consist of Actin(globular protein)
+  * Intermediate filaments 
+    * Bundle of tetramers made of dimers 
+    * Fibrous proteins(keratins in epithelial, desmin in muscle)
+  * Microtubules 
+    * Hollow tube of 13 protofilaments made of AB-tubulin dimers
+* The cytoskeleton includes all of those types. Intermediate filaments are characteristic of animals(not in plants)
+
+#### Microtubules
+* Self-assemble from dimers composed of alpha and beta tubulin. Energy from GTP is used
+* Microtubules are hollow tubes *with a diameter of 25nm*
+* Microtubule is **composed of 13 protofilaments**
+* Eventhough some microtubules e.g in flagella are very stable, microtubules in cytoplasm have a property called dynamic instability
+  * It means that their + end grows by addition of tubulin dimer but occasionally collapses
+  * Dynamic instability is regulated, it is increased when the cell starts division
+
+#### Microfilament composition, assembly and polarity 
+* Microfilaments are assembled from actin using ATP energy. The single soluble actin molecules are called **globular (G-) actin** while those included in microfilaments are called **fibrillar (F-) actin**
+* Acting molecules are arranged in a double helix
+  * The microfilament can be described as a single helix
+* Microfilaments **grow just one of their ends**, its called '+' while the other one is '-'
+
+##### Myosins 
+* Microfilaments responsible for transport of membrane organelles, as well as movement and shape changes
+* Motor proteins, called myosins use **ATP to move to the '+' end**
+* Has a **head** with ATPase activity and along fibrous **tail**
+> Myosin is unusual in that it is both a fibrous protein and an enzyme(ATPase)
+
+#### Intermediate filaments 
+* Size less than microtubules and bigger than microfilaments 
+* **Fibrous proteins with the 'coiled coil' motif**
+* Provide mechanical support, **not fit for transport because they have NO POLARITY**
+* Common types :
+  * Lamins 
+    * located in the nucleus, also called **Nuclear lamina**
+  * keratins in epithelial 
+  * desmin in muscles 
+  * neurofilament proteins in neurons
 
 # 5. Transcription.
+> RNA synthesis using a particular DNA segment as a template 
+* The template DNA and synthesised RNA are antiparallel
+  * RNA synthesis direction is 5'-3'
+* 
+
+
 
 # 6. RNA processing.
 

@@ -57,7 +57,7 @@
 
 * **Leishmania braziliensis**(Found in south America) and **Leishmania tropica**(Europe,Africa) cause cutaneous leishmaniasis :
     * Presents with papules and plaques that progress to ulcerative lesions 
-* Leishmania donovani causes Visceral leishmaniasis(kalazar, black fever)
+* **Leishmania donovani** causes Visceral leishmaniasis(kalazar, black fever)
     * Spiking fever
     * Affects the bone marrow, leading to pancytopenia
     * hepatosplenomegaly 
@@ -92,7 +92,7 @@
 * Life cycle : 
     * Trophozoite : active form of the pathogen that multiplies within host
         > Morphology : pear-shaped with 4 pairs of flagella and 2 nuclei
-    * Cyst : infectious form, able to survive in moist environments
+    * [ ] Cyst : infectious form, able to survive in moist environments
         > Morphology : pear-shaped with 4 nuclei
 * Diagnostics :
     * Presence of Giardia Lamblia trophozoites in stool
