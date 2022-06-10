@@ -23,7 +23,7 @@
         * Direct visualization of trypomastigotes in blood smear using Giemsa stain 
         * for Stage II diagnostics, lumbar puncture and CSF examination is used 
     * Treatment : 
-        * Stage I -> Suramin
+    * Stage I -> Suramin
         * Stage II -> Melarsoprol 
 ### Trypanosoma cruzi 
 * Causes Chagas Disease 
@@ -41,7 +41,7 @@
         * Patient enters asymptomatic latent phase 
         * Serologically positive, do not develop signs or symptoms associated with chronic phase 
     * Chronic phase 
-        * Chagas cardiomyopathy 
+        * **Chagas cardiomyopathy** 
             * dilative cardiomyopathy 
         * Megaesophagus and achalasia
         * Megacolon
@@ -50,11 +50,12 @@
 > Disease first desrcibed by Carlos Chagas in 1909, now it is known as Chagas Disease 
 # 79. Leishmania donovani. Leishmania tropica. Leishmania braziliensis.
 * Blood protozoan
-* Vector transmission by sandfly 
+* Vector **transmission by sandfly** 
 * Vertebrates are the hosts of Lesihmania braziliensis 
 * Promastigote(flagellated) form in vector(sandly)|Amastigote(non-flagellated) form inside host macrophages
     * Numerous amastigote nuclei can be seen in the cytoplasm of macrophages on microscopy
-* Lesihmania braziliensis(Found in south America) and Leishmania tropica(Europe,Africa) cause cutaneous leishmaniasis :
+
+* **Leishmania braziliensis**(Found in south America) and **Leishmania tropica**(Europe,Africa) cause cutaneous leishmaniasis :
     * Presents with papules and plaques that progress to ulcerative lesions 
 * Leishmania donovani causes Visceral leishmaniasis(kalazar, black fever)
     * Spiking fever

@@ -20,7 +20,7 @@
 > Ultimately determines all other levels of protein structure plus the function of the protein
 
 * Secondary Structure 
-    * [ ] Localized conformation of the polypeptide chain based 
+    * Localized conformation of the polypeptide chain based 
         * Polypeptide backbone forms shapes entirely dependent on how to best store energy, by adapting the lowest energy conformation 
         * These shapes inclue :
             * Alpha helix 
@@ -72,27 +72,23 @@
     > RNA has A,U,C,G and ribose
 #### Formation 
 * Nitrogenous base binds to the 1' atom of the pentose -> forms nucleoside
-* Phosphate reacts with the 5' hydroxyl group of the pentose -> forms nucleotide
-    * such nucleotides are called monophosphates
-    * one or more phosphates may join the first one, forming nucleoside diphosphate, triphosphate etc. 
-### Nucleic chain
-* Nucleic acids are composed of nucleic chains, same as proteins are composed of polypeptide chains
+* Phosphate reacts with the 5' hydroxyl group of the pentose -> forms nucleotide * such nucleotides are called monophosphates * one or more phosphates may join the first one, forming nucleoside diphosphate, triphosphate etc. ### Nucleic chain * Nucleic acids are composed of nucleic chains, same as proteins are composed of polypeptide chains
 * To form a polynucleotide the phosphate at the 5' atom of a pentose reacts with the 3' hydroxyl group of another pentose
   * creating a covalent bond 
 * The alternating phosphates and pentoses form a backbone
   * Their arrangement determines the **primary structure** of the nucleic acid
-### Complementarity 
+#### Complementarity 
 * Nitrogenous bases bind specifically by hydrogen bonds according to the complementary rule
   * A with T or U(2 bonds), C with G(3 bonds)
 * Complementary binding defines the secondary structure of nucleic acids
 
-### The double helix and base stacking 
+#### The double helix and base stacking 
 * Nitrogenous bases are **hydrophobic**(minimize their contact with water)
 * When two complementary strands bind, their bases stack together like cards to **exclude water molecules**
   * This forces the backbones to bend spirally, **forming a double-stranded helix**
 
 > To visualize nucleic acids we use cytochemical stains, e.g propidium iodide
-### DNA - helix types and functions
+#### DNA - helix types and functions
 > There are three types of double helices: A,B and Z
 * **B DNA**
   * The main helix type of DNA
@@ -105,11 +101,46 @@
 * **Z DNA**
   * Z DNA is named so because its **backbone forms a zig-zag**
   * Formed in small parts of DNA, mainly CGCGCG sequence
-### DNA sense
+#### DNA sense
+* To identify DNA strands, they are scored as the 'sense' and 'antisense'
+  * **Sense strand** - Positive : coding strand 
+  * **Antisense** - Negative : Template strand, complementary to both positive sense and the RNA transcript 
+  > The term sense and anti-sense are relative only to particular RNA transcript, and not to the DNA strand as a whole
+  > There are viruses, such as Arenaviruses, that are ambisense 
+### RNA structure 
+> RNA molecules are linear molecules, much smaller than DNA
+* Single stranded
+  * Often has double-stranded parts called stem-loops/hairpin loops
+* Secondary Structure is determined by **loops**
+* RNA undergoes 3D folding as in proteins, called tertiary structure
+  * Both secondary and tertiary are based on primary structure 
+* Some RNAs have catalytic activity, they are called **ribozymes**
+
+#### RNA - types and functions 
+##### RNAs involved in transcription or replication 
+* mRNA - Messenger RNA : Encodes amino acid sequence of a polypeptide
+* tRNA - Transfer RNA : Brings amino acids to ribosomes during translation 
+* rRNA - Ribosomal RNA : Makes up the ribosomes, with ribosomal proteins
+
+* **mRNA**
+  * no remarkable spacial structure 
+  * each mRNA is a copy of a gene encoding protein, and brings the "message" to ribosomes
+  * The coding region of mRNA consists of nucleotide triplets called codons which are recognized by the tRNA anticodons
+  * The first codon(AUG) is called the start codon, while the last codon is called the last stop codon 
+* **rRNA**
+  * Engaged in hairpin loops
+  * Structural role - formation of ribosomal subunits 
+    * The largest rRNA is a ribozyme 
+* **tRNA**
+  * Small 
+  * 4 loops, 3 large and one small
+  * **Secondary structure** resembles a leaf
+  * **Tertiary structure** resembles L-like shape 
+  * tRNA function is to match amino acids according to mRNA instructions
+
   
-
-
 # 4. Recognition and self-assembly of macromolecules. Cytoskeleton.
+
 
 # 5. Transcription.
 
