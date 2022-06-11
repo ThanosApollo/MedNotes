@@ -31,13 +31,13 @@
 - Host cell provided a stable environment, engulfed cell provided host cell with ATP, this lead to a *symbiotic relationship*
 - The bacterium eventually evolved mitochondria - Prokaryotes -> Eukaryotes
 * 2. Bacterial Taxonomy - Classification, Nomeclatures, Identification
-** Hierarchy of Taxonomy
-- Species
-- Genus
-- Order
-- Class
-- Family
-- Division
-- Kingdom
+*** Hierarchy of Taxonomy
+1. Species
+2. Genus
+3. Order
+4. Class
+5. Family
+6. Division
+7. Kingdom
 There are two kingdoms, *Plants or Animals*
-** Taxonomy
+*** Taxonomy
