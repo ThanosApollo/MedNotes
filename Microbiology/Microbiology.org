@@ -1,6 +1,6 @@
-#+title: : Microbiology
+#+title: Microbiology
 #+author: Thanos Apollo
-#+Description : Notes, according to the syllabus of MU Sofia
+#+description: Notes, according to the syllabus of MU Sofia
 
 * 1. Introduction - History and Subject
 ** Microbiology is the study of microbes
@@ -31,3 +31,13 @@
 - Host cell provided a stable environment, engulfed cell provided host cell with ATP, this lead to a *symbiotic relationship*
 - The bacterium eventually evolved mitochondria - Prokaryotes -> Eukaryotes
 * 2. Bacterial Taxonomy - Classification, Nomeclatures, Identification
+** Hierarchy of Taxonomy
+- Species
+- Genus
+- Order
+- Class
+- Family
+- Division
+- Kingdom
+There are two kingdoms, *Plants or Animals*
+** Taxonomy
