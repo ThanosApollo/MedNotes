@@ -6,27 +6,27 @@
 ** Microbiology is the study of microbes
 - Microbes are the living organisms
 - Require visualization through microscopy
-** Microbes are divided into :
-*** Viruses
+*** Microbes are divided into :
+**** Viruses
 - RNA or DNA
 - Double stranded or single stranded
-*** Bacteria
+**** Bacteria
 - Gram positive or gram negative
 - Shape(e.g cocci, bacillus)
-*** Fungi
+**** Fungi
 - yeast(unicellular)
 - mold(multicellular)
 - dimorphic(yeast and mold)
-*** Parasites
+**** Parasites
 - Protozoa
 - Worms
 - Bugs
-** History
+*** History
 - Primitive cells evolved into bacteria and archae
 - Utilized photosynthesis which led to production of oxygen
 - As oxygen levels rose, organisms that utilized oxygen evolved(Aerobes and Eukaryotes)
 - Anaerobes developed resistance to oxygen, as it was toxic to them
-*** Endosymbiotic theory
+**** Endosymbiotic theory
 - A prokaryotic cell engulfed an aerobe cell, capable of producing ATP
 - Host cell provided a stable environment, engulfed cell provided host cell with ATP, this lead to a *symbiotic relationship*
 - The bacterium eventually evolved mitochondria - Prokaryotes -> Eukaryotes
