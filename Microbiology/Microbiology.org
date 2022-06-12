@@ -55,13 +55,9 @@ There are two kingdoms, *Plants or Animals*
 **** Identification
 - Practical use of classification
 - We use identification properties to identify casuative agents of a disease
-***** Methods :
-- Cellular Morphology
-- Staining characteristics
-- Motility
-- Growth characteristics
-- Genetic analysis
-    - test
-        - test
-          - test
-            - test
+- Methods :
+  - Cellular Morphology
+  - Staining characteristics
+  - Motility
+  - Growth characteristics
+  - Genetic analysis
