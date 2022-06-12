@@ -41,3 +41,27 @@
 7. Kingdom
 There are two kingdoms, *Plants or Animals*
 *** Taxonomy
+- Refers to classification, nomeclature and identifcation
+**** Classification is based upon:
+- Size
+- Shape(e.g cocci or bacilus)
+- Arrangement(e.g in clusters on in chains)
+- Growth properties(e.g aerobe or anaerobe)
+**** Nomeclatures
+- Governed by international rules
+- The first word(Genus) is always capitalized
+- The second word(Species) is not capitalized
+/e.g Staphylococcus Aureus/
+**** Identification
+- Practical use of classification
+- We use identification properties to identify casuative agents of a disease
+***** Methods :
+- Cellular Morphology
+- Staining characteristics
+- Motility
+- Growth characteristics
+- Genetic analysis
+    - test
+        - test
+          - test
+            - test
