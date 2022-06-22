@@ -2,9 +2,10 @@
 #+author: Thanos Apollo
 #+description: Notes, according to the syllabus of MU Sofia
 
+
 * 1. Introduction - History and Subject
 
-** Microbiology is the study of microbes ff
+** Microbiology is the study of microbes
 - Microbes are the living organisms
 - Require visualization through microscopy
     - Microbes are divided into :
@@ -69,6 +70,15 @@ There are two kingdoms, *Plants or Animals*
 *** Common shapes of bacteria :
 - Cocci(Spherical) e.g Staphylococcus
 - Bacili(Rods) e.g Clostridium
-
-*** 
+- Vibrio(arch-shaped e.g Clostridium) 
+- Spirochetes(question-mark/spiral shaped e.g Borellia) 
+*** Gram Stain 
+    - Gram Positive 
+        - Thick peptidoglycan wall that traps crystal violet 
+          - Results in a violet-blue apperance 
+        - No periplasmic space
+        - No porin proteins 
+        - Primarily produces exotoxins 
+        - Contains Teichnoic acids 
+        
     
