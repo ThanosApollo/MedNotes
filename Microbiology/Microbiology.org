@@ -3,7 +3,7 @@
 #+description: Notes, according to the syllabus of MU Sofia
 
 * 1. Introduction - History and Subject
-** Microbiology is the study of microbes
+*** Microbiology is the study of microbes
 - Microbes are the living organisms
 - Require visualization through microscopy
 *** Microbes are divided into :
