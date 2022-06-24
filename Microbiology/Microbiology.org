@@ -37,13 +37,16 @@
   + Biochemical, physiologic, genetic and morphologic properties are necessary for a taxon description
 *** Nomeclature
 + Naming of the organism by international rules, according to it's characteristics
+  + First word(Genus) is always capitalized
+  + Second word(Species) is not capitalized
+    /e.g Escherichia Coli/
 *** Identification
 + Practical use of classification scheme to:
   + Isolated and distinguish desirable organism
   + Verify the authenticity or special properties of a culture
   + *Isolated and identify causative agent of disease*
 
-*** Taxonomic ranks
+**** Taxonomic ranks
 + Form the basis for the organization of bacteria, Linnaean taxonomy uses formal taxonomic tanks.
 | Formal Rank | Example                 |
 |-------------+-------------------------|
@@ -56,3 +59,7 @@
 | Species     | Coli                    |
 | Subtype     | Escherichia coli O157:7 |
 |-------------+-------------------------|
+
+/Traditionally, all living objects had been divided into plant and animla kingdom. There are some organisms that do not fulfil criteria for either of the two kingdoms. A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
+* 3. Bacterial Morphology
+***
