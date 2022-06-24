@@ -60,7 +60,9 @@
 | Subtype     | Escherichia coli O157:7 |
 |-------------+-------------------------|
 
-/Traditionally, all living objects had been divided into plant and animla kingdom. There are some organisms that do not fulfil criteria for either of the two kingdoms. A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
+/Traditionally, all living objects had been divided into plant and animla kingdom.
+There are some organisms that do not fulfil criteria for either of the two kingdoms.
+A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
 * 3. Bacterial Morphology
 *** Shapes
 + Bacteria can have either of the three shapes
@@ -74,19 +76,21 @@
   + Those who walls retain violet(blue) dye are Gram Positive
   + Those that appear red, not having retained the first dye are Gram-Negativeo
 
-| *Gram Positive*                                            | *Gram Negative*                                                                        |
-|------------------------------------------------------------+----------------------------------------------------------------------------------------|
-| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                                  |
-| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                                           |
-| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                             |
-|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)                      |
-|------------------------------------------------------------+----------------------------------------------------------------------------------------|
-| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain(pink color) |
-| No periplasmic space                                       | Contains periplasmic space                                                             |
-| No porin proteins                                          | Contains porin proteins                                                                |
-| Primarily produces exotoxins                               | Primarily produces endotoxins                                                          |
-| Contains Teichnoic acids                                   | No Teichnoic acids                                                                     |
-|------------------------------------------------------------+----------------------------------------------------------------------------------------|
+| *Gram Positive*                                            | *Gram Negative*                                                            |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                      |
+| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                               |
+| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                 |
+|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)          |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain |
+| -> Results in blue color                                   | -> Results in pink color                                                   |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| No periplasmic space                                       | Contains periplasmic space                                                 |
+| No porin proteins                                          | Contains porin proteins                                                    |
+| Primarily produces exotoxins                               | Primarily produces endotoxins                                              |
+| Contains Teichnoic acids                                   | No Teichnoic acids                                                         |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
 + Gram positive bacteria examples
   + *Gram positive cocci*
     + Staphyloccous - forms clusters of cocci
@@ -104,3 +108,43 @@
   + Mycobacteria - acid fast bacteria, require Ziehl-Neelsen stain /e.g M.Tuberculosis/
   + Mycoplasma - Lack cell wall
   + Spirochetes - Require darkfield microscopy
+
+* 4. Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures
+*** Eykaryotes and Prokatyores
++ Prokaryotes are characterised by :
+  + Primitive nucleus
+  + Complex cell envelope
+  + smaller ribosome(70s)
+  + peptidoglycan layer
++ Eukaryotes have '/true nucleus/'
+| *Characteristic*         | *Eukaryotes*                            | *Prokaryotes*                       |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Major groups             | Algae, fungi, protozoa, plants, animals | Bacteria                            |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| *Nuclear Structures*     |                                         |                                     |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Nucleus                  | Classic membrane                        | No nuclear membrane                 |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Chromosomes              | Strands of DNA, Diploid genome          | Single, circular DNA Haploid genome |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| *Cytoplasmic Structures* |                                         |                                     |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Mitochondria             | Present                                 | Absent                              |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Golgi                    | Present                                 | Absent                              |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Cytoplasmic membrane     | Contains sterols                        | Does not contain sterols            |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Reproduction             | Sexual and asexual                      | Asexual(binary fission)             |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Respiration              | Via mitochondria                        | Via cytoplasmic membrane            |
+
+*** Bacterial structures
++ *Nucleoid*
+  + Bacterial DNA which typically comprises of a single circle of double-stranded DNA
+  + Histones are not present to maintain conformation of DNA
+  + DNA does not form nucleus
++ *Plasmid*
+  + smaller genetic structures that can replicate independently of chromosomes
++ *Cytoplasmic inclusions*
+  + Metachromatic granules that serve as a nutrient reserve
