@@ -70,6 +70,10 @@
 *** Cell wall / Gram stain
 + Chemically formed by N-acetyl glucosamine and N-acetyl muramic acid molecules alternating in chains, /which are cross linked by peptide chains/
 + Bacteria are classified as /gram positive/ or /gram negative/ depending on their cell wall characteristics
+  + Violet stain is applied to bacteria, followed by a decolarizing agent and a red stain
+  + Those who walls retain violet(blue) dye are Gram Positive
+  + Those that appear red, not having retained the first dye are Gram-Negativeo
+
 | *Gram Positive*                                            | *Gram Negative*                                                                        |
 |------------------------------------------------------------+----------------------------------------------------------------------------------------|
 | Comprise of 2 layers:                                      | Comprise of 3 layers:                                                                  |
@@ -80,4 +84,23 @@
 | Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain(pink color) |
 | No periplasmic space                                       | Contains periplasmic space                                                             |
 | No porin proteins                                          | Contains porin proteins                                                                |
-| Primarily produces exotoxins                               |                                                                                        |
+| Primarily produces exotoxins                               | Primarily produces endotoxins                                                          |
+| Contains Teichnoic acids                                   | No Teichnoic acids                                                                     |
+|------------------------------------------------------------+----------------------------------------------------------------------------------------|
++ Gram positive bacteria examples
+  + *Gram positive cocci*
+    + Staphyloccous - forms clusters of cocci
+    + Streptococcus - forms chains of cocci(diplococci)
+  + *Gram positive bacilli*
+    + Bacillus - forms spores
+    + Clostridium - forms spores
+    + Corynebacterium - doesn't produce spores
+    + Listeria - doesn't produce spores
++ Gram negative bacteira examples
+  + Neisseria - cocci(diplococci)
+  + Pseudomonas - Bacilli
+  + E.coli - Bacilli
++ Exceptions include :
+  + Mycobacteria - acid fast bacteria, require Ziehl-Neelsen stain /e.g M.Tuberculosis/
+  + Mycoplasma - Lack cell wall
+  + Spirochetes - Require darkfield microscopy
