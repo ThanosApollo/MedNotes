@@ -1,4 +1,4 @@
-#+title: Microbiology
+#+title: Microbiology a
 #+author: Thanos Apollo
 #+description: Notes, according to the syllabus of MU Sofia
 
