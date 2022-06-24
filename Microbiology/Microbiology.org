@@ -62,4 +62,22 @@
 
 /Traditionally, all living objects had been divided into plant and animla kingdom. There are some organisms that do not fulfil criteria for either of the two kingdoms. A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
 * 3. Bacterial Morphology
-***
+*** Shapes
++ Bacteria can have either of the three shapes
+  + Cocci /e.g S.Aureus/
+  + Bacilli(rods) /e.g Pseudomonas Aeruginosa/
+  + Spirochets /e.g Borrelia/
+*** Cell wall / Gram stain
++ Chemically formed by N-acetyl glucosamine and N-acetyl muramic acid molecules alternating in chains, /which are cross linked by peptide chains/
++ Bacteria are classified as /gram positive/ or /gram negative/ depending on their cell wall characteristics
+| *Gram Positive*                                            | *Gram Negative*                                                                        |
+|------------------------------------------------------------+----------------------------------------------------------------------------------------|
+| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                                  |
+| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                                           |
+| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                             |
+|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)                      |
+|------------------------------------------------------------+----------------------------------------------------------------------------------------|
+| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain(pink color) |
+| No periplasmic space                                       | Contains periplasmic space                                                             |
+| No porin proteins                                          | Contains porin proteins                                                                |
+| Primarily produces exotoxins                               |                                                                                        |
