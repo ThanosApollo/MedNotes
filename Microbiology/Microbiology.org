@@ -1,0 +1,150 @@
+#+title: Microbiology
+#+author: Thanos Apollo
+#+description: Notes, according to the syllabus of MU Sofia
+
+* 1. Introduction - History and Subject
+*** Microbiology is the study of microbes
++ Microbes are the living organisms
++ Require visualization through microscopy
+*** Microbes are divided into :
++ *Viruses*
+  + RNA or DNA
+  + Double stranded or single stranded
++ *Bacteria*
+  + Gram positive or gram negative
+  + Shape(e.g cocci, bacillus)
++ *Fungi*
+  + yeast(unicellular)
+  + mold(multicellular)
+  + dimorphic(yeast and mold)
++ *Parasites*
+  + Protozoa
+  + Worms
+  + Bugs
+*** History
++ Primitive cells evolved into bacteria and archae
++ Utilized photosynthesis which led to production of oxygen
++ As oxygen levels rose, organisms that utilized oxygen evolved(Aerobes and Eukaryotes)
++ Anaerobes developed resistance to oxygen, as it was toxic to them
++ *Endosymbiotic theory*
+  + A prokaryotic cell engulfed an aerobe cell, capable of producing ATP
+  + Host cell provided a stable environment, engulfed cell provided host cell with ATP, this lead to a *symbiotic relationship*
+  + The bacterium eventually evolved mitochondria - Prokaryotes -> Eukaryotes
+* 2. Bacterial Taxonomy - Classification, Nomeclatures, Identification
+*** Classification
++ Categorization of organisms into taxonomic groups
++ Requires experimental and observational techniques
+  + Biochemical, physiologic, genetic and morphologic properties are necessary for a taxon description
+*** Nomeclature
++ Naming of the organism by international rules, according to it's characteristics
+  + First word(Genus) is always capitalized
+  + Second word(Species) is not capitalized
+    /e.g Escherichia Coli/
+*** Identification
++ Practical use of classification scheme to:
+  + Isolated and distinguish desirable organism
+  + Verify the authenticity or special properties of a culture
+  + *Isolated and identify causative agent of disease*
+
+**** Taxonomic ranks
++ Form the basis for the organization of bacteria, Linnaean taxonomy uses formal taxonomic tanks.
+| Formal Rank | Example                 |
+|-------------+-------------------------|
+| Kingdom     | Prokaryotes             |
+| Divison     | Gracilicutes            |
+| Class       | Scotobacteria           |
+| Order       | Eubacteriaceae          |
+| Family      | Enterobacteriaceae      |
+| Genus       | Escherichia             |
+| Species     | Coli                    |
+| Subtype     | Escherichia coli O157:7 |
+|-------------+-------------------------|
+
+/Traditionally, all living objects had been divided into plant and animla kingdom.
+There are some organisms that do not fulfil criteria for either of the two kingdoms.
+A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
+* 3. Bacterial Morphology
+*** Shapes
++ Bacteria can have either of the three shapes
+  + Cocci /e.g S.Aureus/
+  + Bacilli(rods) /e.g Pseudomonas Aeruginosa/
+  + Spirochets /e.g Borrelia/
+*** Cell wall / Gram stain
++ Chemically formed by N-acetyl glucosamine and N-acetyl muramic acid molecules alternating in chains, /which are cross linked by peptide chains/
++ Bacteria are classified as /gram positive/ or /gram negative/ depending on their cell wall characteristics
+  + Violet stain is applied to bacteria, followed by a decolarizing agent and a red stain
+  + Those who walls retain violet(blue) dye are Gram Positive
+  + Those that appear red, not having retained the first dye are Gram-Negativeo
+
+| *Gram Positive*                                            | *Gram Negative*                                                            |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                      |
+| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                               |
+| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                 |
+|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)          |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain |
+| -> Results in blue color                                   | -> Results in pink color                                                   |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| No periplasmic space                                       | Contains periplasmic space                                                 |
+| No porin proteins                                          | Contains porin proteins                                                    |
+| Primarily produces exotoxins                               | Primarily produces endotoxins                                              |
+| Contains Teichnoic acids                                   | No Teichnoic acids                                                         |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
++ Gram positive bacteria examples
+  + *Gram positive cocci*
+    + Staphyloccous - forms clusters of cocci
+    + Streptococcus - forms chains of cocci(diplococci)
+  + *Gram positive bacilli*
+    + Bacillus - forms spores
+    + Clostridium - forms spores
+    + Corynebacterium - doesn't produce spores
+    + Listeria - doesn't produce spores
++ Gram negative bacteira examples
+  + Neisseria - cocci(diplococci)
+  + Pseudomonas - Bacilli
+  + E.coli - Bacilli
++ Exceptions include :
+  + Mycobacteria - acid fast bacteria, require Ziehl-Neelsen stain /e.g M.Tuberculosis/
+  + Mycoplasma - Lack cell wall
+  + Spirochetes - Require darkfield microscopy
+
+* 4. Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures
+*** Eykaryotes and Prokatyores
++ Prokaryotes are characterised by :
+  + Primitive nucleus
+  + Complex cell envelope
+  + smaller ribosome(70s)
+  + peptidoglycan layer
++ Eukaryotes have '/true nucleus/'
+| *Characteristic*         | *Eukaryotes*                            | *Prokaryotes*                       |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Major groups             | Algae, fungi, protozoa, plants, animals | Bacteria                            |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| *Nuclear Structures*     |                                         |                                     |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Nucleus                  | Classic membrane                        | No nuclear membrane                 |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Chromosomes              | Strands of DNA, Diploid genome          | Single, circular DNA Haploid genome |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| *Cytoplasmic Structures* |                                         |                                     |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Mitochondria             | Present                                 | Absent                              |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Golgi                    | Present                                 | Absent                              |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Cytoplasmic membrane     | Contains sterols                        | Does not contain sterols            |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Reproduction             | Sexual and asexual                      | Asexual(binary fission)             |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Respiration              | Via mitochondria                        | Via cytoplasmic membrane            |
+
+*** Bacterial structures
++ *Nucleoid*
+  + Bacterial DNA which typically comprises of a single circle of double-stranded DNA
+  + Histones are not present to maintain conformation of DNA
+  + DNA does not form nucleus
++ *Plasmid*
+  + smaller genetic structures that can replicate independently of chromosomes
++ *Cytoplasmic inclusions*
+  + Metachromatic granules that serve as a nutrient reserve
