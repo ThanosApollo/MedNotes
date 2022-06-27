@@ -215,3 +215,89 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + UTIs
 **** Treatment
 + TMP/SMX or 1st generation cephasporin(e.g cephalexin)
+<<<<<<< HEAD
+=======
+
+* 33. Streptococcus - group A, B and other Beta-hemolytic streptococci
+*** Characteristics
++ All streptococci are catalase negative(-)
++ Susceptible to penicillin
++ Commonly arranged in chains
+*** Group A - Streptococcus pyogenes
+| Resrvoir   | Bacterial Culture      | Virulence Factors                                   | Diseases                               | Treatment   |
+|------------+------------------------+-----------------------------------------------------+----------------------------------------+-------------|
+| Orophatynx | Chain like arrangement | Toxins:                                             | Head and neck                          | Penicillin  |
+|            | Facultative anaerobe   | - Erythrogenic exotoxin A                           | - Tonsilitis                           | Clindamycin |
+|            | Lancefield group A     | - Streptolysin O                                    | - Otitis Media                         |             |
+|            | *Bacitracin-Sensitive* | - Streptococcal Pyrogenic Toxin                     | - Pharyngitis                          |             |
+|            | PYR positive           | Enzymes :                                           | Skin :                                 |             |
+|            |                        | - DNAse - Destroys neutrophils                      | - Cellulitis                           |             |
+|            |                        | - Streptokinase                                     | - Impetigo                             |             |
+|            |                        | - Hyaluronidase                                     | - Necrotizing fasciitis                |             |
+|            |                        | Proteins:                                           | Toxin mediated                         |             |
+|            |                        | - Protein F -Meditates adherance to epithelia cells | - Scarlet fever                        |             |
+|            |                        | - M Protein - prevents opsonization                 | - Toxc shock-like syndrome             |             |
+|            |                        | - Hyaluronic acid capsule - inhibits phagocytosis   | Immunologic                            |             |
+|            |                        |                                                     | - Acute rheumatic fever                |             |
+|            |                        |                                                     | - Poststreptococcal glomerulonephritis |             |
+|------------+------------------------+-----------------------------------------------------+----------------------------------------+-------------|
+
+*** Group B - Streptococcus Agalactiae
++ Primarly affects babies (-B for babies)
+| Reservoir     | Bacterial cutlure                             | Virulence factors | Diseases            | Treatment              |
+|---------------+-----------------------------------------------+-------------------+---------------------+------------------------|
+| Genital tract | *Bacitracin resistant*                        | Capsule           | Neonatal meningitis | Penicillin             |
+|               | Lancfield Group B                             |                   | Neonatal sepsis     | 2nd gen Cephalosporins |
+|               | Chain arangement                              |                   |                     |                        |
+|               | Facultative anaerobe                          |                   |                     |                        |
+|               | CAMP factor :                                 |                   |                     |                        |
+|               | - Enlarges hemolysis in culture with S.Aureus |                   |                     |                        |
+|               | Hippurate positive                            |                   |                     |                        |
+|               | PYR negative                                  |                   |                     |                        |
+|---------------+-----------------------------------------------+-------------------+---------------------+------------------------|
+
+*** Other Beta hemolytic streptococci
+**** Streptococcus Gallolyticus
+| Reservoir | Bacterial Culture                 | Virulence factors | Diseases              | Treatment              |
+|-----------+-----------------------------------+-------------------+-----------------------+------------------------|
+| GI tract  | Lancfield group D                 | Capsule           | Bacteremia            | Penicillin             |
+|           | chain arrangement                 |                   | Endocarditis          | 3rd gen cephalosporins |
+|           | beta hemolysis or gamma hemolysis |                   | *Colorectal Carcinoma |                        |
+|-----------+-----------------------------------+-------------------+-----------------------+------------------------|
+* 34. Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
+*** Characteristics
++ All Streptococci are catalase negative
++ Usually suceptible to penicillins
++ Chain like arrangement
+*** Viridans streptococci
++ Includes S.Mitis, S.Mutans and S.Sanguinis
+| Reservoir  | Bacterial culture      | Virulence Factors                             | Diseases                        | Treatment    |
+|------------+------------------------+-----------------------------------------------+---------------------------------+--------------|
+| Oropharynx | Chain-like arrangement | Dextrans :                                    | Dental carries:                 | *Penicillin* |
+|            | *Optochin-resistant*   | - Facilitates binding on damaged heart valves | -By S.Mutans and S.Mitis        | Ceftriaxone  |
+|            | Bile-insoluble         | Biofilm formation(dental plaqute):            | Subacute bacterial endocarditis | Macrolides   |
+|            |                        | - by S.Mutans and S.Mitis                     | - By S.Sanguinis                |              |
+|------------+------------------------+-----------------------------------------------+---------------------------------+--------------|
+
+*** Streptococcus Pneumoniae
+| Reservoir   | Bacterial Cutlure                  | Virulence Factors         | Diseases     | Treatment     |
+|-------------+------------------------------------+---------------------------+--------------+---------------|
+| Nasopharynx | *Optochin sensitive*               | Capsulaer Polysaccharides | Otitis media | Penicillin    |
+|             | bile-soluble                       | IgA protease              | Sinusitis    | *Ceftriaxone* |
+|             | *Enacapsulated*                    |                           | Pharyngitis  | Macrolides    |
+|             | lancet-shaped diplococci in chains |                           | *Meningitis* |               |
+|-------------+------------------------------------+---------------------------+--------------+---------------|
+
+*** Enterococcus
++ 2 species:
+  + E.Facium - Less common, resistant to vancomycin
+  + E.Faecalis - More common, not resistant to vancomycin
+| Reservoir | Bacterial culture                   | Diseases                 | Treatment    |
+|-----------+-------------------------------------+--------------------------+--------------|
+| GI Tract  | Diplococci in chains                | UTIs                     | Vancomycin   |
+|           | *Lancfield Group D*                 | Billiary tree infections | VRE :        |
+|           | Alpha hemolysis and gamma hemolysis | Subacute endocarditis    | - Linezolid  |
+|           | PYR positive                        |                          | - Daptomycin |
+|           | *Growth in bile and 6.5% NaCl*      |                          |              |
+|-----------+-------------------------------------+--------------------------+--------------|
+>>>>>>> 3220595 (Add streptococcus, 33,34)
