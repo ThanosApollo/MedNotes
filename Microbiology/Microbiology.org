@@ -267,3 +267,46 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           | PYR positive                        |                          | - Daptomycin |
 |           | *Growth in bile and 6.5% NaCl*      |                          |              |
 |-----------+-------------------------------------+--------------------------+--------------|
+
+* 35. Corynebacterium
+| *Reservoir*       | *Bacterial culture*                       | *Virulence Factors*       | *Diseases*    | *Treatment*                      |
+|-------------------+-------------------------------------------+---------------------------+---------------+----------------------------------|
+| Respiratory tract | Gram positive bacilli                     | Diptheria toxin(exotoxin) | Diphtheriasis | Macrolides                       |
+|                   | Facultative anaerobe                      |                           |               | Diptheria antitoxin may be added |
+|                   | *Elek test :*                             |                           |               |                                  |
+|                   | - Detection of toxin                      |                           |               |                                  |
+|                   | *Tellurite agar* : Black colonies         |                           |               |                                  |
+|                   | *Loffler medium* : metachromatic granules |                           |               |                                  |
+
++ Transmission by respiratory droplets
++ Diptheria toxin ADP-ribosylates EL-2 inhibiting protein synthesis
++ Causes Diptheriasis:
+  + Local featues :
+    + *Grayish pseudomembrane* over the posterior pharyngeal wall or tonsils
+    + Bull neck due to *cervial lymphadenopathy*
+  + Systemic featues :
+    + Myocarditis
+* Listeria, Gardnerella
+*** Listeria Monocytogenes
+| Resevoir                     | Bacterial culture                              | Virulence factors | Diseases               | Treatment  |
+|------------------------------+------------------------------------------------+-------------------+------------------------+------------|
+| Unpasteurized dairy products | Facultative anaerobe                           | Actin rocket tail | Listeriosis            | Ampicillin |
+| Cold deli meats              | Facultative intracellular                      | Cold resistance   | Congenital Listeriosis | Penicillin |
+| Transplacental transmission  | Flagella with characteristic tumbling motility |                   | Amnionitis :           |            |
+|                              | Gram positive bacilli                          |                   | - Leads to abortion    |            |
+|------------------------------+------------------------------------------------+-------------------+------------------------+------------|
++ Healthy individuals: *asymptomatic*
++ Pregnant woman :
+  + Flu-like illness
+  + Spontaneous abortion
++ Neonates :
+  + *Meningitis*
+  + Sepsis
+  + Granulomatosis infantiseptica
+*** Gardnerella Vaginalis
+| Reservoir            | Bacterial culture                   | Virulence factors | Diseases            | Treatment     |
+|----------------------+-------------------------------------+-------------------+---------------------+---------------|
+| Normal vaginal flora | Gram variable rod                   | Pili              | Bacterial vaginosis | Metronidazole |
+|                      | KOH whiff test used for diagnostics | Capsule           |                     | Clindamycin   |
+|                      | -> Clue cells                       | Phospholipase C   |                     |               |
+|                      | *Grows at pH > 4.5*                 | Biofilm formation |                     |               |
