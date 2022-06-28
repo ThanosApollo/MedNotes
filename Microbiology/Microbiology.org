@@ -1,6 +1,6 @@
 #+title: Microbiology
 #+author: Thanos Apollo
-#+description: Notes, according to the syllabus of MU Sofia
+#+description: Notes, according to the syllabus of MU Sofia 2022
 
 * 1. Introduction - History and Subject
 *** Microbiology is the study of microbes
@@ -151,73 +151,40 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 
 * 32. Staphyloccous
 *** Characteristic:
-+ Spherical cocci, grow in clusters
++ *Spherical cocci, grow in clusters*
 + absence of endospores
 + non-motile
 + facultative anaerobic
-+ Gram positive
-+ Catalase positive
++ *Gram positive*
++ *Catalase positive*
 + Present on skin and mucous membranes
 + Staphyloccous Aureus is the only coagulase positive Staphylococci
 *** S.Aureus
-**** Reservoir:
-+ Skin
-**** Bacterial culture:
-+ *Enzymes* :
-  + Catalase
-  + Coagulase
-  + Hyaluronidase
-  + Beta lactamases
-+ *Toxins* :
-  + Superantigens :
-    + Toxin shock syndrome toxin(TSST-1)
-    + Enterotoxin(heat stable)
-  + Exfoliative toxin
-+ *Proteins*
-  + Protein A -> Binds to the Fc region of IgG, preventing phagocytosis
-  + Modefied penicillin bidning proteins in MRSA
-+ Capsular polysaccharides
-**** Diseases
-+ Infections :
-  + Skin and soft tissue infections (e.g cellulitis)
-  + Abscess
-  + Acute bacterial endocarditis
-  + Septic arthritis
-  + Osteomyelitis
-+ Toxin mediated diseases :
-  + Toxic shock syndrome
-  + Food poisoning
-  + Staphylococcal Skin Scalded Syndrome
-**** Treatment
-+ MSSA -> Oxacillin or Clindamycin
-+ MRSA -> Vancomycin or Linezolid
+| Reservoir | Bacterial culture    | Virulence factors                                              | Diseases                     | Treatment                  |
+|-----------+----------------------+----------------------------------------------------------------+------------------------------+----------------------------|
+| Skin      | Gold-yellow colonies | Enzymes:                                                       | Cellulitis                   | MSSA                       |
+| Nares     | Beta hemolysis       | - Catalase                                                     | Impetigo                     | - Oxacillin or Clindamycin |
+|           | Mannitol fermenter   | - Coagulase                                                    | Abscess                      | MRSA                       |
+|           | Catalase +           | - Hyuloronidase                                                | Acute bacterial endocarditis | - Vancomycin               |
+|           | Coagualse +          | - Penicillinase                                                | Septic arthritis             | - Linezolid                |
+|           |                      | Toxins                                                         | Ostemyelitis                 |                            |
+|           |                      | - Toxic-shock syndrome toxin                                   |                              |                            |
+|           |                      | - Preformed enterotoxins                                       |                              |                            |
+|           |                      | Proteins                                                       |                              |                            |
+|           |                      | - Protein A : Binds to IgG fc portion, preventing phagocytosis |                              |                            |
+|           |                      | - Modified PNB(in MRSA)                                        |                              |                            |
+|           |                      | - Capsular polysaccharides                                     |                              |                            |
 *** Staphylococcus epidermidis
-**** Reservoir :
-+ Skin
-**** Bacterial culture :
-+ *Novobiocin-sensitive*
-+ *Virulnce factors*
-  + urease producer
-  + biofilm formation
-    + Facilitates colonization of surfaces of prosthetic devices
-**** Diseases :
-+ Foreign body infections; Prosthetic devices e.g heart valves, catheters
-**** Treatment :
-+ Penicillin or Clindamycin
+| Reservoir | Bacterial culture       | Virulence factors  | Diseases                            | Treatment   |
+|-----------+-------------------------+--------------------+-------------------------------------+-------------|
+| Skin      | *Novobiocin-sensitive*  | Urease producer    | Foreign body infections             | Clindamycin |
+|           | Catalase +              | Biofilm production | e.g catheters or prosthetic devices | Vancomycin  |
+|           | *Mannitol nonfermenter* |                    |                                     |             |
 *** Staphylococcus saprophyticus
-**** Reservoir
-+ Natural vaginal flora
-**** Bacterial culture
-+ *Novobiocin resistant*
-**** Virulence factors
-+ Urease producer
-**** Diseases
-+ UTIs
-**** Treatment
-+ TMP/SMX or 1st generation cephasporin(e.g cephalexin)
-<<<<<<< HEAD
-=======
-
+| Resevoir             | Bacterial Culture    | Virulence factors | Diseases | Treatment              |
+|----------------------+----------------------+-------------------+----------+------------------------|
+| female genital tract | Novobiocin-resistant | Urease producer   | UTIs     | TMP/SMX                |
+|                      |                      |                   |          | Amoxcillin-clavulanate |
 * 33. Streptococcus - group A, B and other Beta-hemolytic streptococci
 *** Characteristics
 + All streptococci are catalase negative(-)
@@ -300,4 +267,3 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           | PYR positive                        |                          | - Daptomycin |
 |           | *Growth in bile and 6.5% NaCl*      |                          |              |
 |-----------+-------------------------------------+--------------------------+--------------|
->>>>>>> 3220595 (Add streptococcus, 33,34)
