@@ -1,6 +1,6 @@
 #+title: Microbiology
 #+author: Thanos Apollo
-#+description: Notes, according to the syllabus of MU Sofia
+#+description: Notes, according to the syllabus of MU Sofia 2022
 
 * 1. Introduction - History and Subject
 *** Microbiology is the study of microbes
@@ -151,67 +151,162 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 
 * 32. Staphyloccous
 *** Characteristic:
-+ Spherical cocci, grow in clusters
++ *Spherical cocci, grow in clusters*
 + absence of endospores
 + non-motile
 + facultative anaerobic
-+ Gram positive
-+ Catalase positive
++ *Gram positive*
++ *Catalase positive*
 + Present on skin and mucous membranes
 + Staphyloccous Aureus is the only coagulase positive Staphylococci
 *** S.Aureus
-**** Reservoir:
-+ Skin
-**** Bacterial culture:
-+ *Enzymes* :
-  + Catalase
-  + Coagulase
-  + Hyaluronidase
-  + Beta lactamases
-+ *Toxins* :
-  + Superantigens :
-    + Toxin shock syndrome toxin(TSST-1)
-    + Enterotoxin(heat stable)
-  + Exfoliative toxin
-+ *Proteins*
-  + Protein A -> Binds to the Fc region of IgG, preventing phagocytosis
-  + Modefied penicillin bidning proteins in MRSA
-+ Capsular polysaccharides
-**** Diseases
-+ Infections :
-  + Skin and soft tissue infections (e.g cellulitis)
-  + Abscess
-  + Acute bacterial endocarditis
-  + Septic arthritis
-  + Osteomyelitis
-+ Toxin mediated diseases :
-  + Toxic shock syndrome
-  + Food poisoning
-  + Staphylococcal Skin Scalded Syndrome
-**** Treatment
-+ MSSA -> Oxacillin or Clindamycin
-+ MRSA -> Vancomycin or Linezolid
+| Reservoir | Bacterial culture    | Virulence factors                                              | Diseases                     | Treatment                  |
+|-----------+----------------------+----------------------------------------------------------------+------------------------------+----------------------------|
+| Skin      | Gold-yellow colonies | Enzymes:                                                       | Cellulitis                   | MSSA                       |
+| Nares     | Beta hemolysis       | - Catalase                                                     | Impetigo                     | - Oxacillin or Clindamycin |
+|           | Mannitol fermenter   | - Coagulase                                                    | Abscess                      | MRSA                       |
+|           | Catalase +           | - Hyuloronidase                                                | Acute bacterial endocarditis | - Vancomycin               |
+|           | Coagualse +          | - Penicillinase                                                | Septic arthritis             | - Linezolid                |
+|           |                      | Toxins                                                         | Ostemyelitis                 |                            |
+|           |                      | - Toxic-shock syndrome toxin                                   |                              |                            |
+|           |                      | - Preformed enterotoxins                                       |                              |                            |
+|           |                      | Proteins                                                       |                              |                            |
+|           |                      | - Protein A : Binds to IgG fc portion, preventing phagocytosis |                              |                            |
+|           |                      | - Modified PNB(in MRSA)                                        |                              |                            |
+|           |                      | - Capsular polysaccharides                                     |                              |                            |
 *** Staphylococcus epidermidis
-**** Reservoir :
-+ Skin
-**** Bacterial culture :
-+ *Novobiocin-sensitive*
-+ *Virulnce factors*
-  + urease producer
-  + biofilm formation
-    + Facilitates colonization of surfaces of prosthetic devices
-**** Diseases :
-+ Foreign body infections; Prosthetic devices e.g heart valves, catheters
-**** Treatment :
-+ Penicillin or Clindamycin
+| Reservoir | Bacterial culture       | Virulence factors  | Diseases                            | Treatment   |
+|-----------+-------------------------+--------------------+-------------------------------------+-------------|
+| Skin      | *Novobiocin-sensitive*  | Urease producer    | Foreign body infections             | Clindamycin |
+|           | Catalase +              | Biofilm production | e.g catheters or prosthetic devices | Vancomycin  |
+|           | *Mannitol nonfermenter* |                    |                                     |             |
 *** Staphylococcus saprophyticus
-**** Reservoir
-+ Natural vaginal flora
-**** Bacterial culture
-+ *Novobiocin resistant*
-**** Virulence factors
-+ Urease producer
-**** Diseases
-+ UTIs
-**** Treatment
-+ TMP/SMX or 1st generation cephasporin(e.g cephalexin)
+| Resevoir             | Bacterial Culture    | Virulence factors | Diseases | Treatment              |
+|----------------------+----------------------+-------------------+----------+------------------------|
+| female genital tract | Novobiocin-resistant | Urease producer   | UTIs     | TMP/SMX                |
+|                      |                      |                   |          | Amoxcillin-clavulanate |
+* 33. Streptococcus - group A, B and other Beta-hemolytic streptococci
+*** Characteristics
++ All streptococci are catalase negative(-)
++ Susceptible to penicillin
++ Commonly arranged in chains
+*** Group A - Streptococcus pyogenes
+| Resrvoir   | Bacterial Culture      | Virulence Factors                                   | Diseases                               | Treatment   |
+|------------+------------------------+-----------------------------------------------------+----------------------------------------+-------------|
+| Orophatynx | Chain like arrangement | Toxins:                                             | Head and neck                          | Penicillin  |
+|            | Facultative anaerobe   | - Erythrogenic exotoxin A                           | - Tonsilitis                           | Clindamycin |
+|            | Lancefield group A     | - Streptolysin O                                    | - Otitis Media                         |             |
+|            | *Bacitracin-Sensitive* | - Streptococcal Pyrogenic Toxin                     | - Pharyngitis                          |             |
+|            | PYR positive           | Enzymes :                                           | Skin :                                 |             |
+|            |                        | - DNAse - Destroys neutrophils                      | - Cellulitis                           |             |
+|            |                        | - Streptokinase                                     | - Impetigo                             |             |
+|            |                        | - Hyaluronidase                                     | - Necrotizing fasciitis                |             |
+|            |                        | Proteins:                                           | Toxin mediated                         |             |
+|            |                        | - Protein F -Meditates adherance to epithelia cells | - Scarlet fever                        |             |
+|            |                        | - M Protein - prevents opsonization                 | - Toxc shock-like syndrome             |             |
+|            |                        | - Hyaluronic acid capsule - inhibits phagocytosis   | Immunologic                            |             |
+|            |                        |                                                     | - Acute rheumatic fever                |             |
+|            |                        |                                                     | - Poststreptococcal glomerulonephritis |             |
+|------------+------------------------+-----------------------------------------------------+----------------------------------------+-------------|
+
+*** Group B - Streptococcus Agalactiae
++ Primarly affects babies (-B for babies)
+| Reservoir     | Bacterial cutlure                             | Virulence factors | Diseases            | Treatment              |
+|---------------+-----------------------------------------------+-------------------+---------------------+------------------------|
+| Genital tract | *Bacitracin resistant*                        | Capsule           | Neonatal meningitis | Penicillin             |
+|               | Lancfield Group B                             |                   | Neonatal sepsis     | 2nd gen Cephalosporins |
+|               | Chain arangement                              |                   |                     |                        |
+|               | Facultative anaerobe                          |                   |                     |                        |
+|               | CAMP factor :                                 |                   |                     |                        |
+|               | - Enlarges hemolysis in culture with S.Aureus |                   |                     |                        |
+|               | Hippurate positive                            |                   |                     |                        |
+|               | PYR negative                                  |                   |                     |                        |
+|---------------+-----------------------------------------------+-------------------+---------------------+------------------------|
+
+*** Other Beta hemolytic streptococci
+**** Streptococcus Gallolyticus
+| Reservoir | Bacterial Culture                 | Virulence factors | Diseases              | Treatment              |
+|-----------+-----------------------------------+-------------------+-----------------------+------------------------|
+| GI tract  | Lancfield group D                 | Capsule           | Bacteremia            | Penicillin             |
+|           | chain arrangement                 |                   | Endocarditis          | 3rd gen cephalosporins |
+|           | beta hemolysis or gamma hemolysis |                   | *Colorectal Carcinoma |                        |
+|-----------+-----------------------------------+-------------------+-----------------------+------------------------|
+* 34. Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
+*** Characteristics
++ All Streptococci are catalase negative
++ Usually suceptible to penicillins
++ Chain like arrangement
+*** Viridans streptococci
++ Includes S.Mitis, S.Mutans and S.Sanguinis
+| Reservoir  | Bacterial culture      | Virulence Factors                             | Diseases                        | Treatment    |
+|------------+------------------------+-----------------------------------------------+---------------------------------+--------------|
+| Oropharynx | Chain-like arrangement | Dextrans :                                    | Dental carries:                 | *Penicillin* |
+|            | *Optochin-resistant*   | - Facilitates binding on damaged heart valves | -By S.Mutans and S.Mitis        | Ceftriaxone  |
+|            | Bile-insoluble         | Biofilm formation(dental plaqute):            | Subacute bacterial endocarditis | Macrolides   |
+|            |                        | - by S.Mutans and S.Mitis                     | - By S.Sanguinis                |              |
+|------------+------------------------+-----------------------------------------------+---------------------------------+--------------|
+
+*** Streptococcus Pneumoniae
+| Reservoir   | Bacterial Cutlure                  | Virulence Factors         | Diseases     | Treatment     |
+|-------------+------------------------------------+---------------------------+--------------+---------------|
+| Nasopharynx | *Optochin sensitive*               | Capsulaer Polysaccharides | Otitis media | Penicillin    |
+|             | bile-soluble                       | IgA protease              | Sinusitis    | *Ceftriaxone* |
+|             | *Enacapsulated*                    |                           | Pharyngitis  | Macrolides    |
+|             | lancet-shaped diplococci in chains |                           | *Meningitis* |               |
+|-------------+------------------------------------+---------------------------+--------------+---------------|
+
+*** Enterococcus
++ 2 species:
+  + E.Facium - Less common, resistant to vancomycin
+  + E.Faecalis - More common, not resistant to vancomycin
+| Reservoir | Bacterial culture                   | Diseases                 | Treatment    |
+|-----------+-------------------------------------+--------------------------+--------------|
+| GI Tract  | Diplococci in chains                | UTIs                     | Vancomycin   |
+|           | *Lancfield Group D*                 | Billiary tree infections | VRE :        |
+|           | Alpha hemolysis and gamma hemolysis | Subacute endocarditis    | - Linezolid  |
+|           | PYR positive                        |                          | - Daptomycin |
+|           | *Growth in bile and 6.5% NaCl*      |                          |              |
+|-----------+-------------------------------------+--------------------------+--------------|
+
+* 35. Corynebacterium
+| *Reservoir*       | *Bacterial culture*                       | *Virulence Factors*       | *Diseases*    | *Treatment*                      |
+|-------------------+-------------------------------------------+---------------------------+---------------+----------------------------------|
+| Respiratory tract | Gram positive bacilli                     | Diptheria toxin(exotoxin) | Diphtheriasis | Macrolides                       |
+|                   | Facultative anaerobe                      |                           |               | Diptheria antitoxin may be added |
+|                   | *Elek test :*                             |                           |               |                                  |
+|                   | - Detection of toxin                      |                           |               |                                  |
+|                   | *Tellurite agar* : Black colonies         |                           |               |                                  |
+|                   | *Loffler medium* : metachromatic granules |                           |               |                                  |
+
++ Transmission by respiratory droplets
++ Diptheria toxin ADP-ribosylates EL-2 inhibiting protein synthesis
++ Causes Diptheriasis:
+  + Local featues :
+    + *Grayish pseudomembrane* over the posterior pharyngeal wall or tonsils
+    + Bull neck due to *cervial lymphadenopathy*
+  + Systemic featues :
+    + Myocarditis
+* Listeria, Gardnerella
+*** Listeria Monocytogenes
+| Resevoir                     | Bacterial culture                              | Virulence factors | Diseases               | Treatment  |
+|------------------------------+------------------------------------------------+-------------------+------------------------+------------|
+| Unpasteurized dairy products | Facultative anaerobe                           | Actin rocket tail | Listeriosis            | Ampicillin |
+| Cold deli meats              | Facultative intracellular                      | Cold resistance   | Congenital Listeriosis | Penicillin |
+| Transplacental transmission  | Flagella with characteristic tumbling motility |                   | Amnionitis :           |            |
+|                              | Gram positive bacilli                          |                   | - Leads to abortion    |            |
+|------------------------------+------------------------------------------------+-------------------+------------------------+------------|
++ Healthy individuals: *asymptomatic*
++ Pregnant woman :
+  + Flu-like illness
+  + Spontaneous abortion
++ Neonates :
+  + *Meningitis*
+  + Sepsis
+  + Granulomatosis infantiseptica
+*** Gardnerella Vaginalis
+| Reservoir            | Bacterial culture                   | Virulence factors | Diseases            | Treatment     |
+|----------------------+-------------------------------------+-------------------+---------------------+---------------|
+| Normal vaginal flora | Gram variable rod                   | Pili              | Bacterial vaginosis | Metronidazole |
+|                      | KOH whiff test used for diagnostics | Capsule           |                     | Clindamycin   |
+|                      | -> Clue cells                       | Phospholipase C   |                     |               |
+|                      | *Grows at pH > 4.5*                 | Biofilm formation |                     |               |
