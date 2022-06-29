@@ -315,6 +315,9 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 * 37 .Neisseria - N. Gonorrhoea
 + Gram negative, intracellular, aerobic diplococci
 + Sexual transmission
++ NO polysaccaride capsule
++ NO maltose acid detection
++ NO vaccine due to antigenic variation of pilus proteins
 
 | Reservoir      | Bacterial Culture                  | Virulence Factors                      | Diseases                  | Treatment                               |
 |----------------+------------------------------------+----------------------------------------+---------------------------+-----------------------------------------|
@@ -326,9 +329,21 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |                | Gram negative                      |                                        |                           |                                         |
 |                | Aerobic                            |                                        |                           |                                         |
 |----------------+------------------------------------+----------------------------------------+---------------------------+-----------------------------------------|
-
++ Diagnoses with NAAT(PCR)
++ We add doxycycline in case of co-infection with Chlamydia
 + Clinical features :
   + Purulent urethral discharge (yellow-green)
   + Fitz-Hugh-Curtis syndrome :
     + Liver capsule inflammation, commonly as complication of pelvic inflammatory disease in females
 * 38. Neisseria - N. Meningitidis
+| Resevoir    | Bacterial culture               | Virulence factors                      | Diseases                                | Treatment   |
+|-------------+---------------------------------+----------------------------------------+-----------------------------------------+-------------|
+| Nasopharynx | Gram negative diplococci        | IgA protease                           | Meningitis                              | Ceftriaxone |
+|             | Facultative intracellular       | Capsular polysaccharides               | Waterhouse-Friderichsen sydnrome        |             |
+|             | Growth in Thayer-Martin agar    | Lipooligosaccharides                   | Meningococcemia with petechial bleeding |             |
+|             | *Glucose AND Maltose fermenter* | Pili and proteins that allow adherance |                                         |             |
+|-------------+---------------------------------+----------------------------------------+-----------------------------------------+-------------|
+
++ Transmission by respiratory droplets
++ Vaccination available
++ Diagnsoed via PCR or culture
