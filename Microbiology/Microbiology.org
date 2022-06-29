@@ -286,7 +286,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
     + Bull neck due to *cervial lymphadenopathy*
   + Systemic featues :
     + Myocarditis
-* Listeria, Gardnerella
+* 36. Listeria, Gardnerella
 *** Listeria Monocytogenes
 | Resevoir                     | Bacterial culture                              | Virulence factors | Diseases               | Treatment  |
 |------------------------------+------------------------------------------------+-------------------+------------------------+------------|
@@ -310,3 +310,25 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |                      | KOH whiff test used for diagnostics | Capsule           |                     | Clindamycin   |
 |                      | -> Clue cells                       | Phospholipase C   |                     |               |
 |                      | *Grows at pH > 4.5*                 | Biofilm formation |                     |               |
+|----------------------+-------------------------------------+-------------------+---------------------+---------------|
+
+* 37 .Neisseria - N. Gonorrhoea
++ Gram negative, intracellular, aerobic diplococci
++ Sexual transmission
+
+| Reservoir      | Bacterial Culture                  | Virulence Factors                      | Diseases                  | Treatment                               |
+|----------------+------------------------------------+----------------------------------------+---------------------------+-----------------------------------------|
+| Genitral tract | Diplococcus                        | IgA protease                           | Fitz-Hugh-Curtis syndrome | Ceftriaxone+Doxycycline OR Azithromycin |
+|                | Intracellular - within neutrophils | Lipooligosaccharides                   | Gonorrhoeae               |                                         |
+|                | Growth in Thayer-Martin agar       | Antigenic variation of pili:           | Neonatal conjuctivitis    |                                         |
+|                | *Glucose fermenter*                | - Avoidance of neutralising antibodies | Septic arhtitis(knee)     |                                         |
+|                | *Does NOT ferment maltose!*        |                                        |                           |                                         |
+|                | Gram negative                      |                                        |                           |                                         |
+|                | Aerobic                            |                                        |                           |                                         |
+|----------------+------------------------------------+----------------------------------------+---------------------------+-----------------------------------------|
+
++ Clinical features :
+  + Purulent urethral discharge (yellow-green)
+  + Fitz-Hugh-Curtis syndrome :
+    + Liver capsule inflammation, commonly as complication of pelvic inflammatory disease in females
+* 38. Neisseria - N. Meningitidis
