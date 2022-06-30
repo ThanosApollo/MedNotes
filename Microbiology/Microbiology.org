@@ -435,14 +435,17 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 
 * 41. Shigella
 + Gram negative bacilli
++ Fecal oral transmission
 *** Shigella dysenteriae
-| Reservoir   | Bacterial culture         | Virulence factors | Diseases                                                    | Treatment        |
-|-------------+---------------------------+-------------------+-------------------------------------------------------------+------------------|
-| ONLY Humans | Acid stable               | Shiga toxin       | Shigellosis(bloody diarrhea)                                | Fluoroquinolones |
-|             | Spread from cell to cell: |                   | *Hemolytic uremic syndrome:*                                | Ceftriaxone      |
-|             | ->Invasion of M cells     |                   | ->Microangiopathic thrombocytopenia and acute kidney injury |                  |
-|             | No lactose fermentation   |                   | ->More common in children                                   |                  |
-|-------------+---------------------------+-------------------+-------------------------------------------------------------+------------------|
+| Reservoir   | Bacterial culture                | Virulence factors         | Diseases                            | Treatment        |
+|-------------+----------------------------------+---------------------------+-------------------------------------+------------------|
+| ONLY Humans | Acid stable                      | Shiga toxin               | Shigellosis(bloody diarrhea)        | Fluoroquinolones |
+|             | Spread from cell to cell:        | Type III secretion system | *Hemolytic uremic syndrome:*        | Ceftriaxone      |
+|             | ->Invasion of M cells            |                           | ->Microangiopathic thrombocytopenia |                  |
+|             | No lactose fermentation          |                           | ->More common in children           |                  |
+|             | *Green colonies on hektoen agar* |                           | ->Acute kidney injury               |                  |
+|             | Immotile                         |                           |                                     |                  |
+|-------------+----------------------------------+---------------------------+-------------------------------------+------------------|
 + Shiga Toxin :
   + Inactivate 60s ribosomal unit, removing adenine from rRNA
 * 42. Enterobacteriaceae - Yersinia
