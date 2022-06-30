@@ -415,3 +415,20 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + *Ureaser producer*
 + Causes UTIs -> formation of staghorn calculi
 + Treat with TMP/SMX
+* Enterobacteriacecae - Salmonella
++ Gram negative rods
++ Facultative intracellular
+*** Salmonella Enteritidis
+| Reservoir                  | Bacterial Cutlure                               | Virulence factors  | Diseases           | Treatment          |
+|----------------------------+-------------------------------------------------+--------------------+--------------------+--------------------|
+| Humans                     | Produce hydrogen sulfide(H2S) -> Black colonies | Flagellar motility | Salmonellosis:     | Severe cases:      |
+| poultry, pets and reptiles | No lactose fermentation                         | Endotoxin          | ->Bloody diarrhea  | ->Fluoruqoinolines |
+|                            | Acid labile -> High infectious dose required    |                    | Reactive arthritis | Mild cases :       |
+|                            | Facultative intracellular within macrophages    |                    |                    | ->Supportive       |
+
+*** Salmonella Typhi and Paratyphi
+| Resevoir      | Bacterial culture                               | Virulence factors  | Diseases                            | Treatment        |
+|---------------+-------------------------------------------------+--------------------+-------------------------------------+------------------|
+| *ONLY humans* | Acid labile -> high infectious dose required    | Flagellar motility | Typohoid fever                      | Fluoruqoinolines |
+|               | Produce hydrogen sulfide(H2S) -> Black colonies | *Vi capsule*       | Paratyphoid fever                   | Ceftriaxone      |
+|               | No lactose fermentation                         |                    | Osteomyelitis in sicke cell disease |                  |
