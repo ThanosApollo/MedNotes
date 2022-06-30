@@ -434,6 +434,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |               | No lactose fermentation                         |                    | Osteomyelitis in sicke cell disease |                  |
 
 * 41. Shigella
++ Gram negative bacilli
 *** Shigella dysenteriae
 | Reservoir   | Bacterial culture         | Virulence factors | Diseases                                                    | Treatment        |
 |-------------+---------------------------+-------------------+-------------------------------------------------------------+------------------|
@@ -445,4 +446,22 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Shiga Toxin :
   + Inactivate 60s ribosomal unit, removing adenine from rRNA
 * 42. Enterobacteriaceae - Yersinia
++ Gram negative bacilli
 *** Yersinia Pestis
++ Transmission by flea bites
+| Reservoir | Bacterial culture         | Virulence factors | Diseases | Treatment       |
+|-----------+---------------------------+-------------------+----------+-----------------|
+| Rodents   | Facultative intracellular | Cold resistance   | Plague   | Tetracyclines   |
+|           | Bipolar Staining          |                   |          | Aminoglycosides |
+|           | Gram negative bacilli     |                   |          |                 |
+|-----------+---------------------------+-------------------+----------+-----------------|
++ Bubonic plague :
+  + Fever, headache, myalgias, *swollen lymph nodes(buboes)*
+*** Yersinia enterolitica
+| Reservoir                  | Bacterial culture | Virulence factors | Diseass           | Treatment        |
+|----------------------------+-------------------+-------------------+-------------------+------------------|
+| Pets                       | *Pleomorphic*     | Cold resistance   | Yersiniosis       | Fluoroquinolones |
+| Reptiles                   |                   |                   | Reactive arhtitis | Supportive       |
+| Contaminated pork and milk |                   |                   |                   |                  |
+|----------------------------+-------------------+-------------------+-------------------+------------------|
++ Yersioniosis causes bloody diarrhea
