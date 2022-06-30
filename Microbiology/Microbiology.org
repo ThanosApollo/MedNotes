@@ -415,7 +415,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + *Ureaser producer*
 + Causes UTIs -> formation of staghorn calculi
 + Treat with TMP/SMX
-* Enterobacteriacecae - Salmonella
+* 40.Enterobacteriacecae - Salmonella
 + Gram negative rods
 + Facultative intracellular
 *** Salmonella Enteritidis
@@ -432,3 +432,17 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 | *ONLY humans* | Acid labile -> high infectious dose required    | Flagellar motility | Typohoid fever                      | Fluoruqoinolines |
 |               | Produce hydrogen sulfide(H2S) -> Black colonies | *Vi capsule*       | Paratyphoid fever                   | Ceftriaxone      |
 |               | No lactose fermentation                         |                    | Osteomyelitis in sicke cell disease |                  |
+
+* 41. Shigella
+*** Shigella dysenteriae
+| Reservoir   | Bacterial culture         | Virulence factors | Diseases                                                    | Treatment        |
+|-------------+---------------------------+-------------------+-------------------------------------------------------------+------------------|
+| ONLY Humans | Acid stable               | Shiga toxin       | Shigellosis(bloody diarrhea)                                | Fluoroquinolones |
+|             | Spread from cell to cell: |                   | *Hemolytic uremic syndrome:*                                | Ceftriaxone      |
+|             | ->Invasion of M cells     |                   | ->Microangiopathic thrombocytopenia and acute kidney injury |                  |
+|             | No lactose fermentation   |                   | ->More common in children                                   |                  |
+|-------------+---------------------------+-------------------+-------------------------------------------------------------+------------------|
++ Shiga Toxin :
+  + Inactivate 60s ribosomal unit, removing adenine from rRNA
+* 42. Enterobacteriaceae - Yersinia
+*** Yersinia Pestis
