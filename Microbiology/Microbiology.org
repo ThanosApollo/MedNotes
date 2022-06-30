@@ -347,3 +347,71 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Transmission by respiratory droplets
 + Vaccination available
 + Diagnsoed via PCR or culture
+* 39 Enterobacteriaceae - E.Coli and other opportunistic Enterobacteriaceae (Klebsiella, Enterobacter, Serratia - group KES' Proteus,Morganella, Citrobacter)
+*** Enterobacteriaceae
++ Largest family of gram-negative rod shaped bacteria
++ Found in soil, water and vegetation, and are part of the normal intestinal flora of humans and most animals
++ *E.Coli*
+  + Sorbitol and lactose fermenter(*EHEC does not ferment sorbitol*)
+  + *Forms pink colonies on McConkey agar*
+  + *Green colonies on eosin-methylene blue agar*
++ Virulence factors :
+  + Fimbriae -> cystitis and pyelonephritis(P pili)
+  + K Capsule -> pneumonia, neonatal meningitis
+  + LPS endotoxin -> Septic shock
+  + resistance against bile acids -> proliferation in GI tract
++ Treatment :
+  + TMP/SMX
+  + Ciprofloxacin
++ Transmission :
+  + Contaminated food/water with feces
+  + Fecal oral transmission
+
++ *Enteroinvasive E.Coli*
+  + microbes invade intestinal mucosa and causes necrosis and inflammation
+  + Invasive dysentry, similar to Shigella
++ *Enterotoxigenic E.Coli*
+  + Produces heat labile and heat stable enterotxins
+  + No inflammation or invasion
+  + *Travelers diarrhea* (watery)
++ *Enteropathogenic E.Coli*
+  + *NO Toxin* produced
+  + Adheres to apical surface, causes malabsorption
+  + Watery Diarrhea *usually in children*
++ *Enterohemorrhagic E.Coli*
+  + O157-H7 is the most common serotype
+  + Transmitted usually via undercooked beef
+  + Shiga-like toxin -> *hemolytic uremic syndrome*
+    + triad of anemia, thrombocytopenia and acute kidney injury due to microthrombi -> mechanical hemolysis, reduced renal blood flow
+*** Klebsiella
++ Gram negative rod
++ Lactose fermenting bacteria -> pink colonies in MacConkey agar
++ intestibal microbe that causes lobar pneumonia and lung abscess ; more common in patients with heavy alcohol use or immusupressed patients
++ Mucoid colonies -> caused by abundant *polysaccharide capsules*
++ *Red jelly sputum*
++ Causes nosocomial infections -> UTIs pneumonia
++ Multidrug resistance -> Treatment with Carbapenems
++ *Immotile*
+*** Serratia
++ Gram negative rod
++ Lactose fermenting bacteria -> pink colonies in MacConkey agar
++ *Catalase positive*
++ Causes nosocomial infections -> UTIs, pneumonia
++ Multidrug resistance -> Treat with Carbapenems
++ *Motile*
+*** Enterobacter
++ Gram negative rod
++ Lactose fermenting bacteria -> pink colonies in MacConkey agar
++ Causes nosocomial infections -> UTIs, pneumonia
++ Multidrug resistance -> Treat with Carbapenems
++ *Motile*
+*** Citrobacter
++ Gram negative enteric rod
++ Lactose fermenting bacteria -> pink colonies in MacConkey agar
+*** Proteus
++ Gram negative bacillus
++ Exhibit *swarming motility* when plated
++ Characteristic fishy odor
++ *Ureaser producer*
++ Causes UTIs -> formation of staghorn calculi
++ Treat with TMP/SMX
