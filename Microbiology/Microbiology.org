@@ -468,3 +468,38 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 | Contaminated pork and milk |                   |                   |                   |                  |
 |----------------------------+-------------------+-------------------+-------------------+------------------|
 + Yersioniosis causes bloody diarrhea
+
+* 43.Vibrionaceae- V. Cholerae, other Vibrio species associated with human diseases
+*** Vibrio cholerae
+| Reservoir          | Bacterial culture             | Virulence factors     | Diseases | Treatment        |
+|--------------------+-------------------------------+-----------------------+----------+------------------|
+| Contaminated water | Polar flagella                | Cholera toxin         | Cholera  | Fluoroquinolones |
+|                    | Grows on alkaline media       | ->Rice water diarrhea |          |                  |
+|                    | Acid labile                   |                       |          |                  |
+|                    | Oxidase positive              |                       |          |                  |
+|                    | *Gram negative, comma shaped* |                       |          |                  |
+|--------------------+-------------------------------+-----------------------+----------+------------------|
+*** Vibrio Vulnificus
+| Reservoir                               | Bacterial culture | Virulence factors       | Diseases                         | Treatment        |
+|-----------------------------------------+-------------------+-------------------------+----------------------------------+------------------|
+| Contaminated water-Marine environments  | Lactose fermenter | Lipopolysaccharide(LPS) | Cellulitis, bullous skin lesions | Doxycycline      |
+| ->Wounds infected by contaminated water | Polar flagella    | Exotoxins:              | Necrotizing fasciitis            | Fluoroquinolones |
+|                                         | Gram negative     | -> Hemolysin            | -> Wound infections              |                  |
+|                                         | Bacilli shaped    | -> Metalloproteases     |                                  |                  |
+|-----------------------------------------+-------------------+-------------------------+----------------------------------+------------------|
+
+* 44. Campylobacter and Helicobacter
+*** Helicobacter pylori
+| Reservoir     | Bacterial culture             | Virulence factors | Disease                  | Treatment               |
+|---------------+-------------------------------+-------------------+--------------------------+-------------------------|
+| mainly Humans | Curved gram negative rod      | Urease producer   | Type B *Gastritis*       | Tripple therapy:        |
+|               | Flagellated(motile)           |                   | Duodenal peptic ulcers   | - Clarithromycin +      |
+|               | Oxidase positive              |                   | *Gastric adenocarcinoma* | - Amoxcillin +          |
+|               | Urease positive               |                   | MALT lymphoma            | - Proton Pump Inhibitor |
+|               | ->Urease breath for diagnosis |                   |                          |                         |
+*** Campylobacter
+| Reservoir               | Bacterial culture        | Virulence factors           | Disease                         | Treatment  |
+|-------------------------+--------------------------+-----------------------------+---------------------------------+------------|
+| Poultry                 | Curved gram negative rod | Type IV secretion system    | Bloody diarrhea                 | Macrolides |
+| Fecal-oral transmission | Grows at 42C             | Cytolethal-distending toxin | Proceeds Guillain-Bare syndrome |            |
+|                         | Oxidase positive         |                             |                                 |            |
