@@ -600,8 +600,26 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 | Upasteurized dairy products | Facultative intracellular       | Lipopolysaccharide | Brucellosis   | Doxycycline + Rifampin |
 | Goats, sheep, cattle        | -> Within macrophages           | Catalase positive  | Osteomyelitis |                        |
 |                             | Grows on charcoal yeast extract |                    |               |                        |
+|-----------------------------+---------------------------------+--------------------+---------------+------------------------|
 
 + Brucellosis
   + GI symptoms
   + Lymph nodes enlargement
   + Spleenomegaly
+* 49. Haemophilus
++ Gram negative coccobacilli
+*** Haemophilus Influenza
+| Reservoir            | Bacterial culture                                | Virulence factors | Diseases                  | Treatment                    |
+|----------------------+--------------------------------------------------+-------------------+---------------------------+------------------------------|
+| Nasopharynx          | Gram negative coccobacilli                       | IgA protease      | Arthritis                 | Amoxcillin + Clavulanate     |
+| Aerosol transmission | Haemophilic bacteria -> grows on chocolate agar* |                   | Epiglottitis              | Ceftriaxone for Meningitidis |
+|                      | Grows in pressence of S.Aureus                   |                   | Meningitidis(Only type B) |                              |
+|                      | *Requires X(hematin) factor and V Factor(NAD)    |                   | Otitis                    |                              |
+|                      | *ONLY* type H.Influenza Type B has capsule       |                   | Pneumonia                 |                              |
+
+*** Haemophilus Ducreyi
+| Reservoir | Bacterial culture                | Virulence factors | Diseases         | Treatment  |
+|-----------+----------------------------------+-------------------+------------------+------------|
+| Humans    | Haemophilic bacteria:            | Hemolysin         | Wound infections | Macrolides |
+|           | ->Requires factor X and factor V | Cytolethal toxin: | Chancroid        |            |
+|           |                                  | ->Ulcer formation |                  |            |
