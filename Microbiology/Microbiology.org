@@ -681,3 +681,51 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Gram negative spiral shaped organism carried by rats
 + Causes a form of *rat fever(sodoku)*
   + Regional swelling with relapsing fever
+* 51. Anaerobic Gram positive cocci and Nonspore-forming Bacteria
+*** Peptococcus Niger
++ Opportunistic pathogen
++ Causes subacute purulent infections
++ G+, nonmotile, anaerobic cocci found in intestinal mucous membranes
++ Produces hydrogen sulfide -> forms black colonies
+*** Peptostreptococcus
++ Opportunistic pathogen
++ Causes subacute purulent infections
++ May lead to necrotizing fasciitis
++ Can cause brain, liver and lung abscess
+* 52. Anaerobic Spore-Forming Bacteria- Clostridium
++ Gram positive motile rods
++ *Anaerobic*
+*** Clostridium difficile
+| Reservior | Bacterial culture | Virulence factors    | Diseases                         | Treatment     |
+|-----------+-------------------+----------------------+----------------------------------+---------------|
+| GI tract  | *Anaerobe*        | Toxin A(Enterotoxin) | Pseudomembranous Colitis:        | Metronidazole |
+|           |                   | Toxin B(Cytotoxin)   | ->Antibiotic associated diarrhea | Vancomycin    |
+|-----------+-------------------+----------------------+----------------------------------+---------------|
++ Both toxins are found in stool of patients. PCR is also used for diagnosis
++ Associated with antibiotic use, mostly with clindamycin. Reduce antiobitc administration and treat with Vancomycin/Metronidazole
+
+*** Clostridium Tetani
+| Reservoir | Bacterial Culture | Virulence factors                                       | Diseases            | Treatment     |
+|-----------+-------------------+---------------------------------------------------------+---------------------+---------------|
+| Soil      | Drumstick-shaped  | Tetanospasmin:                                          | Tetanus:            | Penicillin    |
+|           |                   | -> prevets release of GABA/Glycine from Renshaw neurons | ->Spastic paralysis | Metronidazole |
+|           |                   |                                                         |                     |               |
+|-----------+-------------------+---------------------------------------------------------+---------------------+---------------|
+*** Clostridium Botulinum
+| Reservoir | Bacterial culture                 | Virulence factors                 | Diseases             | Treatment        |
+|-----------+-----------------------------------+-----------------------------------+----------------------+------------------|
+| Soil      | Club-shaped bacilli with flagella | Botulinum toxin                   | Botululism:          | Supportive       |
+| Honey     |                                   | ->Blocks release of acetylcholine | ->Flaccid paralysis  | ->Secure airways |
+|           |                                   | ->By cleaving SNARE proteins      | Gray baby syndrome:  |                  |
+|           |                                   |                                   | ->Ingestion of honey |                  |
+|-----------+-----------------------------------+-----------------------------------+----------------------+------------------|
+*** Clostridium Perfringens
+| Reservoir | Bacterial culture        | Virulence Factors           | Diseases                    | Treatment                 |
+|-----------+--------------------------+-----------------------------+-----------------------------+---------------------------|
+| Soil      | Club-shaped bacilli      | Endotoxins                  | Gas gangrene -> myonecrosis | Clindamycin               |
+| Skin      | Double zone of hemolysis | Alpha toxin :               | Food poisoning              | Piperacillin + tazobactam |
+| GI tract  |                          | -> Causes gas gangrene      |                             |                           |
+|           |                          | Enterotoxin:                |                             |                           |
+|           |                          | ->targets intestinal mucosa |                             |                           |
+|           |                          | ->Diarrhea                  |                             |                           |
+|-----------+--------------------------+-----------------------------+-----------------------------+---------------------------|
