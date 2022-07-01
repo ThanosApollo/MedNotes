@@ -503,3 +503,59 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 | Poultry                 | Curved gram negative rod | Type IV secretion system    | Bloody diarrhea                 | Macrolides |
 | Fecal-oral transmission | Grows at 42C             | Cytolethal-distending toxin | Proceeds Guillain-Bare syndrome |            |
 |                         | Oxidase positive         |                             |                                 |            |
+|-------------------------+--------------------------+-----------------------------+---------------------------------+------------|
+
+* 45. Pseudomonas and related organisms (Burkholdelia, Stenotrophomonas, Acinetobacter, Moraxella)
++ Gram negative rods
+*** Pseudomonas aeruginosa
+| Resevoir                           | Bacterial culture                     | Virulence factors                 | Diseases                     | Treatment  |
+|------------------------------------+---------------------------------------+-----------------------------------+------------------------------+------------|
+| Water                              | Flagellated(motile)                   | Polysaccharide Capsule            | Nosocomial pneumonia         | *CAMPFIRE* |
+| Hot tubs                           | Obligate Aerobe                       | Endotoxin ->Fever                 | Nosocomia UTIs               |            |
+| Contaminated contact lens solution | Catalase positive                     | *Exotoxin A*                      | Sepsis                       |            |
+|                                    | Oxidase positive                      | -> Inactivates EF-2               | *hottub folliculitis*        |            |
+|                                    | Produces *pyocyanin* and *pyoverdin*: | -> inhibition of protein synthsis | Otitis externa               |            |
+|                                    | -> Blue green pigment                 | *Phospholipase C*                 | in IV drug users :           |            |
+|                                    | ->Formation of green pus in infection | ->Degrades cell membranes         | -> Endocarditis              |            |
+|                                    | ->Generate reactive oxygen species    |                                   | -> Osteomyelitis             |            |
+|                                    |                                       |                                   | In cystic fibrosis patients: |            |
+|                                    |                                       |                                   | ->chronic pneumonia          |            |
+|------------------------------------+---------------------------------------+-----------------------------------+------------------------------+------------|
++ *CAMPFIRE* :
+  + Carbapenems OR
+  + Aminoglycosides OR
+  + Macrolides OR
+  + Polymixins OR
+  + Fluoroquinolones OR
+  + thIRd generation cephalosporins -> ceftazidime OR
+  + Extended Spectrum Penicillins with B-lactamase inhibitor -> piperacillin + tazobactam
+*** Burkholdelia
++ Treatment for both -> Ceftazidime
++ *Burkholdelia pseudomallei*
+  + Motile, oxidase positive, gram negative bacillus with *bipolar staining* seen using *Wright's stain* or methylene blue
+  + Causes *melioidosis*
+    + Commonly presents as pulmonary infection -> primary pneumonitis
+    + Some patiens may deveop skin infections
++ *Burkholdelia Pseudomallei*
+  + nonmotile, nonpigmented, aerobic gram negative rod
+  + Causes *glanders*
+    + Disease of horses, transmissible to humans
+    + Human disease will present as ulcer of the skin followed by lymphangitis and sepsis
+    + Inhalation may lead to primary pneumonia
+*** Stentrophomonas Maltophilia
++ gram negative rod, on blood agar presents with a green or gray color
++ *oxidase negative*, positive for DNase and *oxidation of glucose and maltose*
++ Associated with nosocomial pneumonia and UTIs
+  + mostly with plastic intravenous catheters
+*** Acinetobacter
++ Aerobic, gram negative coccobacilli
++ Commonly mistaken for neisseria species on cultures
+  + Neisseria is oxidase positive, Acinetobacter is *oxidase negative*
++ Associated with nosocmial device infections -> UTIs, Pneumonia
++ Mutlidrug resistance, treat with Colistin or Aminoglycosides(Gentamcin, Amikacin, Tobramycin)
+*** Moraxella
++ Gram negative bacilli
++ nonmotile, nonfermentive and oxidase positive
++ part of normal flora of the upper respiratory tract
++ Occasionally cause bacteremia and endocarditis
++ Susceptible to penicillins
