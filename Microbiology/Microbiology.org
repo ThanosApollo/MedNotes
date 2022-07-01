@@ -729,3 +729,122 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           |                          | ->targets intestinal mucosa |                             |                           |
 |           |                          | ->Diarrhea                  |                             |                           |
 |-----------+--------------------------+-----------------------------+-----------------------------+---------------------------|
+
+* 53. Aerobic Spore-forming bacteria - Bacillus
++ Gram positive, aerobic, rods
+*** Bacillus Anthracis
+| Reservoir      | Bacterial culture               | Virulence factors       | Diseases | Treatment        |
+|----------------+---------------------------------+-------------------------+----------+------------------|
+| Soil           | Aerobe                          | Polypeptide capsule     | Anthrax  | Fluoroquinolones |
+| Mammals(Sheep) | stick-shaped                    | -> Contains d-glutamate |          | Doxycycline      |
+|                | Colonies show halo projections: | Anthrax toxin*          |          |                  |
+|                | ->Medusa head                   | Spore formation         |          |                  |
+|----------------+---------------------------------+-------------------------+----------+------------------|
++ *Anthrax toxin*
+  + Consists of :
+    + Edema toxin -> increases cAMP causes cellular edema
+    + Lethal factor -> disrputs cell signaling -> cell death -> necrosis
++ *Anthrax*
+  + Human infection due to contact with farm animals or infected animla products(e.g wool meat)
+  + Anhtrax spores are also used in bioterrorism
+  + *3 clinical symptoms*:
+    + Inhalation anthrax -> hemorrhagic mediastinitis + fever + pleural effusion - Diagnostic widening of mediastinum
+    + Cutaneous anthrax -> necrotic eschar
+    + GI anthrax -> bloody diarrhea
+*** Bacillus Cereus
+| Reservoir                | Bacterial culture    | Virulence factors | Disease        | Treatment                |
+|--------------------------+----------------------+-------------------+----------------+--------------------------|
+| Contaminated food        | *Facultative aerobe* | Cereulide         | Food poisoning | Supportive - rehydration |
+| ->Commonly reheated rice |                      | -> emesis(vomit)  |                |                          |
+|                          |                      | Spore formation   |                |                          |
+|--------------------------+----------------------+-------------------+----------------+--------------------------|
++ Emetic type -> causes vomitting 1-5hours after ingestion
++ Diarrheal type -> causes watery diarrhea 8-18 hours after ingestion
+
+* *54. Anaerobic
+* 55. Mycobacteria
++ No cell wall -> Atypical gram stain bacteria
+*** M.Tuberculosis
++ Acid fast bacteria
+| Reservoir   | Bacterial culture                  | Virulence factors                              | Disease                            | Treatment |
+|-------------+------------------------------------+------------------------------------------------+------------------------------------+-----------|
+| ONLY humans | Stained using Ziehl-Neelsen stain: | Cord factor:                                   | Tuberculosis                       | *RIPE*    |
+|             | ->Binds to mycolic acid            | ->Arranges M.Tuberculosis in serpentine factor | ->Affects lungs                    |           |
+|             | Gram neutral                       | TNF-a release and activation of macrophages    | ->Typically dormant                |           |
+|             | Facultative intracellular          | Surface glycolipids(sulfatides):               | ->Reactivation by immunosuppresion |           |
+|             | Growth in Lowenstein-Jensen agar   | -> inhibit phagolysosomal fusion               |                                    |           |
+|             |                                    | Multidrug resistance                           |                                    |           |
+|             |                                    | ->Mutation in KatG->Isoniazid resistance       |                                    |           |
+|-------------+------------------------------------+------------------------------------------------+------------------------------------+-----------|
++ *RIPE* therapy
+  + Rifampin
+  + Isoniazid
+  + Pyrazinamide
+  + Ethambutol
++ Active Tuberculosis:
+  + Fever
+  + Nightsweats
+  + cough
+  + *hemoptysis*
+*** M.Leprae
+| Reservoir | Bacterial culture                  | Virulence factors   | Disease             | Treatment         |
+|-----------+------------------------------------+---------------------+---------------------+-------------------|
+| Humans    | Stained using Ziehl-Neelsen stain: | surface glycolipids | Lepromatous Leprosy | Dapsoe + Rifampin |
+| Armalidos | ->Acid fast bacteria               |                     | Tuberculoid Leprosy |                   |
+|           | ->Binds to mycolic acids           |                     |                     |                   |
+|           | *Obligate intracellular*           |                     |                     |                   |
+|-----------+------------------------------------+---------------------+---------------------+-------------------|
++ Lepromatous Leprosy :
+  + presents over the skin, with leonine(lion-like) faces and is communicable
+  + Cell low cell-mediated immunity, Th2 cell response
+  + Can be letahl
++ Tuberculoid Leprosy :
+  + Limited to few hypoesthetic *hairless skin plaques*
+  + High cell mediated immunity, Th1 cell response
+
+* 56. Spirocehtes - Treponema
+*** Treponema pallidum
++ Visualized using:
+  + Darkfiled microscopy
+  + Direct fluorescent antibody microscopy
++ Has thin wall; considered gram negative
++ Causes *Syphilis*:
+  + *STD*
+  + *Primary Syphilis* :
+    + Localized painless chancre -> Use darkfield microscopy to visualize treponemes in fluid from chancre
+  + *Secondary Syphilis* :
+    + Disseminated disease
+    + Maculopapular rash
+    + *Condyloma lata* -> smooth, painless lessions on genitals
+  + *Tertiary Syphilis* :
+    + Gummas -> chronic granulomas
+    + Aortitis
+    + Neurosyphilis(Tabes Dorsalis)
+    + Argyl Robertson pupil -> pupil not reactive to light but constricts with accommodation
+    + Characteristic Charcot joins
+  + *Congenital Syphilis*
+    + Facial abnormalitis such as rhagades, Saddle nose and saber shins
+    + Deafness
+    + Transplacental transmission occurs after first trimester
++ Diagnosed using VRDRL test -> nonspecific antibody reacts with beef cardiolipin
++ Treat with Penicillin -> Causes Jarisch-Herxheimer reaction ->Flu-like symptoms
+* 57. Spirochetes - Borellia
+*** Borellia Burgdorferi
++ Transmitted by ixodes tick
++ Largest spirochete
++ Visible in light microscopy using *Wright or Giemsa stain*
++ Causes *Lyme disease*
+  + Stage I -> early localized; erythema migrans(bulls-eye configuration), flu-like symptoms
+  + Stage II -> early disseminated; secondary lessions, AV blocks, facial nerve palsy, myalgias
+  + Stage III -> Late disseminated; encephalopathy, chronic arthritis, peripheral neuropathy
++ Treatment :
+  + Doxycycline OR Ceftriaxone
+  + Amoxicillin OR Cefuroxime for pregnant women & children
+*** Borellia Recurrentis
++ Transmitted by louse, pediculus humanous
++ Largest spirochete
++ Visible in light microscopy using *Wright or Giemsa stain*
++ Causes *Relapsing fever*
+  + recurs because of surface antigen variation
+* 58. Ureaplasma Urealyticum
++ both have *no cell wall*
