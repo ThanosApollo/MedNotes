@@ -592,7 +592,6 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Regional lymph nodes enlarge and may become necrotic
   + Inhalation of an infective aerosol results in peribronchial inflammation and localized pneumonitis
 
-
 * 48. Brucella
 + gram negative coccobacilli
 | Reservoir                   | Bacterial culture               | Virulence factors  | Diseases      | Treatment              |
@@ -623,3 +622,62 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 | Humans    | Haemophilic bacteria:            | Hemolysin         | Wound infections | Macrolides |
 |           | ->Requires factor X and factor V | Cytolethal toxin: | Chancroid        |            |
 |           |                                  | ->Ulcer formation |                  |            |
+|-----------+----------------------------------+-------------------+------------------+------------|
+* 50. Miscellaneous Gram Negative bacteria (Legionella, Bartonella, Streptobacillus and Spirillum)
+*** Legionella Pneumophilla
++ Transmission:
+  + Inhalation of infected aerosols e.g infected air-conditioning system
+  + /Only Legionella species that hydrolyzes hippurate/
+  + More common in smokers
+| Reservoir           | Bacterial Culture                  | Virulence factors  | Diseases             | Treatment        |
+|---------------------+------------------------------------+--------------------+----------------------+------------------|
+| Aqueous enviroments | Gram negative bacillus, atypical:  | Flagella           | Legionnaires disease | Macrolides       |
+|                     | ->Stain poorly, use *silver stain* | Lipopolysaccharide | Pontiac fever        | Fluoroquinolones |
+|                     | Grows on charcoal yeast extract    |                    |                      |                  |
+|                     | Facultative intracellular          |                    |                      |                  |
+|                     | *Oxidase positive*                 |                    |                      |                  |
+|---------------------+------------------------------------+--------------------+----------------------+------------------|
+
++ *Legionnaires Disease*
+  + Presents with hyponatremia
+  + Headache and confusion
+  + High fever
+  + Characteristic *pneumonia WITH diarrhea*
++ *Pontiac fever*
+  + Self-limitting respiratory disease, mild-flue symptoms
++ Diagnosis with urine antigen test
+*** Bartonella
++ Pleomorphic gram negative rods
++ Visualization with *Warthin Starry stain*
++ *Bortonella Bacilliformis*
+  + Posseses a protein that causes deformity of RBCs
+  + Causes *Oroya fever* -> rapid development of severe anemia, hepatosplenomegaly and hemorrhage into the lymph nodes
+  + 40% mortality
+  + Treat with doxycycline or cirpofloxacin
+  + Giemsa stain can be used for visualaztion, using a blood sample
++ *Bortonella Henselae*
+| Resevoir | Bacterial culture         | Virulence factors  | Diseases                  | Treatment  |
+|----------+---------------------------+--------------------+---------------------------+------------|
+| Cats     | Facultative intracellular | Lipopolysaccharide | Cat scratch disease       | Macrolides |
+|          |                           |                    | In HIV patients :         |            |
+|          |                           |                    | -> Bacillary angiomatosis |            |
+|          |                           |                    | Bacterial endocarditis    |            |
+|----------+---------------------------+--------------------+---------------------------+------------|
+   + Cat scratch disease :
+     + Bening, self-limmiting infection transmitted by cats scratches/biting
+     + General malaise with a localized erythamous nontender papule
+     + Swollen lymph nodes, commonly affects axilla, neck or groin
++ *Bacillary angiomatosis*
+  + red papules that bleed easily
+  + similar to kaposi sarcoma but has *neutrophilic iniltrate*
+*** Streptobacillus Moniliformis
++ Gram negative, pleomorphic rod, forms irregular chains
++ Grows best at 37C in media containing serum protein, ceases to grow at 22C
++ Found in *rats*, humans are infected by rat bites -> *rat bite fever*
++ *Rat bite fever* :
+  + Septic fever and petechial rashes
+  + Painful polyarthitis
+*** Spirillum Minor
++ Gram negative spiral shaped organism carried by rats
++ Causes a form of *rat fever(sodoku)*
+  + Regional swelling with relapsing fever
