@@ -559,3 +559,49 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + part of normal flora of the upper respiratory tract
 + Occasionally cause bacteremia and endocarditis
 + Susceptible to penicillins
+* 46. Bordetella
+*** Bordetella pertrussis
++ Gram negative coccobacillus
+| Resevoir          | Bacterial culture              | Virulence factors                | Diseases                  | Treatment  |
+|-------------------+--------------------------------+----------------------------------+---------------------------+------------|
+| Only humans       | Requires enriched media:       | Capsule                          | Petrussis - Whopping couh | Macrolides |
+| Respiratory tract | - Bordet-Gengou(potato) medium | *Pertrusis toxin*:               |                           |            |
+|                   | OR                             | ->ADP-ribosylation of Gi protein |                           |            |
+|                   | - Regan-Lowe medium            | ->Impaired signalling pathways   |                           |            |
+|                   | Oxidase positive               | *Tracheal cytotoxin :*           |                           |            |
+|                   | Catalase positive              | -> Kills epithelial cells        |                           |            |
+|                   | Nonmotile                      |                                  |                           |            |
+|-------------------+--------------------------------+----------------------------------+---------------------------+------------|
++ Pertrusis
+  + Primarily affects children 6months old to 5 years old
+  + 3 stages :
+    + Catarrhal -> upper respiratory infection with mild cough
+    + Paroxysmal -> Intense paroxysmal coughing(especially at night) followed by a *whooping sound*
+    + Convalescent -> Progressive reduction of symtpoms
+* 47. Francisella Tularensis
+| Reservoir        | Bacterial Culture               | Virulence factors      | Diseases  | Treatment                  |
+|------------------+---------------------------------+------------------------+-----------+----------------------------|
+| Rabbits          | Gram negative coccobacillus     | Polysaccharide capsule | Tularemia | Streptomycin + doxycycline |
+| Dermacentor Tick | Aerobic                         |                        |           |                            |
+| Deer flies       | Facultative intracellular       |                        |           |                            |
+|                  | Grows on charcoal yeast extract |                        |           |                            |
+|------------------+---------------------------------+------------------------+-----------+----------------------------|
++ Tularemia:
+  + Allf forms will present with fever, headache and pain in the involved region and regional lymph nodes
+  + Ulcerating papule starts to develop
+  + Regional lymph nodes enlarge and may become necrotic
+  + Inhalation of an infective aerosol results in peribronchial inflammation and localized pneumonitis
+
+
+* 48. Brucella
++ gram negative coccobacilli
+| Reservoir                   | Bacterial culture               | Virulence factors  | Diseases      | Treatment              |
+|-----------------------------+---------------------------------+--------------------+---------------+------------------------|
+| Upasteurized dairy products | Facultative intracellular       | Lipopolysaccharide | Brucellosis   | Doxycycline + Rifampin |
+| Goats, sheep, cattle        | -> Within macrophages           | Catalase positive  | Osteomyelitis |                        |
+|                             | Grows on charcoal yeast extract |                    |               |                        |
+
++ Brucellosis
+  + GI symptoms
+  + Lymph nodes enlargement
+  + Spleenomegaly
