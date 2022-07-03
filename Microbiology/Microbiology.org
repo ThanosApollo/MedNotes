@@ -148,6 +148,81 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + smaller genetic structures that can replicate independently of chromosomes
 + *Cytoplasmic inclusions*
   + Metachromatic granules that serve as a nutrient reserve
+* 5. Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall. Bacterial exceptions in the cell wall structure
+*** Cell wall
++ Distinguishes gram positive from gram negative bacteria
+| *Gram Positive*                                            | *Gram Negative*                                                            |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                      |
+| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                               |
+| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                 |
+|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)          |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain |
+| -> Results in blue color                                   | -> Results in pink color                                                   |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| No periplasmic space                                       | Contains periplasmic space                                                 |
+| No porin proteins                                          | Contains porin proteins                                                    |
+| Primarily produces exotoxins                               | Primarily produces endotoxins                                              |
+| Contains Teichnoic acids                                   | No Teichnoic acids                                                         |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+
++ Bacterial exceptions
+  + Mycobacteria -> consist of mycolic acids
+  + Chlamydia -> muramic acid
+  + Mycoplasma -> No cell wall, incoporates sterols
+* 6. Bacterial ultrastructure - external structures
++ *Capsules* - Glycocalyx
+  + Some bacteria are closely surrounded by loose polysaccharide or protein layers called capsules
+  + Functions of capsules:
+    + Protein against phagocytosis
+    + K-Antigen polysaccharides, protect from immune system
+    + Promote adherance
++ Flagella
+  + Aid motillity
++ Pili
+  + Adherance
+  + Sex pili promotes conjugation -> plasmid transfer
+* 7. Bacterial ultrastructure - spores
++ Bacterial endospores are the most resistant cells
++ Spore = dehydrated, multishelled structure, dormant
++ Formed when nutriends are limited
+  + Allows bacteria to survive extreme conditions
+  + Spores lack metabolic activity
+  + Core contains dipicolinic acid -> responsible for heat resistance
++ Must autoclave to kill spores
++ Hydrogen peroxide and iodine based agents are also sporocidal
+
+* 8. Bacterial Metabolism
++ Bacterial metabolism refers to biochemical reactions that occur within a bacterium
++ Bacterial can be further classified according to their metabolic process i.e how they deal with oxygen, how they deal with their carbon energy source as well as the end products they produce
++ Classification according to oxygen utilization
+  + Obligate Aerobes
+    + Cannot survive without oxygen
+    + Require oxygen for growth
+    + Use O2 as final e- acceptor in aerobic respiration
+  + Obligate Anaerobes
+    + Cannot survive in the presence of oxygen
+    + Don't need O2 as nutrient
+    + Survive by fermentation and anaerobic respiration
+  + Facultative anaerobes
+    + Prefer O2 but can grow without it
+* 9. Bacterial growth and cell division
+*** Bacterial growth requirments
++ Effects of pH
+  + Acidophiles -> prefer acidic enviroments e.g mycobacteria
+  + Neutrophils -> neutral pH
+  + Alkaliphiles -> alkaline environments e.g Vibrio cholerae
++ Effects of Temperatrue
+  + Psychophiles -> prefer cold
+  + Mesophiles -> prefer 37C
+  + Thermophiles -> prefer hot > 45C
+*** Bacterial Cell division
++ Grow and replicate by binary fission
++ Asexual type of cell division
+  + two identical daughter cells are formed
+* 10. Bacterial Genetics: DNA- the genetic material-structure, replication and function
++ Genetics is the science of hereditary and variability of organisms, including microorganisms
 
 * 32. Staphyloccous
 *** Characteristic:
