@@ -1134,3 +1134,19 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Treat with passive immunization(antibodies) and active immunization(killed vaccine)
 
 * 72. Poxviridae
++ Envloped, linear, DNA virus - The largest DNA viruses
++ Brick-shaped
++ Characteristic Inclusion bodies - Gournieri bodies
++ Respiratory droplet transmission
++ Replicates in the cytoplasm -> Has its own DNA-Dependent polymerase
++ *Smallpox*
+  + Deep lessions(appear the same age/same stage of evolution)
+  + Vaccine available(Vaccinia/cowpox)
++ No known treatment
++ *Moluscum contagiosum*
+  + common in kids and HIV patients
+  + Direct skin contact transmission or via sexual contact
+  + Nontender skin lessions that appear to be at different stages
++ *Cowpox*
+  + First observed in cows
+  + When transmitted to healthy humans produces immunity to smallpx
