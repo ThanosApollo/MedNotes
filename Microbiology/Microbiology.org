@@ -225,12 +225,12 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 
 *** Other Beta hemolytic streptococci
 **** Streptococcus Gallolyticus
-| Reservoir | Bacterial Culture                 | Virulence factors | Diseases              | Treatment              |
-|-----------+-----------------------------------+-------------------+-----------------------+------------------------|
-| GI tract  | Lancfield group D                 | Capsule           | Bacteremia            | Penicillin             |
-|           | chain arrangement                 |                   | Endocarditis          | 3rd gen cephalosporins |
-|           | beta hemolysis or gamma hemolysis |                   | *Colorectal Carcinoma |                        |
-|-----------+-----------------------------------+-------------------+-----------------------+------------------------|
+| Reservoir | Bacterial Culture                 | Virulence factors | Diseases               | Treatment              |
+|-----------+-----------------------------------+-------------------+------------------------+------------------------|
+| GI tract  | Lancfield group D                 | Capsule           | Bacteremia             | Penicillin             |
+|           | chain arrangement                 |                   | Endocarditis           | 3rd gen cephalosporins |
+|           | beta hemolysis or gamma hemolysis |                   | *Colorectal Carcinoma* |                        |
+|-----------+-----------------------------------+-------------------+------------------------+------------------------|
 * 34. Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
 *** Characteristics
 + All Streptococci are catalase negative
@@ -846,5 +846,291 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Visible in light microscopy using *Wright or Giemsa stain*
 + Causes *Relapsing fever*
   + recurs because of surface antigen variation
-* 58. Ureaplasma Urealyticum
+* 58. Spritochetes - Leptospira
+*** Leptospira Interrogans
++ Found in water infected by animal urine
++ Spiral shaped, use dark-field microscopy
++ Causes *Leptospirosis* -> Flue-like symptoms, myalgias and photophobia. Prevelant in surfers in tropical regions
++ Casues *Wel disease* -> Severe form of leptospirosis, jaundice, azotemia and anemia from liver and kidney dysfunction
+
+* 59. Mycoplasma and Ureaplasma
 + both have *no cell wall*
+*** Mycoplasma Pneumonia
+| Reservoir   | Bacterial Culture                | Virulence factors         | Diseases                     | Treatment                |
+|-------------+----------------------------------+---------------------------+------------------------------+--------------------------|
+| ONLY Humans | No cell wall                     | Resistant to beta-lactams | Atypical pneumonia           | Doxycyline OR Macrolides |
+|             | Sterols in cell membrane:        |                           | ->Occus in young adults      |                          |
+|             | ->Cholesterol obtained from host |                           | ->And military recruits      |                          |
+|             | Pleomorphic                      |                           | Acute interstitial nephritis |                          |
+|             | *Grows on eaton agar*            |                           | *Steven-Johnson syndrome*    |                          |
+|             |                                  |                           | -> Skin blistering           |                          |
+|-------------+----------------------------------+---------------------------+------------------------------+--------------------------|
+*** Ureaplasma Urealyticum
+| Reservior        | Bacterial Culture                | Virulence factors         | Diseases    | Treatment   |
+|------------------+----------------------------------+---------------------------+-------------+-------------|
+| Urogenital tract | No cell wall                     | Resistant to beta lactams | Urocystitis | Doxycycline |
+|                  | Sterols in cell membrane         | Urease                    |             |             |
+|                  | ->Cholesterol obtained from host |                           |             |             |
+|                  | Pleomorphic                      |                           |             |             |
+|                  |                                  |                           |             |             |
+|------------------+----------------------------------+---------------------------+-------------+-------------|
+
+* 60. Rickettsia, Coxiella and Erhlichia
++ *Obligate intreacellular bacteria
+*** Ricketsia spp.
++ Weakly gram negative coccobacilli, visibly with giemsa stain, obligate intracellular organisms
++ Cannot produce CoA and NAD+, exploit host cell
++ Wel-Felix test is used for diagnosis of ricketsia infection
++ Headache, fever and maculopapular rash are common symptoms of ricketsia infections
++ *Doxycycline* is the drug of choice for treatment of Ricketsia infections
++ *Ricketsia Prowazekii*
+  + Transmitted by body louse(Pediculus Humans)
+  + Causes *epidemic typhus*
+    + Rash that *starts centrally and spreads outwards*, but spares the face, hands and soles
+    + Leads to pneumonia and encephalitis
++ *Ricketsia Ricketsii*
+  + Transmitted by *Dermacentor tick*
+  + Causes *Rocky Mountain Spotted fever*
+    + Pneumonia, myalgias
+    + Characteristic rash that *starts from extremities and progresses centrally*
+*** Coxiella Burnetti
++ Gram negative
++ Obligate intracellular organism
++ *NO RASH*
++ Farm animals are a major resevoir
++ forms *spore-like* structures, able to survive in the GI tract and feces of the host
++ Aerosol transmission, common in farmers -> inhalation of spore-like structures
++ Causes *Q-fever* :
+  + typically presents with flu-like symptoms
+  + Headache and *dry cough* with high fever
+  + Hepatitis
+  + May causes Bacterial endocarditis
++ Treat wit doxycycline
+*** Erhlichia Chaffeensis
++ Transmission by lone star tick
++ Reservoir : Whitetail deer
++ Gram negative, intracellular, visualization via giemsa stain
++ Causes *Anaplasmosis*
+  + Flu-like symptoms(headache,myalgias)
+  + Anemia
++ Treat with doxycycline
+* 61. Chlamydia
++ Obligate intracellular bacteria -> *cannot produce ATP* outside of host cell
++ 2 forms :
+  + elemntary body -> infectious stage, enters host cells via endocytosis
+  + Reticulate body -> replicates in cell by fission, reorganizes into elemntary body
++ *Lacks muramic acid* -> B-lactams are innefective
++ Treatment : Macrolides(Azithromycin) or Doxycycline + Ceftriaxone for possible co-infection with gonnorheae
+*** Chlamydia Trachomatis
++ *Serotype A-C*:
+  + Causes blindness
++ *Serotypes D-K*:
+  + Urethritis/PID
+  + Ectopic pregnacy
+  + Neonatal pneumonia(stocatto cough) with eosinophilia
+  + Neonatal conjuctivitis(1-2 weeks after birth, /N.Gonorrhoeae in 2-4 days after birth/)
++ *Serotypes L1-L2-L3*:
+  + Lymphogranuloma venereum -> small painless ulcer on genitals, develop into painful swollen inguinal limpyh nodes(buboes)
+*** Chlamydia Pneumonia
++ Atypical pneumonia, transmitted by aerosol
+*** Chlamydia Psittaci
++ Atypical pneumonia, transmitted by birds. Common patient: works in pet shops/bird owner
+* *62.Human microbial Flora (Natural flora) in health and disease. Iatrogenic influences on the normal human flora- dysbacteriosis as a side effect of antibiotic, cytostatic and immunosuppression therapy
+* *63. Laboratory Diagnosis of viral diseases
+* 64. Picornavirus
++ Fecal Oral transmission(Except Rhinovirus)
++ Includes Enterovirus(Coxsackievirus A/B, Echovirus, Poliovirus) and Hepatitis A
++ *Icosahedral capsid*
++ *Naked, Linear, positive sense, single stranded RNA(+ssRNA)*
+*** Coxsackie A/B
++ *Coxsachie A*
+  + *Hand-foot-mouth disease*
+  + Aseptic meningitis
++ *Coxsackie B*
+  + Dilated cardiomyopathy
+  + Bornholms disease
++ *Supportive treatment*
+*** Poliovirus
++ Acid stable virus
++ Replicates in lymphoid tissues(tonsils, *Peyer's patches*)
++ Affects the *ranterior horn*
++ Causes:
+  + Poliomyelitis :
+    + 95% asymptomatic
+    + 5% of cases enter CNS, causing assymetric paralysis
+  + Aseptic meningitis
+  + Respiratory insuficiency
++ 2 vaccines
+  + Salk -> inactivated, IM Administration, only forms IgG
+  + Sabin -> Live vaccine, Oral Administration, forms both IgA and IgG
+*** Rhinovirus
++ More than 100 serotypes
++ Acid labile -> Aerosol transmission
++ Attached to ICAM-1 receptors on respiratory epithelial cells
++ Causes *common cold*
+*** Hepatitis A
++ Acid stable -> Fecal oral transmission
++ Commonly transmitted by infected water and infected shellfish
++ Causes hapatitis A
+  + Jaundice, vomiting
+  + Anicteric hematitis in young children
+  + Self limited infection that last 2 months, no carrier or chronic state
++ Inactivated vaccine available
+* 65. Paramyxoviruses
++ Negative sense, linear, enveloped, single stranded RNA virus.
++ Helical capsid
++ Fusion protein(F-Protein) -> causes fusion of respiratory cells -> giant multinucleated cells formation
++ Airborne transmission
+*** Respiratory Syncytial virus(RSV)
++ Infectets ciliated epithelial cells -> Bronchilitis
++ Common in infacts
++ Palivizumab for prophylaxis
+*** Measles virus
++ Lymphotropic -> replicates in lymph nodes, lymphopenia
++ Causes lymphadenitis with Warthin-Finkeldey giant cells
++ Causes Rubeola(measles)
+  + Conjuctivitis, coryza, cough, koplik spots
+  + High fever and maculopapular rash
++ Vitamin A can reduce severity and mortality
++ Immunization with MMR vaccine
+*** Mumps virus
++ Lymphotropic replicates in lymph nodes - Lymphopenia
++ Causes :
+  + Parotitis
+  + Orchitis
+  + Meningitis
+  + Pacreatitis
++ Immunization with MMR vaccine
+*** Parainflunza
++ Common in young children
++ Causes laryngeotracheobronchitis -> bark like cough and steeple sign in X-ray
+* 66. Orthomyxovirus
++ *Replicates in the nucleus*
++ segmented virus - 8 segments -> Antigenic variation
++ Hemagluttinin -> binds to sialic acid -> H1,H2,H3 antigens
++ Three pathogenic subtypes A,B,C -> differentiated by hemagluttinin and neuramidase antigens
++ M2 Protein -> Create proper pH for viral uncoating
++ Neuramidase -> Cleaves sialic bond -> release virions
++ Transmission : *Respiratory droplets*
++ Causes :
+  + Flu
+  + Administration of aspirin will lead to -> Reye syndrome -> encelphalitis, hepatitis
+  + Secondary bacterial penumonia
++ 2 vaccines available
+  + Inactivared version
+  + Live, nasal vaccine
+  + Influenza vaccine may cause Guillain bare syndrome -> Ascending paralysis
+
+* 67. Coronavirus, Calicivirus
+*** Coronavirus
++ Positive, enveloped, single standed RNA virus
++ Helical capsid
++ Respiratory droplet transmission
+  + Host cell entry occurs by attachment of viral spike protein to angiotensin converting enzyme 2
+  + RT-PCR for diagnosis
++ Disease :
+  + Symptoms range from asymptomatic to ARDS
+  + SARS(Sever acute respiratory syndrome, outbreak 2002)
+  + MERS(Middle east respiratory syndrome, outbreak 2012)
+  + SARS-2(outbreak 2019)
+  + Potential complications include respiratory failure, shock, organ failure
+*** Calicivirus - Norovirus
++ Non-eveloped, Icosahedral capsid, positive sense single stranded RNA
++ Norovirus infection is most common in daycare centers and cruise ships(infected shellfish)
++ Transmission fecal-oral
++ Causes nausea, acute vomiting and watery diarrhea
++ Supportive treatment
+* 68. Reovirus
++ Naked, icosahdreal, double stranded RNA viruses
++ Segmented - 11 segments
+*** Rotavirus
++ Fecal oral transmission
++ Most important cause of gastroenteritis in infants -> watery diarrhea
++ Vilous destruction with atrophy -> reduced absorption of Na and loss of K
++ Treat with oral rehydration therapy
++ Live vaccine available for kids below 3 months old
+*** Colorado tick virus
++ Transmission by *dermacentor tick*
++ Flu-like symptoms
++ Treatment : Supportive
+* 69. Togaviruses, Flaviruses
+*** Togaviruses
++ Enveloped, positive sense RNA virus
++ *Diseases* :
+  + *Western-equinine encephalitis virus(Alphavirus)*
+    + Western equinine encephalitis
+  + *Eastern equinine encephalitis viruses(Alphavirus)*
+    + Eastern equinine encephalitis viruses
+      + Life threating inflammation of CNS, rapid deterioration -> comma, no treatment
+  + *Chikungynya virus(Alphavirus)*
+    + Vector : Aedes mosquito
+    + Causes Chikungynya fever- usually co-infection with dengue fever, same sympotms
+    + Treatmetn : Supportive
+  + *Rubella(3-day measles)*
+    + Respiratory droplet transmission + Transplacental transmission
+    + Common in children, 3 day duration
+    + Maculopapular rash, begins behind the ear and spares the palms and soles
+    + Congenital rubella -> Catarrhacts, patent ductus arteriosus, sensorineural deafness
+*** Flaviviruses
++ Envoloped, positive sense RNA virus with icosahedral capsid
++ Most are *arboviruses* except HPC
++ *Dengue virus*
+  + Vector : Aedes mosquito
+  + Causes Dengue fever :
+    + Thrombocytopenia, fever may lead to renal failure and septic shock.
+  + Available vaccine ONLY for those *previously infected*
++ *Yellow fever*
+  + Vector : Aedes mosquito
+  + Jaundice, backache, bloody diarrhea
+  + Live attenuated vaccine
++ *West nile virus*
+  + Vector : Culex mosquito
+  + Usually asymptomatic, 20% will have flu-like symptoms, rarely may cause meningitis and symptoms that mimic poliovirus
+    + Supportive treamnet
++ *Zika virus*
+  + Vector : Aedes mosquito
+  + Can spread sexually and transplacentally
+  + Flu-like symptoms
+  + Congenital zika virus will cause transplacentally
++ *Hepatitis C*
+  + Blood-borne virus - transmission by blood transfussion, IV drug usage, sexually and transplacental
+  + Varies antigenic structure of its envolope proteins, leading to chronic infections - no vaccine available
+    + Lacks proof reading exonuclease 3-5 activity, prone to frequent infections
+  + Leads to Jaundice, inflammation of the liver -> Liver cirrhosis or hepatocellular carcinoma
+  + 60%-80% infections will become chronic
+  + In acute infections -> ALT will rise and fall by 6 months
+  + In chronic infections -> Viral RNA will persist after 6 months, presents with cryoglobulins
+    + Treatment : Ribavirin(Old) OR protease inhibitors
+* 70. Bunyaviridae, Nairovirus
+*** Bunyaviridae
++ Single stranded negative sense RNA viruses
++ Arhtropods except Hantavirus
++ Segmented - 3 circular segments
++ *Enveloped, acquire envelope from host golgi*
++ *Hantavirus*
+  + Transmitted by urine/feces of rodents(usually carried by dust)
+  + Causes hemmorhagic fever, pneumonia
+  + Treatment : Supportive
+*** Nairovirus
++ Tick borne
++ Enveloped
++ 3 circular segments
++ Includes Crimean-Congo hemorrhagic fever
+* 71. Rhabdovirus
++ Negative sense single stranded RNA virus
++ *Bullet shaped*
++ Enveloped
++ Helical capsid
++ Causes Rabbies
++ Usually carried by infected dogs or foxes/racoons, transmission by direct bite
++ binds to nictonic receptors of the post-synaptic motor end plate
++ Replicates in motor neurons
++ Travels retrograde to the dorsal root ganglia
++ Infects saliva glands -> increase saliva production, dysphagia
++ Causes Rabies
+  + Presents with characteristic *Negri bodies*, eosinophilic cytoplasmic inclusions
+    + Found within hippocampal pyramidal cells and purkinje cells
+  + Fever, encephalopathy
++ Treat with passive immunization(antibodies) and active immunization(killed vaccine)
+
+* 72. Poxviridae
