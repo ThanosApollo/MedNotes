@@ -223,6 +223,47 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + two identical daughter cells are formed
 * 10. Bacterial Genetics: DNA- the genetic material-structure, replication and function
 + Genetics is the science of hereditary and variability of organisms, including microorganisms
+*** Genetic material-structure
++ Bacterial genome consists of :
+  + Bacterial chromosome
+  + Plasmids
+  + Transpons
+  + Integrons
++ *Bacterial chromosome*
+  + A single circular haploid circular molecule
+  + Bacterial DNA is *supercoiled* due to DNA gyrase
++ *Plasmids*
+  + Extrachromosomal, non-essential, replicate independently of bacterial chromosome, smaller than chromosome
+  + Carry genes for virulence factors or antiobiotic resistance
++ *Transpons*
+  + /known as jumping genes/
+  + Transfer genes from one place to another or between different DNA molecules i.e plasmid -> chromosome
++ *Integrons*
+  + Contains cassettes of resistance genes and together with transponosons play important role in dissemination of antimicrobial resistance
+*** Replication
++ Replication is initiated at Ori C
++ Helicase unwinds double helix -> replication fork
++ Primase synethesizes Primer
++ DNA polymerase synthesizes a copy of DNA in 5-3 direction, leading and lagging strands
++ DNA ligase 'glues' pieces of DNA on lagging strand
+*** Function
++ Bacteria don't have any introns or exons
++ Genes are organized into operons
++ Operon = Genes that are *controlled by operator*
++ /e.g Lac Operon in E.Coli/
+* 11. Bacterial Genetics : Mutation, recombination and DNA exchange
++ *Transformation*:
+  + Competent bacteria can bind and import pieces of environmental naked bacterial DNA
++ *Conjugation*
+  + Transfer of dna material using plasmids
++ *Transduction*
+  + Generalized -> A *packaging* error. Lytic phage infects bacterium, leading to cleavage of bacterial DNA. Parts of bacterial chromosomal DNA may become packaged in phage capsid, phage infects another bacterium, transferring these genes
+  + Speciliazed -> An *excision* event.
+    + Lysogenic phage infects bacterium
+    + Viral DNA incoporates into bacterial chromosome
+    + When phage DNA is excised, bacterial genes may be excised with it
+    + DNA is packaged into phage capsid and can infect another bacterium
+
 
 * 32. Staphyloccous
 *** Characteristic:
@@ -934,12 +975,13 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 | Reservoir   | Bacterial Culture                | Virulence factors         | Diseases                     | Treatment                |
 |-------------+----------------------------------+---------------------------+------------------------------+--------------------------|
 | ONLY Humans | No cell wall                     | Resistant to beta-lactams | Atypical pneumonia           | Doxycyline OR Macrolides |
-|             | Sterols in cell membrane:        |                           | ->Occus in young adults      |                          |
+|             | Sterols in cell membrane:        |                           | ->Occus in young adults      |                          |jk
 |             | ->Cholesterol obtained from host |                           | ->And military recruits      |                          |
 |             | Pleomorphic                      |                           | Acute interstitial nephritis |                          |
 |             | *Grows on eaton agar*            |                           | *Steven-Johnson syndrome*    |                          |
 |             |                                  |                           | -> Skin blistering           |                          |
 |-------------+----------------------------------+---------------------------+------------------------------+--------------------------|
++ Mycoplasma is associated with cryobullins
 *** Ureaplasma Urealyticum
 | Reservior        | Bacterial Culture                | Virulence factors         | Diseases    | Treatment   |
 |------------------+----------------------------------+---------------------------+-------------+-------------|

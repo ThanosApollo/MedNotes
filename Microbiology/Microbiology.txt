@@ -1621,7 +1621,6 @@ Treatment :
 
 
 
-
 61. Chlamydia
 -Obligate intracellular bacteria, cannot produce ATP outside of their host cell.
 -2 forms :
@@ -1720,6 +1719,36 @@ Diseases :
                 ->Causes common cold
         Hepatitis A virus:
                 ->Hepatitis A(liver disease)
+Picornaviridae
++ fecal oral transmission
++ positive sense single stranded naked rna viruses
++ linear
++ icosahedral capsid
+includes Echoviruses and hepatitis A
+
+Coxsackie A
+Causes hand-foot-mouth disease and aseptic meningitis
+Coxsackie B
+Causes dilated cardiomyopathy and pleurodynia
+Poliovirus
+Causes polyomelitis
+ + 95% asymptomatic
+ + 5% develop CNS symptoms, assymetric paralysis
++ Respiratory insuficiency
++ Aseptic meningitis
+Echovirus
++ Aspetic meningitis
+Rhinovirus
++ more than 100 serotypes
++ causes common cold
++ transmission by respiratory droplets, binds to ICAM-1 receptor on respiratory epithelial cells
+Hepatitis A
++ Transmission by infected water, shellfish
++ Causes Hepatitis A
+ + Jaundice, vomiting anicteric hepatitis in kids
+ + self limitting, 2 months, no chronic/carrier state
+ + inactivated vaccine available
+
 
 
 65. Paramyxoviruses
@@ -1755,6 +1784,34 @@ Diseases :
                 ->Causes Croup(Laryngeotracheobronchitis):
                         ->Characterisic bark-like cough and steeple sign in X-ray
 
+
+Paramyxoviruses
++ Negative sense single stranded envloped rna
++ helical capsid
++ F protein -> causes fusion of ciliated epithelial cells -> giant cells
+
+measles
++ hemaglutinin and F protein
++ Lymphotropic -> presents with Lymphadenitis + Warthin Finkeldey giant cells
++ causes Rubeola(measles)
+ + Maculopapular rash
+ + high fever
+ + cough, coryza, conjucivitis, koplik spots
+
+Mumps
++ Lymphotropic -> giant cells
++ Causes
+  + Pancreatitis
+  + Orchitis
+  + Meningitis
+  + Parotitis
+Respiratory syncital virus
++ Bronchilitis in infacts
++ Palivizumab for prophylaxis
+Paramyxovirus
++ Causes laryngeotracheobronchitis -> bark like cough and steeple sign in xrays
+
+
 66. Orthomyxoviruses(Influenza virus)
 Characterisic :
         -Enveloped, single standed negative sense RNA with segmented genome
@@ -1769,6 +1826,26 @@ Diseases :
 Treatment :
         -Supportive
         -Neuramidase inhibitors may be added(Oseltamivir, Zanamivir)
+
+
+Orthomyxoviruses
++ Influenza
++ replicates in the nucleus
++ Negative sense, segmented(8 segments), enveloped RNA virus
++ Hemagluttinin -> binds to sialic acid
++ neuramidase -> Cleaves sialic acid bond -> release of virions
++ M2 Proteins -> ensure proper pH for virion release
++ Causes flue
+  + Secondary bacterial pneumonia
++ Adminitrastion of aspirin will lead to reye syndrome -> encphalitis hepatitis
++ Treat with Oseltamivir/Zanamivir or Rimantadie/Amantadine
+Transmission by respiratory droplents
+2 Available vaccines
+Live, IM administration and live, nasal
+Vaccination is associated with gullian bare sympotm -> paralysis
+
+
+
 
 67. Coronavirus, Calicivirus
 Coronavirus
@@ -1798,6 +1875,25 @@ Characterisic:
 Disease :
         ->Norovirus infection has incubation period of 12-48h
         ->Causing Nausea and acute-onset vomiting, watery diarrhea
+
+Coronavirus
++ Single stranded positive sense, enveloped, rna virus
++ helical capsid
++ Transmission by respiratory droplets - S glycoprotein binds to angiotensin convertin enzyme 2
++ PCR for diagnosis
+Causes :
+ + symptoms range from asympomatic to ARDS
+ + SARS
+ + MERS
+ + SARS-2
+Norovorius
++ Fecal oral transmisson
++ Positive sense naked rna virus
++ Creates long polyprotein that is cleaved by proteases
++ Causes watery diarrhea and vomiting
++ Common in children and curise-ships
+
+
 
 68. Reoviruses
 Characterisics:
@@ -1889,6 +1985,44 @@ Diseases :
                 Treatment :
                         ->Supportive
 
+Positive sense single stranded rna viruses
+Togaviruses
+- Most of them are arboviruses
+- Western Equine encephalitis virus
+ - Encephalitis
+- Eastern equinine encphalitis virus
+ - Inflammation of cns, that can lead to comma death
+Rubella(3day measles)
+- Respiratory droplet transmission
+- maculopappular rash from behind the ear that spreads through the body, sparing the face and palms
+- Congenital transmission
+Chikungunya virus
+- Chikungunya fever similar to aedes
+- transmissio nwith adeses mosguqito
+- Congenital rubella presents with catarrhacts, patent ducturs arteriosus and sensorineural deafness
+
+Flaviviruses
+Denuge fever
+- Vector aedes
+- Affects the bone marrow -> thrombocytopenia
+- high fever
+- Vaccine available for previously infected
+Zika virus
+- Vector Aedes
+- Common flu sympotms
+- Transplacental transmission
+- Congenital zika leads to microcephaly
+Hepatitis C
+- Blood-borne virus - Transmission by blood products, transplacental, sexual
+- lacks 3-5 exonuclease proof reading -> antigenic variability -> no vaccine
+- Causes inflammation of liver, cirrhosis
+- 60-80% of cases become chronic
+- ACute cases : Rise of ALT that fall after 6 months
+- Chornic : Viral RNA after 6 months of infection
+- presents with cryoglobulins
+- Treat with protease inhibitors
+
+
 
 70. Bunyaviridae, Nairovirus
 Bunyaviridae
@@ -1917,6 +2051,21 @@ Diseases :
                         ->Starts as flu-like and develops int osevere VHF with bleeding diathesis
                 Treatment :
                         -Supportive, avoid aspirin in VHFs because they increase risk of bleeding
+
+Buanyaviridae
++ Negative sense single stranded rna viruses
++ most are arhtropods except hanta virus
++ 3 circular segments
++ get their envelope from golgi
+Hantavirus
++ Transmission by urines/feces of rodents
++ causes pneumonia and hemorrhagic fever
+
+Nairoviruses
+-Tick borne
+-3 circular segments
+-Enveloped
+-Includes Congo hemmorhagic fever
 
 71. Rhabdoviruses
 Characterisic:
