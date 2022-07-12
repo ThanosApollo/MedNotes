@@ -5,10 +5,9 @@
 + Feel free to contribute
 
 *** How to contribute
-+ You do not need any fancy editor to contribute, contributing can be done directly by the [[https://github.com/ThanosApollo/MedNotes/tree/developer][GitHub page]]
++ Contributing can be done directly by the [[https://github.com/ThanosApollo/MedNotes/tree/developer][GitHub page]]
   + Tutorial [[https://www.youtube.com/watch?v=waEb2c9NDL8][here]]
-  + Org mode cheatsheet [[https://devhints.io/org-mode][here]]
-+ You can crate your own notes in markdown format, *org format is preferable*
+  + Org mode syntax cheatsheet [[https://devhints.io/org-mode][here]]
 
 *** Table of contents
 
