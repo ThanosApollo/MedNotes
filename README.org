@@ -1,0 +1,14 @@
+#+title: MU Sofia Student Library
+#+Authors: Thanos Apollo
+** About
++ Repository dedicated for study resources related to MU-Sofia medical courses
+
+*** How to contribute
++ Contributing can be done directly by the [[https://github.com/ThanosApollo/MedNotes/tree/developer][GitHub page]]
+  + Tutorial [[https://www.youtube.com/watch?v=waEb2c9NDL8][here]]
+  + Org mode syntax cheatsheet [[https://devhints.io/org-mode][here]]
+
+** Table of contents
+
++ *Year 3*
+  + [[file:Microbiology/Microbiology.org][Microbiology]]
