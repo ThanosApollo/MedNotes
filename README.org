@@ -1,6 +1,16 @@
 #+title: MU Sofia student notes
 #+Authors: Thanos Apollo
 *** About
-+ Notes made by students for students
++ *By students, for students*
++ Feel free to contribute
+
+*** How to contribute
++ You do not need any fancy editor to contribute, contributing can be done directly by the [[https://github.com/ThanosApollo/MedNotes/tree/developer][GitHub page]]
+  + Tutorial [[https://www.youtube.com/watch?v=waEb2c9NDL8][here]]
+  + Org mode cheatsheet [[https://devhints.io/org-mode][here]]
++ You can crate your own notes in markdown format, *org format is preferable*
+
 *** Table of contents
-[[file:Microbiology/Microbiology.org][Microbiology]]
+
++ *Year 3*
+  + [[file:Microbiology/Microbiology.org][Microbiology]]
