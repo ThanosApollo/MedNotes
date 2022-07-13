@@ -1,6 +1,6 @@
 #+title: Microbiology
 #+author: Thanos Apollo
-#+description: Notes, according to the syllabus of MU Sofia 2022
+#+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
 
 * 1. Introduction - History and Subject
 *** Microbiology is the study of microbes
@@ -1267,3 +1267,5 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + *Cowpox*
   + First observed in cows
   + When transmitted to healthy humans produces immunity to smallpx
+
+    test
