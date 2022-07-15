@@ -31,7 +31,7 @@
 + Pasteur developed vaccines against chicken and cholera by using attenuated suspension of bacteria
 #+attr_html: :width 100px
 #+attr_html: :height 100px
-[[Pictures/Pasteur]]
+[[file:~/Pictures/Pasteur]]
 
 * 2.Bacterial Taxonomy - Classification, Nomeclatures, Identification
 *** Classification
