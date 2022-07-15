@@ -9,36 +9,30 @@
 [[3.Bacterial Morphology]]
 [[4.Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures]]
 [[5.Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall. Bacterial exceptions in the cell wall structure]]
+[[6.Bacterial ultrastructure - external structures]]
+[[7.Bacterial ultrastructure - spores]]
+[[8.Bacterial Metabolism]]
+[[9.Bacterial growth and cell division]]
+[[10.Bacterial Genetics: DNA- the genetic material-structure, replication and function]]
+[[11.Bacterial Genetics : Mutation, recombination and DNA exchange]]
 
-
-* 1.Introduction - History and Subject
-*** Microbiology is the study of microbes
-+ Microbes are the living organisms
-+ Require visualization through microscopy
-*** Microbes are divided into :
-+ *Viruses*
-  + RNA or DNA
-  + Double stranded or single stranded
-+ *Bacteria*
-  + Gram positive or gram negative
-  + Shape(e.g cocci, bacillus)
-+ *Fungi*
-  + yeast(unicellular)
-  + mold(multicellular)
-  + dimorphic(yeast and mold)
-+ *Parasites*
-  + Protozoa
-  + Worms
-  + Bugs
+*** Bacteria
+*** Viruses
+* TODO 1.Introduction - History and Subject
 *** History
-+ Primitive cells evolved into bacteria and archae
-+ Utilized photosynthesis which led to production of oxygen
-+ As oxygen levels rose, organisms that utilized oxygen evolved(Aerobes and Eukaryotes)
-+ Anaerobes developed resistance to oxygen, as it was toxic to them
-+ *Endosymbiotic theory*
-  + A prokaryotic cell engulfed an aerobe cell, capable of producing ATP
-  + Host cell provided a stable environment, engulfed cell provided host cell with ATP, this lead to a *symbiotic relationship*
-  + The bacterium eventually evolved mitochondria - Prokaryotes -> Eukaryotes
++ Microbiology is the study of living organisms of microscopic size
+  + The term was introduced by the French chemist *Louis Pasteur*, considered to be the 'Father of Microbiology'
++ For many years it was believed that the microorganisms arose from dead, especially decomposed organic matter.
+  + This was known as /theory of spontaneous generation/
++ Louis pasteur generated strong evidence to  show that the microorganisms did not arise /de novo/ in the media but were introduced from without
++ Showed that microorganisms were inactivated by boiling at 120C(autoclaved) and 170C(hot air over)
++ Pasteur demonstrations prompted *Joseph Lister's* work on wound sepsis
+  + He introduced the practice of protecting wounds from airborne microbes by applying antiseptic dressing and making medical workers wash their hands with antiseptic solution before they touch a patient, achieving striking success at reducing mortality due to sepsis
++ Pasteur developed vaccines against chicken and cholera by using attenuated suspension of bacteria
+#+attr_html: :width 100px
+#+attr_html: :height 100px
+[[Pictures/Pasteur]]
+
 * 2.Bacterial Taxonomy - Classification, Nomeclatures, Identification
 *** Classification
 + Categorization of organisms into taxonomic groups
@@ -886,7 +880,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Emetic type -> causes vomitting 1-5hours after ingestion
 + Diarrheal type -> causes watery diarrhea 8-18 hours after ingestion
 
-* *54.Anaerobic
+* TODO 54.Anaerobic
 * 55.Mycobacteria
 + No cell wall -> Atypical gram stain bacteria
 *** M.Tuberculosis
@@ -1061,8 +1055,8 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Atypical pneumonia, transmitted by aerosol
 *** Chlamydia Psittaci
 + Atypical pneumonia, transmitted by birds. Common patient: works in pet shops/bird owner
-* *62.Human microbial Flora (Natural flora) in health and disease. Iatrogenic influences on the normal human flora- dysbacteriosis as a side effect of antibiotic, cytostatic and immunosuppression therapy
-* *63.Laboratory Diagnosis of viral diseases
+* TODO 62.Human microbial Flora (Natural flora) in health and disease. Iatrogenic influences on the normal human flora- dysbacteriosis as a side effect of antibiotic, cytostatic and immunosuppression therapy
+* TODO 63.Laboratory Diagnosis of viral diseases
 * 64.Picornavirus
 + Fecal Oral transmission(Except Rhinovirus)
 + Includes Enterovirus(Coxsackievirus A/B, Echovirus, Poliovirus) and Hepatitis A
