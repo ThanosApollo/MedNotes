@@ -2,7 +2,16 @@
 #+author: Thanos Apollo
 #+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
 
-* 1. Introduction - History and Subject
+* Table of contents
+*** Introduction to Microbiology
+[[1.Introduction - History and Subject]]
+[[2.Bacterial Taxonomy - Classification, Nomeclatures, Identification]]
+[[3.Bacterial Morphology]]
+[[4.Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures]]
+[[5.Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall. Bacterial exceptions in the cell wall structure]]
+
+
+* 1.Introduction - History and Subject
 *** Microbiology is the study of microbes
 + Microbes are the living organisms
 + Require visualization through microscopy
@@ -30,7 +39,7 @@
   + A prokaryotic cell engulfed an aerobe cell, capable of producing ATP
   + Host cell provided a stable environment, engulfed cell provided host cell with ATP, this lead to a *symbiotic relationship*
   + The bacterium eventually evolved mitochondria - Prokaryotes -> Eukaryotes
-* 2. Bacterial Taxonomy - Classification, Nomeclatures, Identification
+* 2.Bacterial Taxonomy - Classification, Nomeclatures, Identification
 *** Classification
 + Categorization of organisms into taxonomic groups
 + Requires experimental and observational techniques
@@ -63,7 +72,7 @@
 /Traditionally, all living objects had been divided into plant and animla kingdom.
 There are some organisms that do not fulfil criteria for either of the two kingdoms.
 A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
-* 3. Bacterial Morphology
+* 3.Bacterial Morphology
 *** Shapes
 + Bacteria can have either of the three shapes
   + Cocci /e.g S.Aureus/
@@ -109,7 +118,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Mycoplasma - Lack cell wall
   + Spirochetes - Require darkfield microscopy
 
-* 4. Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures
+* 4.Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures
 *** Eykaryotes and Prokatyores
 + Prokaryotes are characterised by :
   + Primitive nucleus
@@ -148,7 +157,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + smaller genetic structures that can replicate independently of chromosomes
 + *Cytoplasmic inclusions*
   + Metachromatic granules that serve as a nutrient reserve
-* 5. Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall. Bacterial exceptions in the cell wall structure
+* 5.Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall. Bacterial exceptions in the cell wall structure
 *** Cell wall
 + Distinguishes gram positive from gram negative bacteria
 | *Gram Positive*                                            | *Gram Negative*                                                            |
@@ -171,7 +180,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Mycobacteria -> consist of mycolic acids
   + Chlamydia -> muramic acid
   + Mycoplasma -> No cell wall, incoporates sterols
-* 6. Bacterial ultrastructure - external structures
+* 6.Bacterial ultrastructure - external structures
 + *Capsules* - Glycocalyx
   + Some bacteria are closely surrounded by loose polysaccharide or protein layers called capsules
   + Functions of capsules:
@@ -183,7 +192,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Pili
   + Adherance
   + Sex pili promotes conjugation -> plasmid transfer
-* 7. Bacterial ultrastructure - spores
+* 7.Bacterial ultrastructure - spores
 + Bacterial endospores are the most resistant cells
 + Spore = dehydrated, multishelled structure, dormant
 + Formed when nutriends are limited
@@ -193,7 +202,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Must autoclave to kill spores
 + Hydrogen peroxide and iodine based agents are also sporocidal
 
-* 8. Bacterial Metabolism
+* 8.Bacterial Metabolism
 + Bacterial metabolism refers to biochemical reactions that occur within a bacterium
 + Bacterial can be further classified according to their metabolic process i.e how they deal with oxygen, how they deal with their carbon energy source as well as the end products they produce
 + Classification according to oxygen utilization
@@ -207,7 +216,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
     + Survive by fermentation and anaerobic respiration
   + Facultative anaerobes
     + Prefer O2 but can grow without it
-* 9. Bacterial growth and cell division
+* 9.Bacterial growth and cell division
 *** Bacterial growth requirments
 + Effects of pH
   + Acidophiles -> prefer acidic enviroments e.g mycobacteria
@@ -221,7 +230,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Grow and replicate by binary fission
 + Asexual type of cell division
   + two identical daughter cells are formed
-* 10. Bacterial Genetics: DNA- the genetic material-structure, replication and function
+* 10.Bacterial Genetics: DNA- the genetic material-structure, replication and function
 + Genetics is the science of hereditary and variability of organisms, including microorganisms
 *** Genetic material-structure
 + Bacterial genome consists of :
@@ -251,7 +260,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Genes are organized into operons
 + Operon = Genes that are *controlled by operator*
 + /e.g Lac Operon in E.Coli/
-* 11. Bacterial Genetics : Mutation, recombination and DNA exchange
+* 11.Bacterial Genetics : Mutation, recombination and DNA exchange
 + *Transformation*:
   + Competent bacteria can bind and import pieces of environmental naked bacterial DNA
 + *Conjugation*
@@ -265,7 +274,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
     + DNA is packaged into phage capsid and can infect another bacterium
 
 
-* 32. Staphyloccous
+* 32.Staphyloccous
 *** Characteristic:
 + *Spherical cocci, grow in clusters*
 + absence of endospores
@@ -301,7 +310,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |----------------------+----------------------+-------------------+----------+------------------------|
 | female genital tract | Novobiocin-resistant | Urease producer   | UTIs     | TMP/SMX                |
 |                      |                      |                   |          | Amoxcillin-clavulanate |
-* 33. Streptococcus - group A, B and other Beta-hemolytic streptococci
+* 33.Streptococcus - group A, B and other Beta-hemolytic streptococci
 *** Characteristics
 + All streptococci are catalase negative(-)
 + Susceptible to penicillin
@@ -347,7 +356,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           | chain arrangement                 |                   | Endocarditis           | 3rd gen cephalosporins |
 |           | beta hemolysis or gamma hemolysis |                   | *Colorectal Carcinoma* |                        |
 |-----------+-----------------------------------+-------------------+------------------------+------------------------|
-* 34. Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
+* 34.Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
 *** Characteristics
 + All Streptococci are catalase negative
 + Usually suceptible to penicillins
@@ -384,7 +393,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           | *Growth in bile and 6.5% NaCl*      |                          |              |
 |-----------+-------------------------------------+--------------------------+--------------|
 
-* 35. Corynebacterium
+* 35.Corynebacterium
 | *Reservoir*       | *Bacterial culture*                       | *Virulence Factors*       | *Diseases*    | *Treatment*                      |
 |-------------------+-------------------------------------------+---------------------------+---------------+----------------------------------|
 | Respiratory tract | Gram positive bacilli                     | Diptheria toxin(exotoxin) | Diphtheriasis | Macrolides                       |
@@ -402,7 +411,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
     + Bull neck due to *cervial lymphadenopathy*
   + Systemic featues :
     + Myocarditis
-* 36. Listeria, Gardnerella
+* 36.Listeria, Gardnerella
 *** Listeria Monocytogenes
 | Resevoir                     | Bacterial culture                              | Virulence factors | Diseases               | Treatment  |
 |------------------------------+------------------------------------------------+-------------------+------------------------+------------|
@@ -428,7 +437,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |                      | *Grows at pH > 4.5*                 | Biofilm formation |                     |               |
 |----------------------+-------------------------------------+-------------------+---------------------+---------------|
 
-* 37 .Neisseria - N. Gonorrhoea
+* 37.Neisseria - N. Gonorrhoea
 + Gram negative, intracellular, aerobic diplococci
 + Sexual transmission
 + NO polysaccaride capsule
@@ -451,7 +460,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Purulent urethral discharge (yellow-green)
   + Fitz-Hugh-Curtis syndrome :
     + Liver capsule inflammation, commonly as complication of pelvic inflammatory disease in females
-* 38. Neisseria - N. Meningitidis
+* 38.Neisseria - N. Meningitidis
 | Resevoir    | Bacterial culture               | Virulence factors                      | Diseases                                | Treatment   |
 |-------------+---------------------------------+----------------------------------------+-----------------------------------------+-------------|
 | Nasopharynx | Gram negative diplococci        | IgA protease                           | Meningitis                              | Ceftriaxone |
@@ -463,7 +472,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Transmission by respiratory droplets
 + Vaccination available
 + Diagnsoed via PCR or culture
-* 39 Enterobacteriaceae - E.Coli and other opportunistic Enterobacteriaceae (Klebsiella, Enterobacter, Serratia - group KES' Proteus,Morganella, Citrobacter)
+* 39.Enterobacteriaceae - E.Coli and other opportunistic Enterobacteriaceae (Klebsiella, Enterobacter, Serratia - group KES' Proteus,Morganella, Citrobacter)
 *** Enterobacteriaceae
 + Largest family of gram-negative rod shaped bacteria
 + Found in soil, water and vegetation, and are part of the normal intestinal flora of humans and most animals
@@ -549,7 +558,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |               | Produce hydrogen sulfide(H2S) -> Black colonies | *Vi capsule*       | Paratyphoid fever                   | Ceftriaxone      |
 |               | No lactose fermentation                         |                    | Osteomyelitis in sicke cell disease |                  |
 
-* 41. Shigella
+* 41.Shigella
 + Gram negative bacilli
 + Fecal oral transmission
 *** Shigella dysenteriae
@@ -564,7 +573,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |-------------+----------------------------------+---------------------------+-------------------------------------+------------------|
 + Shiga Toxin :
   + Inactivate 60s ribosomal unit, removing adenine from rRNA
-* 42. Enterobacteriaceae - Yersinia
+* 42.Enterobacteriaceae - Yersinia
 + Gram negative bacilli
 *** Yersinia Pestis
 + Transmission by flea bites
@@ -604,7 +613,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |                                         | Bacilli shaped    | -> Metalloproteases     |                                  |                  |
 |-----------------------------------------+-------------------+-------------------------+----------------------------------+------------------|
 
-* 44. Campylobacter and Helicobacter
+* 44.Campylobacter and Helicobacter
 *** Helicobacter pylori
 | Reservoir     | Bacterial culture             | Virulence factors | Disease                  | Treatment               |
 |---------------+-------------------------------+-------------------+--------------------------+-------------------------|
@@ -621,7 +630,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |                         | Oxidase positive         |                             |                                 |            |
 |-------------------------+--------------------------+-----------------------------+---------------------------------+------------|
 
-* 45. Pseudomonas and related organisms (Burkholdelia, Stenotrophomonas, Acinetobacter, Moraxella)
+* 45.Pseudomonas and related organisms (Burkholdelia, Stenotrophomonas, Acinetobacter, Moraxella)
 + Gram negative rods
 *** Pseudomonas aeruginosa
 | Resevoir                           | Bacterial culture                     | Virulence factors                 | Diseases                     | Treatment  |
@@ -675,7 +684,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + part of normal flora of the upper respiratory tract
 + Occasionally cause bacteremia and endocarditis
 + Susceptible to penicillins
-* 46. Bordetella
+* 46.Bordetella
 *** Bordetella pertrussis
 + Gram negative coccobacillus
 | Resevoir          | Bacterial culture              | Virulence factors                | Diseases                  | Treatment  |
@@ -694,7 +703,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
     + Catarrhal -> upper respiratory infection with mild cough
     + Paroxysmal -> Intense paroxysmal coughing(especially at night) followed by a *whooping sound*
     + Convalescent -> Progressive reduction of symtpoms
-* 47. Francisella Tularensis
+* 47.Francisella Tularensis
 | Reservoir        | Bacterial Culture               | Virulence factors      | Diseases  | Treatment                  |
 |------------------+---------------------------------+------------------------+-----------+----------------------------|
 | Rabbits          | Gram negative coccobacillus     | Polysaccharide capsule | Tularemia | Streptomycin + doxycycline |
@@ -708,7 +717,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Regional lymph nodes enlarge and may become necrotic
   + Inhalation of an infective aerosol results in peribronchial inflammation and localized pneumonitis
 
-* 48. Brucella
+* 48.Brucella
 + gram negative coccobacilli
 | Reservoir                   | Bacterial culture               | Virulence factors  | Diseases      | Treatment              |
 |-----------------------------+---------------------------------+--------------------+---------------+------------------------|
@@ -721,7 +730,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + GI symptoms
   + Lymph nodes enlargement
   + Spleenomegaly
-* 49. Haemophilus
+* 49.Haemophilus
 + Gram negative coccobacilli
 *** Haemophilus Influenza
 | Reservoir            | Bacterial culture                                | Virulence factors | Diseases                  | Treatment                    |
@@ -739,7 +748,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           | ->Requires factor X and factor V | Cytolethal toxin: | Chancroid        |            |
 |           |                                  | ->Ulcer formation |                  |            |
 |-----------+----------------------------------+-------------------+------------------+------------|
-* 50. Miscellaneous Gram Negative bacteria (Legionella, Bartonella, Streptobacillus and Spirillum)
+* 50.Miscellaneous Gram Negative bacteria (Legionella, Bartonella, Streptobacillus and Spirillum)
 *** Legionella Pneumophilla
 + Transmission:
   + Inhalation of infected aerosols e.g infected air-conditioning system
@@ -797,7 +806,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Gram negative spiral shaped organism carried by rats
 + Causes a form of *rat fever(sodoku)*
   + Regional swelling with relapsing fever
-* 51. Anaerobic Gram positive cocci and Nonspore-forming Bacteria
+* 51.Anaerobic Gram positive cocci and Nonspore-forming Bacteria
 *** Peptococcus Niger
 + Opportunistic pathogen
 + Causes subacute purulent infections
@@ -808,7 +817,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Causes subacute purulent infections
 + May lead to necrotizing fasciitis
 + Can cause brain, liver and lung abscess
-* 52. Anaerobic Spore-Forming Bacteria- Clostridium
+* 52.Anaerobic Spore-Forming Bacteria- Clostridium
 + Gram positive motile rods
 + *Anaerobic*
 *** Clostridium difficile
@@ -846,7 +855,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |           |                          | ->Diarrhea                  |                             |                           |
 |-----------+--------------------------+-----------------------------+-----------------------------+---------------------------|
 
-* 53. Aerobic Spore-forming bacteria - Bacillus
+* 53.Aerobic Spore-forming bacteria - Bacillus
 + Gram positive, aerobic, rods
 *** Bacillus Anthracis
 | Reservoir      | Bacterial culture               | Virulence factors       | Diseases | Treatment        |
@@ -877,8 +886,8 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Emetic type -> causes vomitting 1-5hours after ingestion
 + Diarrheal type -> causes watery diarrhea 8-18 hours after ingestion
 
-* *54. Anaerobic
-* 55. Mycobacteria
+* *54.Anaerobic
+* 55.Mycobacteria
 + No cell wall -> Atypical gram stain bacteria
 *** M.Tuberculosis
 + Acid fast bacteria
@@ -918,7 +927,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Limited to few hypoesthetic *hairless skin plaques*
   + High cell mediated immunity, Th1 cell response
 
-* 56. Spirocehtes - Treponema
+* 56.Spirocehtes - Treponema
 *** Treponema pallidum
 + Visualized using:
   + Darkfiled microscopy
@@ -944,7 +953,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
     + Transplacental transmission occurs after first trimester
 + Diagnosed using VRDRL test -> nonspecific antibody reacts with beef cardiolipin
 + Treat with Penicillin -> Causes Jarisch-Herxheimer reaction ->Flu-like symptoms
-* 57. Spirochetes - Borellia
+* 57.Spirochetes - Borellia
 *** Borellia Burgdorferi
 + Transmitted by ixodes tick
 + Largest spirochete
@@ -962,14 +971,14 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Visible in light microscopy using *Wright or Giemsa stain*
 + Causes *Relapsing fever*
   + recurs because of surface antigen variation
-* 58. Spritochetes - Leptospira
+* 58.Spritochetes - Leptospira
 *** Leptospira Interrogans
 + Found in water infected by animal urine
 + Spiral shaped, use dark-field microscopy
 + Causes *Leptospirosis* -> Flue-like symptoms, myalgias and photophobia. Prevelant in surfers in tropical regions
 + Casues *Wel disease* -> Severe form of leptospirosis, jaundice, azotemia and anemia from liver and kidney dysfunction
 
-* 59. Mycoplasma and Ureaplasma
+* 59.Mycoplasma and Ureaplasma
 + both have *no cell wall*
 *** Mycoplasma Pneumonia
 | Reservoir   | Bacterial Culture                | Virulence factors         | Diseases                     | Treatment                |
@@ -992,7 +1001,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 |                  |                                  |                           |             |             |
 |------------------+----------------------------------+---------------------------+-------------+-------------|
 
-* 60. Rickettsia, Coxiella and Erhlichia
+* 60.Rickettsia, Coxiella and Erhlichia
 + *Obligate intreacellular bacteria
 *** Ricketsia spp.
 + Weakly gram negative coccobacilli, visibly with giemsa stain, obligate intracellular organisms
@@ -1031,7 +1040,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Flu-like symptoms(headache,myalgias)
   + Anemia
 + Treat with doxycycline
-* 61. Chlamydia
+* 61.Chlamydia
 + Obligate intracellular bacteria -> *cannot produce ATP* outside of host cell
 + 2 forms :
   + elemntary body -> infectious stage, enters host cells via endocytosis
@@ -1053,8 +1062,8 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 *** Chlamydia Psittaci
 + Atypical pneumonia, transmitted by birds. Common patient: works in pet shops/bird owner
 * *62.Human microbial Flora (Natural flora) in health and disease. Iatrogenic influences on the normal human flora- dysbacteriosis as a side effect of antibiotic, cytostatic and immunosuppression therapy
-* *63. Laboratory Diagnosis of viral diseases
-* 64. Picornavirus
+* *63.Laboratory Diagnosis of viral diseases
+* 64.Picornavirus
 + Fecal Oral transmission(Except Rhinovirus)
 + Includes Enterovirus(Coxsackievirus A/B, Echovirus, Poliovirus) and Hepatitis A
 + *Icosahedral capsid*
@@ -1093,7 +1102,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Anicteric hematitis in young children
   + Self limited infection that last 2 months, no carrier or chronic state
 + Inactivated vaccine available
-* 65. Paramyxoviruses
+* 65.Paramyxoviruses
 + Negative sense, linear, enveloped, single stranded RNA virus.
 + Helical capsid
 + Fusion protein(F-Protein) -> causes fusion of respiratory cells -> giant multinucleated cells formation
@@ -1121,7 +1130,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 *** Parainflunza
 + Common in young children
 + Causes laryngeotracheobronchitis -> bark like cough and steeple sign in X-ray
-* 66. Orthomyxovirus
+* 66.Orthomyxovirus
 + *Replicates in the nucleus*
 + segmented virus - 8 segments -> Antigenic variation
 + Hemagluttinin -> binds to sialic acid -> H1,H2,H3 antigens
@@ -1138,7 +1147,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Live, nasal vaccine
   + Influenza vaccine may cause Guillain bare syndrome -> Ascending paralysis
 
-* 67. Coronavirus, Calicivirus
+* 67.Coronavirus, Calicivirus
 *** Coronavirus
 + Positive, enveloped, single standed RNA virus
 + Helical capsid
@@ -1157,7 +1166,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Transmission fecal-oral
 + Causes nausea, acute vomiting and watery diarrhea
 + Supportive treatment
-* 68. Reovirus
+* 68.Reovirus
 + Naked, icosahdreal, double stranded RNA viruses
 + Segmented - 11 segments
 *** Rotavirus
@@ -1170,7 +1179,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Transmission by *dermacentor tick*
 + Flu-like symptoms
 + Treatment : Supportive
-* 69. Togaviruses, Flaviruses
+* 69.Togaviruses, Flaviruses
 *** Togaviruses
 + Enveloped, positive sense RNA virus
 + *Diseases* :
@@ -1218,7 +1227,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + In acute infections -> ALT will rise and fall by 6 months
   + In chronic infections -> Viral RNA will persist after 6 months, presents with cryoglobulins
     + Treatment : Ribavirin(Old) OR protease inhibitors
-* 70. Bunyaviridae, Nairovirus
+* 70.Bunyaviridae, Nairovirus
 *** Bunyaviridae
 + Single stranded negative sense RNA viruses
 + Arhtropods except Hantavirus
@@ -1233,7 +1242,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
 + Enveloped
 + 3 circular segments
 + Includes Crimean-Congo hemorrhagic fever
-* 71. Rhabdovirus
+* 71.Rhabdovirus
 + Negative sense single stranded RNA virus
 + *Bullet shaped*
 + Enveloped
@@ -1250,7 +1259,7 @@ A new kingdom *Protista* was created to include these organisms. Protista has be
   + Fever, encephalopathy
 + Treat with passive immunization(antibodies) and active immunization(killed vaccine)
 
-* 72. Poxviridae
+* 72.Poxviridae
 + Envloped, linear, DNA virus - The largest DNA viruses
 + Brick-shaped
 + Characteristic Inclusion bodies - Gournieri bodies
