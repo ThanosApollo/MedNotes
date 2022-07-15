@@ -29,9 +29,9 @@
 + Pasteur demonstrations prompted *Joseph Lister's* work on wound sepsis
   + He introduced the practice of protecting wounds from airborne microbes by applying antiseptic dressing and making medical workers wash their hands with antiseptic solution before they touch a patient, achieving striking success at reducing mortality due to sepsis
 + Pasteur developed vaccines against chicken and cholera by using attenuated suspension of bacteria
-#+attr_html: :width 100px
-#+attr_html: :height 100px
-[[file:~/Pictures/Pasteur]]
+#+attr_html: :width 200px
+#+attr_html: :height 200px
+[[file:~/Med/MedNotes/Pictures/Pasteur.jpg]]
 
 * 2.Bacterial Taxonomy - Classification, Nomeclatures, Identification
 *** Classification
