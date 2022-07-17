@@ -15,24 +15,41 @@
 [[9.Bacterial growth and cell division]]
 [[10.Bacterial Genetics: DNA- the genetic material-structure, replication and function]]
 [[11.Bacterial Genetics : Mutation, recombination and DNA exchange]]
-
 *** Bacteria
 *** Viruses
 * TODO 1.Introduction - History and Subject
 *** History
 + Microbiology is the study of living organisms of microscopic size
   + The term was introduced by the French chemist *Louis Pasteur*, considered to be the 'Father of Microbiology'
-+ For many years it was believed that the microorganisms arose from dead, especially decomposed organic matter.
++ For many years it was believed that the microorganisms arose from dead, especially from decomposed organic matter.
   + This was known as /theory of spontaneous generation/
 + Louis pasteur generated strong evidence to  show that the microorganisms did not arise /de novo/ in the media but were introduced from without
 + Showed that microorganisms were inactivated by boiling at 120C(autoclaved) and 170C(hot air over)
 + Pasteur demonstrations prompted *Joseph Lister's* work on wound sepsis
   + He introduced the practice of protecting wounds from airborne microbes by applying antiseptic dressing and making medical workers wash their hands with antiseptic solution before they touch a patient, achieving striking success at reducing mortality due to sepsis
-+ Pasteur developed vaccines against chicken and cholera by using attenuated suspension of bacteria
++ Pasteur developed vaccines against chicken cholera and anthrax by using attenuated suspension of bacteria
 #+attr_html: :width 200px
 #+attr_html: :height 200px
-[[file:https://github.com/ThanosApollo/MedNotes/blob/developer/Pictures/Pasteur.jpg]]
-
+[[https://github.com/ThanosApollo/MedNotes/blob/developer/Pictures/Pasteur.jpg]]
+*** Subject
++ Medical microbiology is the biologogical study of bacteria, viruses, fungi, protozoa and large algae whcih are collectively called as microorganisms
+  + Characteristics of Microscopic organisms :
+    + *M* = Microscopic
+    + *I* = Independent units
+    + *C* = Complex -> less than plants and animals
+    + *R* = Rapid growth rates
+    + *O* = Omnipresent (present everywhere)
++ Medical microbiology is concerned with aeteology, pathogenesis, labaratory diagnosis and treatment of infections, as well as with epidemiology and control of infection in a community
++ Branches of microbiology include :
+  + Bacteriology : study of bacteria
+  + Mycology : study of fungi, includes both microscopic forms(molds and yeasts) and larger forms(mushrooms)
+  + Parasitology : Study of parasites
+  + Virology : Study of viruses
+  + Immunology : Study of body defenses that protect against infection
+  + Microbial taxonomy : Study of classification, naming and identification of organisms
+  + Biotechnology : Use of systems or process of organisms to arrive at a desired product
+  + Genetic engineering : Involves techniques that deliberately alter genetic make-up of organisms to introduce new compounds/genetic combinations
+    
 * 2.Bacterial Taxonomy - Classification, Nomeclatures, Identification
 *** Classification
 + Categorization of organisms into taxonomic groups
@@ -53,7 +70,7 @@
 + Form the basis for the organization of bacteria, Linnaean taxonomy uses formal taxonomic tanks.
 | Formal Rank | Example                 |
 |-------------+-------------------------|
-| Kingdom     | Prokaryotes             |
+| Kingdom     | Protista/Prokaryotes    |
 | Divison     | Gracilicutes            |
 | Class       | Scotobacteria           |
 | Order       | Eubacteriaceae          |
@@ -63,15 +80,24 @@
 | Subtype     | Escherichia coli O157:7 |
 |-------------+-------------------------|
 
-/Traditionally, all living objects had been divided into plant and animla kingdom.
-There are some organisms that do not fulfil criteria for either of the two kingdoms.
-A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes./
++ /Traditionally, all living objects had been divided into plant and animal kingdom/
++ There are some organisms that do not fulfil criteria for either of the two kingdoms.
++ A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes
+
 * 3.Bacterial Morphology
-*** Shapes
+*** Morphology and Shapes
 + Bacteria can have either of the three shapes
   + Cocci /e.g S.Aureus/
   + Bacilli(rods) /e.g Pseudomonas Aeruginosa/
-  + Spirochets /e.g Borrelia/
+    + Filaments :  long threads of bacilli which have not seperated into single cells e.g Nocardia
+    + Curved bacterial rods, e.g Vibrio cholerae
+  + Spirillar/Spirochets /e.g Borrelia/
++ When examined from outside, bacteria have :
+  + *Surface adherents and appendages*
+    + Capsule and Slime layer -> collectively called as glycocalyx
+  + Cell wall
+  + Cytoplasm
+  + Nucleus
 *** Cell wall / Gram stain
 + Chemically formed by N-acetyl glucosamine and N-acetyl muramic acid molecules alternating in chains, /which are cross linked by peptide chains/
 + Bacteria are classified as /gram positive/ or /gram negative/ depending on their cell wall characteristics
