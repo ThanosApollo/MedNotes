@@ -3,7 +3,7 @@
 #+description: Personal notes of microbiology, according to the syllabus of MU-Sofia 2022
 
 * 32.Staphyloccous
-*** Characteristic:
+** Characteristic:
 + *Spherical cocci, grow in clusters*
 + absence of endospores
 + non-motile
@@ -12,7 +12,7 @@
 + *Catalase positive*
 + Present on skin and mucous membranes
 + Staphyloccous Aureus is the only coagulase positive Staphylococci
-*** S.Aureus
+** S.Aureus
 | Reservoir | Bacterial culture    | Virulence factors            | Diseases                     | Treatment                  |
 |-----------+----------------------+------------------------------+------------------------------+----------------------------|
 | Skin      | Gold-yellow colonies | Enzymes:                     | Cellulitis                   | MSSA                       |
@@ -30,23 +30,23 @@
 |           |                      | - Modified PNB(in MRSA)      |                              |                            |
 |           |                      | - Capsular polysaccharides   |                              |                            |
 |           |                      |                              |                              |                            |
-*** Staphylococcus epidermidis
+** Staphylococcus epidermidis
 | Reservoir | Bacterial culture       | Virulence factors  | Diseases                            | Treatment   |
 |-----------+-------------------------+--------------------+-------------------------------------+-------------|
 | Skin      | *Novobiocin-sensitive*  | Urease producer    | Foreign body infections             | Clindamycin |
 |           | Catalase +              | Biofilm production | e.g catheters or prosthetic devices | Vancomycin  |
 |           | *Mannitol nonfermenter* |                    |                                     |             |
-*** Staphylococcus saprophyticus
+** Staphylococcus saprophyticus
 | Resevoir             | Bacterial Culture    | Virulence factors | Diseases | Treatment              |
 |----------------------+----------------------+-------------------+----------+------------------------|
 | female genital tract | Novobiocin-resistant | Urease producer   | UTIs     | TMP/SMX                |
 |                      |                      |                   |          | Amoxcillin-clavulanate |
 * 33.Streptococcus - group A, B and other Beta-hemolytic streptococci
-*** Characteristics
+** Characteristics
 + All streptococci are catalase negative(-)
 + Susceptible to penicillin
 + Commonly arranged in chains
-*** Group A - Streptococcus pyogenes
+** Group A - Streptococcus pyogenes
 | Resrvoir   | Bacterial Culture      | Virulence Factors                                   | Diseases                               | Treatment   |
 |------------+------------------------+-----------------------------------------------------+----------------------------------------+-------------|
 | Orophatynx | Chain like arrangement | Toxins:                                             | Head and neck                          | Penicillin  |
@@ -65,7 +65,7 @@
 |            |                        |                                                     | - Poststreptococcal glomerulonephritis |             |
 |------------+------------------------+-----------------------------------------------------+----------------------------------------+-------------|
 
-*** Group B - Streptococcus Agalactiae
+** Group B - Streptococcus Agalactiae
 + Primarly affects babies (-B for babies)
 | Reservoir     | Bacterial cutlure                             | Virulence factors | Diseases            | Treatment              |
 |---------------+-----------------------------------------------+-------------------+---------------------+------------------------|
@@ -79,7 +79,7 @@
 |               | PYR negative                                  |                   |                     |                        |
 |---------------+-----------------------------------------------+-------------------+---------------------+------------------------|
 
-*** Other Beta hemolytic streptococci
+** Other Beta hemolytic streptococci
 **** Streptococcus Gallolyticus
 | Reservoir | Bacterial Culture                 | Virulence factors | Diseases               | Treatment              |
 |-----------+-----------------------------------+-------------------+------------------------+------------------------|
@@ -88,11 +88,11 @@
 |           | beta hemolysis or gamma hemolysis |                   | *Colorectal Carcinoma* |                        |
 |-----------+-----------------------------------+-------------------+------------------------+------------------------|
 * 34.Streptococcus - Viridans streptococci, Streptococcus pneumoniae, Enterococcus
-*** Characteristics
+** Characteristics
 + All Streptococci are catalase negative
 + Usually suceptible to penicillins
 + Chain like arrangement
-*** Viridans streptococci
+** Viridans streptococci
 + Includes S.Mitis, S.Mutans and S.Sanguinis
 | Reservoir  | Bacterial culture      | Virulence Factors                             | Diseases                        | Treatment    |
 |------------+------------------------+-----------------------------------------------+---------------------------------+--------------|
@@ -102,7 +102,7 @@
 |            |                        | - by S.Mutans and S.Mitis                     | - By S.Sanguinis                |              |
 |------------+------------------------+-----------------------------------------------+---------------------------------+--------------|
 
-*** Streptococcus Pneumoniae
+** Streptococcus Pneumoniae
 | Reservoir   | Bacterial Cutlure                  | Virulence Factors         | Diseases     | Treatment     |
 |-------------+------------------------------------+---------------------------+--------------+---------------|
 | Nasopharynx | *Optochin sensitive*               | Capsulaer Polysaccharides | Otitis media | Penicillin    |
@@ -111,7 +111,7 @@
 |             | lancet-shaped diplococci in chains |                           | *Meningitis* |               |
 |-------------+------------------------------------+---------------------------+--------------+---------------|
 
-*** Enterococcus
+** Enterococcus
 + 2 species:
   + E.Facium - Less common, resistant to vancomycin
   + E.Faecalis - More common, not resistant to vancomycin
@@ -143,7 +143,7 @@
   + Systemic featues :
     + Myocarditis
 * 36.Listeria, Gardnerella
-*** Listeria Monocytogenes
+** Listeria Monocytogenes
 | Resevoir                     | Bacterial culture                              | Virulence factors | Diseases               | Treatment  |
 |------------------------------+------------------------------------------------+-------------------+------------------------+------------|
 | Unpasteurized dairy products | Facultative anaerobe                           | Actin rocket tail | Listeriosis            | Ampicillin |
@@ -159,7 +159,7 @@
   + *Meningitis*
   + Sepsis
   + Granulomatosis infantiseptica
-*** Gardnerella Vaginalis
+** Gardnerella Vaginalis
 | Reservoir            | Bacterial culture                   | Virulence factors | Diseases            | Treatment     |
 |----------------------+-------------------------------------+-------------------+---------------------+---------------|
 | Normal vaginal flora | Gram variable rod                   | Pili              | Bacterial vaginosis | Metronidazole |
