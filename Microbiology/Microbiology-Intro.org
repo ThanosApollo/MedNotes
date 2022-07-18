@@ -1,0 +1,279 @@
+#+title: Microbiology Intro
+
+
+
+* TODO 1.Introduction - History and Subject
+*** History
++ Microbiology is the study of living organisms of microscopic size
+  + The term was introduced by the French chemist *Louis Pasteur*, considered to be the 'Father of Microbiology'
++ For many years it was believed that the microorganisms arose from dead, especially from decomposed organic matter.
+  + This was known as /theory of spontaneous generation/
++ Louis pasteur generated strong evidence to  show that the microorganisms did not arise /de novo/ in the media but were introduced from without
++ Showed that microorganisms were inactivated by boiling at 120C(autoclaved) and 170C(hot air over)
++ Pasteur demonstrations prompted *Joseph Lister's* work on wound sepsis
+  + He introduced the practice of protecting wounds from airborne microbes by applying antiseptic dressing and making medical workers wash their hands with antiseptic solution before they touch a patient, achieving striking success at reducing mortality due to sepsis
++ Pasteur developed vaccines against chicken cholera and anthrax by using attenuated suspension of bacteria
+#+attr_html: :width 200px
+#+attr_html: :height 200px
+*** Subject
++ Medical microbiology is the biologogical study of bacteria, viruses, fungi, protozoa and large algae whcih are collectively called as microorganisms
+  + Characteristics of Microscopic organisms :
+    + *M* = Microscopic
+    + *I* = Independent units
+    + *C* = Complex -> less than plants and animals
+    + *R* = Rapid growth rates
+    + *O* = Omnipresent (present everywhere)
++ Medical microbiology is concerned with aeteology, pathogenesis, labaratory diagnosis and treatment of infections, as well as with epidemiology and control of infection in a community
++ Branches of microbiology include :
+  + Bacteriology : study of bacteria
+  + Mycology : study of fungi, includes both microscopic forms(molds and yeasts) and larger forms(mushrooms)
+  + Parasitology : Study of parasites
+  + Virology : Study of viruses
+  + Immunology : Study of body defenses that protect against infection
+  + Microbial taxonomy : Study of classification, naming and identification of organisms
+  + Biotechnology : Use of systems or process of organisms to arrive at a desired product
+  + Genetic engineering : Involves techniques that deliberately alter genetic make-up of organisms to introduce new compounds/genetic combinations
+
+
+* 2.Bacterial Taxonomy - Classification, Nomeclatures, Identification
+*** Classification
++ Categorization of organisms into taxonomic groups
++ Requires experimental and observational techniques
+  + Biochemical, physiologic, genetic and morphologic properties are necessary for a taxon description
+*** Nomeclature
++ Naming of the organism by international rules, according to it's characteristics
+  + First word(Genus) is always capitalized
+  + Second word(Species) is not capitalized
+    /e.g Escherichia Coli/
+*** Identification
++ Practical use of classification scheme to:
+  + Isolated and distinguish desirable organism
+  + Verify the authenticity or special properties of a culture
+  + *Isolated and identify causative agent of disease*
+
+**** Taxonomic ranks
++ Form the basis for the organization of bacteria, Linnaean taxonomy uses formal taxonomic tanks.
+| Formal Rank | Example                 |
+|-------------+-------------------------|
+| Kingdom     | Protista/Prokaryotes    |
+| Divison     | Gracilicutes            |
+| Class       | Scotobacteria           |
+| Order       | Eubacteriaceae          |
+| Family      | Enterobacteriaceae      |
+| Genus       | Escherichia             |
+| Species     | Coli                    |
+| Subtype     | Escherichia coli O157:7 |
+|-------------+-------------------------|
+
++ /Traditionally, all living objects had been divided into plant and animal kingdom/
++ There are some organisms that do not fulfil criteria for either of the two kingdoms.
++ A new kingdom *Protista* was created to include these organisms. Protista has been divided into Viruses, Prokaryotes and Eukaryotes
+
+* 3.Bacterial Morphology
+*** Morphology and Shapes
++ Bacteria can have either of the three shapes
+  + Cocci /e.g S.Aureus/
+  + Bacilli(rods) /e.g Pseudomonas Aeruginosa/
+    + Filaments :  long threads of bacilli which have not seperated into single cells e.g Nocardia
+    + Curved bacterial rods, e.g Vibrio cholerae
+  + Spirillar/Spirochets /e.g Borrelia/
++ When examined from outside, bacteria have :
+  + *Surface adherents and appendages*
+    + Capsule and Slime layer -> collectively called as glycocalyx
+  + Cell wall
+  + Cytoplasm
+  + Nucleus
+*** Cell wall / Gram stain
++ Chemically formed by N-acetyl glucosamine and N-acetyl muramic acid molecules alternating in chains, /which are cross linked by peptide chains/
++ Bacteria are classified as /gram positive/ or /gram negative/ depending on their cell wall characteristics
+  + Violet stain is applied to bacteria, followed by a decolarizing agent and a red stain
+  + Those who walls retain violet(blue) dye are Gram Positive
+  + Those that appear red, not having retained the first dye are Gram-Negativeo
+
+| *Gram Positive*                                            | *Gram Negative*                                                            |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                      |
+| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                               |
+| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                 |
+|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)          |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain |
+| -> Results in blue color                                   | -> Results in pink color                                                   |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| No periplasmic space                                       | Contains periplasmic space                                                 |
+| No porin proteins                                          | Contains porin proteins                                                    |
+| Primarily produces exotoxins                               | Primarily produces endotoxins                                              |
+| Contains Teichnoic acids                                   | No Teichnoic acids                                                         |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
++ Gram positive bacteria examples
+  + *Gram positive cocci*
+    + Staphyloccous - forms clusters of cocci
+    + Streptococcus - forms chains of cocci(diplococci)
+  + *Gram positive bacilli*
+    + Bacillus - forms spores
+    + Clostridium - forms spores
+    + Corynebacterium - doesn't produce spores
+    + Listeria - doesn't produce spores
++ Gram negative bacteira examples
+  + Neisseria - cocci(diplococci)
+  + Pseudomonas - Bacilli
+  + E.coli - Bacilli
++ Exceptions include :
+  + Mycobacteria - acid fast bacteria, require Ziehl-Neelsen stain /e.g M.Tuberculosis/
+  + Mycoplasma - Lack cell wall
+  + Spirochetes - Require darkfield microscopy
+
+* 4.Bacterial ultrastructure - Eukaryotes and prokaryotes. Cytoplasmic structures
+*** Eykaryotes and Prokatyores
++ Prokaryotes are characterised by :
+  + Primitive nucleus
+  + Complex cell envelope
+  + smaller ribosome(70s)
+  + peptidoglycan layer
++ Eukaryotes have '/true nucleus/'
+| *Characteristic*         | *Eukaryotes*                            | *Prokaryotes*                       |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Major groups             | Algae, fungi, protozoa, plants, animals | Bacteria                            |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| *Nuclear Structures*     |                                         |                                     |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Nucleus                  | Classic membrane                        | No nuclear membrane                 |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Chromosomes              | Strands of DNA, Diploid genome          | Single, circular DNA Haploid genome |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| *Cytoplasmic Structures* |                                         |                                     |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Mitochondria             | Present                                 | Absent                              |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Golgi                    | Present                                 | Absent                              |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Cytoplasmic membrane     | Contains sterols                        | Does not contain sterols            |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Reproduction             | Sexual and asexual                      | Asexual(binary fission)             |
+|--------------------------+-----------------------------------------+-------------------------------------|
+| Respiration              | Via mitochondria                        | Via cytoplasmic membrane            |
+
+*** Bacterial structures
++ *Nucleoid*
+  + Bacterial DNA which typically comprises of a single circle of double-stranded DNA
+  + Histones are not present to maintain conformation of DNA
+  + DNA does not form nucleus
++ *Plasmid*
+  + smaller genetic structures that can replicate independently of chromosomes
++ *Cytoplasmic inclusions*
+  + Metachromatic granules that serve as a nutrient reserve
+* 5.Bacterial ultrastructure - cell wall, structure and biosynthesis of bacterial cell wall. Bacterial exceptions in the cell wall structure
+*** Cell wall
++ Distinguishes gram positive from gram negative bacteria
+| *Gram Positive*                                            | *Gram Negative*                                                            |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Comprise of 2 layers:                                      | Comprise of 3 layers:                                                      |
+| > Inner cytoplasmic membrane                               | > Inner cytoplasmic membrane                                               |
+| > Outer(thick and multilayred) peptidoglycan layer         | > A thin(single layer) peptidoglycan layer                                 |
+|                                                            | > An outer membrane containing LPS-Lipopolysaccharide(Endotoxins)          |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| Thick peptidoglycan wall, traps crystal violet(blue color) | Thin peptidoglycan wall, does not trap crystal violet, retain coutnerstain |
+| -> Results in blue color                                   | -> Results in pink color                                                   |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+| No periplasmic space                                       | Contains periplasmic space                                                 |
+| No porin proteins                                          | Contains porin proteins                                                    |
+| Primarily produces exotoxins                               | Primarily produces endotoxins                                              |
+| Contains Teichnoic acids                                   | No Teichnoic acids                                                         |
+|------------------------------------------------------------+----------------------------------------------------------------------------|
+
++ Bacterial exceptions
+  + Mycobacteria -> consist of mycolic acids
+  + Chlamydia -> muramic acid
+  + Mycoplasma -> No cell wall, incoporates sterols
+* 6.Bacterial ultrastructure - external structures
++ *Capsules* - Glycocalyx
+  + Some bacteria are closely surrounded by loose polysaccharide or protein layers called capsules
+  + Functions of capsules:
+    + Protein against phagocytosis
+    + K-Antigen polysaccharides, protect from immune system
+    + Promote adherance
++ Flagella
+  + Aid motillity
++ Pili
+  + Adherance
+  + Sex pili promotes conjugation -> plasmid transfer
+* 7.Bacterial ultrastructure - spores
++ Bacterial endospores are the most resistant cells
++ Spore = dehydrated, multishelled structure, dormant
++ Formed when nutriends are limited
+  + Allows bacteria to survive extreme conditions
+  + Spores lack metabolic activity
+  + Core contains dipicolinic acid -> responsible for heat resistance
++ Must autoclave to kill spores
++ Hydrogen peroxide and iodine based agents are also sporocidal
+
+* 8.Bacterial Metabolism
++ Bacterial metabolism refers to biochemical reactions that occur within a bacterium
++ Bacterial can be further classified according to their metabolic process i.e how they deal with oxygen, how they deal with their carbon energy source as well as the end products they produce
++ Classification according to oxygen utilization
+  + Obligate Aerobes
+    + Cannot survive without oxygen
+    + Require oxygen for growth
+    + Use O2 as final e- acceptor in aerobic respiration
+  + Obligate Anaerobes
+    + Cannot survive in the presence of oxygen
+    + Don't need O2 as nutrient
+    + Survive by fermentation and anaerobic respiration
+  + Facultative anaerobes
+    + Prefer O2 but can grow without it
+* 9.Bacterial growth and cell division
+*** Bacterial growth requirments
++ Effects of pH
+  + Acidophiles -> prefer acidic enviroments e.g mycobacteria
+  + Neutrophils -> neutral pH
+  + Alkaliphiles -> alkaline environments e.g Vibrio cholerae
++ Effects of Temperatrue
+  + Psychophiles -> prefer cold
+  + Mesophiles -> prefer 37C
+  + Thermophiles -> prefer hot > 45C
+*** Bacterial Cell division
++ Grow and replicate by binary fission
++ Asexual type of cell division
+  + two identical daughter cells are formed
+* 10.Bacterial Genetics: DNA- the genetic material-structure, replication and function
++ Genetics is the science of hereditary and variability of organisms, including microorganisms
+*** Genetic material-structure
++ Bacterial genome consists of :
+  + Bacterial chromosome
+  + Plasmids
+  + Transpons
+  + Integrons
++ *Bacterial chromosome*
+  + A single circular haploid circular molecule
+  + Bacterial DNA is *supercoiled* due to DNA gyrase
++ *Plasmids*
+  + Extrachromosomal, non-essential, replicate independently of bacterial chromosome, smaller than chromosome
+  + Carry genes for virulence factors or antiobiotic resistance
++ *Transpons*
+  + /known as jumping genes/
+  + Transfer genes from one place to another or between different DNA molecules i.e plasmid -> chromosome
++ *Integrons*
+  + Contains cassettes of resistance genes and together with transponosons play important role in dissemination of antimicrobial resistance
+*** Replication
++ Replication is initiated at Ori C
++ Helicase unwinds double helix -> replication fork
++ Primase synethesizes Primer
++ DNA polymerase synthesizes a copy of DNA in 5-3 direction, leading and lagging strands
++ DNA ligase 'glues' pieces of DNA on lagging strand
+*** Function
++ Bacteria don't have any introns or exons
++ Genes are organized into operons
++ Operon = Genes that are *controlled by operator*
++ /e.g Lac Operon in E.Coli/
+* 11.Bacterial Genetics : Mutation, recombination and DNA exchange
++ *Transformation*:
+  + Competent bacteria can bind and import pieces of environmental naked bacterial DNA
++ *Conjugation*
+  + Transfer of dna material using plasmids
++ *Transduction*
+  + Generalized -> A *packaging* error. Lytic phage infects bacterium, leading to cleavage of bacterial DNA. Parts of bacterial chromosomal DNA may become packaged in phage capsid, phage infects another bacterium, transferring these genes
+  + Speciliazed -> An *excision* event.
+    + Lysogenic phage infects bacterium
+    + Viral DNA incoporates into bacterial chromosome
+    + When phage DNA is excised, bacterial genes may be excised with it
+    + DNA is packaged into phage capsid and can infect another bacterium
